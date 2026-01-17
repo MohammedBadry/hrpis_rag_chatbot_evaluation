@@ -18,3 +18,4 @@
 *** docs (pdf file for GJU regulations and Jordan Tax law): .\public_dir\chatbot-ingest\docs
 *** chatbot-ingest script: .\public_dir\chatbot-ingest
 *** chatbot-calls script: .\public_dir\chatbot-calls
+
