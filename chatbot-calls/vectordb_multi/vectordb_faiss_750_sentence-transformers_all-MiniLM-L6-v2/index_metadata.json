@@ -1,0 +1,8 @@
+{
+  "index_dir": "vectordb_multi\\vectordb_faiss_750_sentence-transformers_all-MiniLM-L6-v2",
+  "chunk_size": 750,
+  "chunk_overlap": 50,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "num_chunks": 2260,
+  "created_at": "2025-11-04T11:26:17.242700Z"
+}

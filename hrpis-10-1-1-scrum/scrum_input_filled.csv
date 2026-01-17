@@ -1,0 +1,46 @@
+ID,Title,Feature,Is Defect,Bugs Fixed,Added Sprint,Planned Sprint,Parent Sprint,Week 1,Week 2,Week 3,Week 4,Status,Total Completion,Done,Priority,Assigned To,Defects Found,Defects Fixed,Escaped Defects
+US-001,Task 1,Univ. Entities,0,,1,1,,35,65,0,0,in progress,,,,H,,,
+US-002,Task 2,HR Setup Tables,0,,1,1,,0,0,60,40,in progress,,,,H,1,1,
+US-003,Task 3,HR Setup Tables,0,,1,2,,100,0,0,0,in progress,,,,H,2,2,1
+US-004,Task 4,Tax Laws,0,,1,2,,0,20,50,30,in progress,,,,H,2,2,1
+US-005,Task 5,Social Sec.,0,,1,2,,100,0,0,0,in progress,,,,H,,,
+US-006,Task 6,Health Ins. Def.,0,,1,3,,30,40,30,0,in progress,,,,H,4,4,2
+US-007,Task 7,Salary Def. Tables,0,,1,1,,25,25,25,25,in progress,,,,A,1,1,
+US-008,Task 8,Salary Def. Tables,0,,1,2,,100,0,0,0,in progress,,,,A,1,1,1
+US-009,Task 9,Allowance Types,0,,1,2,,25,75,0,0,in progress,,,,A,3,3,1
+US-010,Task 10,Deduction Types,0,,1,2,,0,25,50,25,in progress,,,,A,4,4,2
+US-011,Task11,Salary Slip Items,0,,1,3,,50,50,0,0,in progress,,,,A,2,2,2
+US-012,Task 12,Salary Slip Tmplts,0,,1,3,,0,0,50,50,in progress,,,,A,1,1,
+US-013,Task 13,Upload Telephones,0,,1,4,,100,0,0,0,in progress,,,,H,2,2,1
+US-014,Task 14,Upload Assoc. Fees,0,,1,4,,100,0,0,0,in progress,,,,A,1,1,1
+US-015,Task 15,Post Emp Allowances,0,,3,4,,0,30,40,30,in progress,,,,H,3,3,2
+US-016,Task 16,Post Emp Deductions,0,,3,4,,0,30,40,30,in progress,,,,A,4,4,3
+US-017,Task 17,Emp Health Ins.,0,,3,5,,25,25,40,10,in progress,,,,H,2,2,2
+US-018,Task 18,Emp Allow/Ded,0,,3,5,,30,30,25,15,in progress,,,,A,4,4,3
+US-019,Task 19,Read Salary HR Input,0,,3,3,,25,25,25,25,in progress,,,,F,1,1,
+US-020,Task 20,Read SalaryPayroll Input,0,,3,4,,25,25,25,25,in progress,,,,F,1,1,
+US-021,Task 21,Read Salary Health/Tax/Soc.,0,,3,5,,25,25,25,25,in progress,,,,F,4,4,1
+US-022,Task 22,HR Reports,0,,4,6,,25,25,25,25,in progress,,,,H,2,2,1
+US-023,Task 23,Payroll Reports,0,,4,6,,25,25,25,25,in progress,,,,A,1,1,2
+US-024,Task 24,Individual Salary Computation,0,,3,6,,25,25,25,25,in progress,,,,F,10,10,6
+US-025,Task 25,Bulk Salary Computation,0,,3,7,,25,30,35,10,in progress,,,,F,4,4,3
+US-026,Task 26,HR Reports,0,,4,7,,25,25,25,25,in progress,,,,H,1,1,3
+US-027,Task 27,Payroll Reports,0,,4,7,,25,25,25,25,in progress,,,,A,2,2,4
+US-028,Task 28,Retroactive Salary Calcs.,0,,6,8,,25,25,25,25,in progress,,,,F,5,5,2
+US-029,Task 29,View Salary Slips,0,,6,8,,25,25,25,25,in progress,,,,H,1,1,
+US-030,Task 30,Generate Tax Slips,0,,6,8,,25,25,25,25,in progress,,,,A,4,4,3
+US-031,Task 31,View Aca Salary Scale,0,,6,9,,30,30,40,0,in progress,,,,H,1,1,
+US-032,Task 32,View Admin Salary Scale,0,,6,9,,30,40,30,0,in progress,,,,A,2,2,
+US-033,Task 33,Salary Reports,0,,6,9,,25,25,25,25,in progress,,,,F,5,5,2
+US-034,Task 34,Alpha Test,0,,1,10,,25,25,25,25,in progress,,,,TEAM,15,15,0
+US-036,Task 36,Beta Test,0,,1,11,,25,25,25,25,in progress,,,,Fin/HR,8,8,0
+US-037,Task 37,Bug Fixing,1,2,2,2,1,25,25,25,25,in progress,,,,TEAM,,,
+US-038,Task 38,Bug Fixing,1,12,3,3,2,25,25,25,25,in progress,,,,TEAM,,,
+US-039,Task 39,Bug Fixing,1,8,4,4,3,25,25,25,25,in progress,,,,TEAM,,,
+US-040,Task 40,Bug Fixing,1,11,5,5,4,25,25,25,25,in progress,,,,TEAM,,,
+US-041,Task 41,Bug Fixing,1,10,6,6,5,25,25,25,25,in progress,,,,TEAM,,,
+US-042,Task 42,Bug Fixing,1,9,7,7,6,25,25,25,25,in progress,,,,TEAM,,,
+US-043,Task 43,Bug Fixing,1,6,8,8,7,25,25,25,25,in progress,,,,TEAM,,,
+US-044,Task 44,Bug Fixing,1,4,9,9,7,25,25,25,25,in progress,,,,TEAM,,,
+US-045,Task 45,Bug Fixing,1,5,10,10,8,25,25,25,25,in progress,,,,TEAM,,,
+US-046,Task 46,Bug Fixing,1,2,11,11,9,25,25,25,25,in progress,,,,TEAM,,,

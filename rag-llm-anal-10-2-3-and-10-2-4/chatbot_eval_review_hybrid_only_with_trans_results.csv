@@ -1,0 +1,1053 @@
+run_id,subrun_id,question,context_type,chunk_size,top_k,model,embedding_model,answer,latency_sec,reviewer1_score,reviewer2_score,citation_present,confidence_score,timestamp,faq_fallback_used
+1,1,"Basic salary (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff at the University is defined as follows:
+
+- **Professor**: 851 JOD to 401 JOD
+- **Associate Professor**: 439 JOD to 354 JOD
+- **Assistant Professor**: 341 JOD to 301 JOD
+- **Practicing Professor**: 340 JOD to 300 JOD
+- **Lecturer**: 268 JOD to 228 JOD
+- **Assistant Lecturer**: 191 JOD to 95 JOD
+
+For administrative staff, the basic salary scale is defined as follows:
+
+- **First Class**:
+  - A: 494 JOD to 359 JOD
+  - B: 315 JOD to 279 JOD
+- **Second Class**:
+  - A: 258 JOD to 230 JOD
+  - B: 214 JOD to 186 JOD
+- **Third Class**:
+  - A: 189 JOD to 165 JOD
+  - B: 157 JOD to 133 JOD
+- **Fourth Class**:
+  - A: 145 JOD to 121 JOD
+  - B: 111 JOD to 87 JOD
+- **Fifth Class**: 85 JOD to 65 JOD
+- **Sixth Class**: 62 JOD to 46 JOD
+- **Seventh Class**: 46 JOD to 34 JOD
+
+For students, there is no mention of a basic salary in the provided documents. [gju_payroll_laws.pdf]",16.96598911,10,10,TRUE,0.568131608,1763195654,FALSE
+1,2,"Basic salary? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff at the German Jordanian University varies based on rank:
+
+- Professor: 851 JOD (Class A) to 401 JOD (Class B) [gju_payroll_laws.pdf]
+- Associate Professor: 439 JOD (Class A) to 354 JOD (Class B) [gju_payroll_laws.pdf]
+- Assistant Professor: 341 JOD (Class A) to 288 JOD (Class B) [gju_payroll_laws.pdf]
+- Practicing Professor: 340 JOD (Class A) to 268 JOD (Class B) [gju_payroll_laws.pdf]
+- Lecturer: 264 JOD (Class A) to 205 JOD (Class B) [gju_payroll_laws.pdf]
+- Assistant Lecturer: 191 JOD (Class A) to 95 JOD (Class B) [gju_payroll_laws.pdf]
+
+For administrative staff, the basic salary scale is as follows:
+
+- First Class: 494 JOD (Class A) to 279 JOD (Class B) [gju_payroll_laws.pdf]
+- Second Class: 258 JOD (Class A) to 214 JOD (Class B) [gju_payroll_laws.pdf]
+- Third Class: 189 JOD (Class A) to 157 JOD (Class B) [gju_payroll_laws.pdf]
+- Fourth Class: 145 JOD (Class A) to 111 JOD (Class B) [gju_payroll_laws.pdf]
+- Fifth Class: 85 JOD [gju_payroll_laws.pdf]
+- Sixth Class: 62 JOD [gju_payroll_laws.pdf]
+- Seventh Class: 46 JOD [gju_payroll_laws.pdf]",44.83773184,10,10,TRUE,0.609462326,1763195699,FALSE
+1,3,"What is the basic salary? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff at the German Jordanian University varies based on rank:
+
+- Professor: 851 JOD (Class A) to 401 JOD (Class B) [gju_payroll_laws.pdf]
+- Associate Professor: 439 JOD (Class A) to 354 JOD (Class B) [gju_payroll_laws.pdf]
+- Assistant Professor: 341 JOD (Class A) to 288 JOD (Class B) [gju_payroll_laws.pdf]
+- Practicing Professor: 340 JOD (Class A) to 268 JOD (Class B) [gju_payroll_laws.pdf]
+- Lecturer: 264 JOD (Class A) to 205 JOD (Class B) [gju_payroll_laws.pdf]
+- Assistant Lecturer: 191 JOD (Class A) to 95 JOD (Class B) [gju_payroll_laws.pdf]
+
+For administrative staff, the basic salary scale is as follows:
+
+- First Class: 494 JOD (Class A) to 279 JOD (Class B) [gju_payroll_laws.pdf]
+- Second Class: 258 JOD (Class A) to 214 JOD (Class B) [gju_payroll_laws.pdf]
+- Third Class: 189 JOD (Class A) to 157 JOD (Class B) [gju_payroll_laws.pdf]
+- Fourth Class: 145 JOD (Class A) to 111 JOD (Class B) [gju_payroll_laws.pdf]
+- Fifth Class: 85 JOD [gju_payroll_laws.pdf]
+- Sixth Class: 62 JOD [gju_payroll_laws.pdf]
+- Seventh Class: 46 JOD [gju_payroll_laws.pdf]
+
+For students, there is no mention of a basic salary in the provided documents.",18.58074474,10,10,TRUE,0.589968057,1763195718,FALSE
+1,4,"What is the basic salary definition? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Based on the provided documents, the basic salary for academic staff and administrative staff is defined as follows:
+
+- **Academic Staff:**
+  - The basic salary scale for academic staff is defined according to their ranks. For example:
+    - Professor: 401 to 851 JOD [gju_payroll_laws.pdf]
+    - Associate Professor: 391 to 439 JOD [gju_payroll_laws.pdf]
+    - Assistant Professor: 301 to 341 JOD [gju_payroll_laws.pdf]
+    - Lecturer: 163 to 205 JOD [gju_payroll_laws.pdf]
+    - Assistant Lecturer: 95 to 191 JOD [gju_payroll_laws.pdf]
+
+- **Administrative Staff:**
+  - The basic salary scale for administrative staff is also defined in categories. For example:
+    - First Category: 359 to 494 JOD [gju_payroll_laws.pdf]
+    - Second Category: 230 to 258 JOD [gju_payroll_laws.pdf]
+    - Third Category: 133 to 157 JOD [gju_payroll_laws.pdf]
+    - Fourth Category: 121 to 145 JOD [gju_payroll_laws.pdf]
+    - Fifth Category: 87 to 111 JOD [gju_payroll_laws.pdf]
+    - Sixth Category: 46 to 62 JOD [gju_payroll_laws.pdf]
+    - Seventh Category: 34 to 46 JOD [gju_payroll_laws.pdf]
+
+- **Students:**
+  - There is no mention of a basic salary for students in the provided documents.
+
+Additionally, the documents specify that certain bonuses and rewards are not included in the basic salary for the purposes of social security, end-of-service remuneration, or participation in the housing fund [gju_payroll_laws.pdf].",23.98011255,10,10,TRUE,0.524988999,1763195742,FALSE
+1,5,"Transportation allowance (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance for academic staff is as follows:
+
+1. President: 170 JOD
+2. Vice President and Dean: 100 JOD
+3. Vice Dean and President Assistant of the Faculty Members: 90 JOD
+4. Faculty Member: 80 JOD
+
+For administrative staff, the transportation allowance is:
+
+1. Employee of third or fourth categories: 60 dinars
+2. Employee of the fifth or sixth categories: 40 dinars
+3. Employee of seventh category: 24 dinars
+
+It is important to note that:
+- Faculty members and staff working with holistic salaries or with contracts shall be granted transportation bonuses equal to those determined for their equivalents in terms of rank and salary.
+- No individual may receive more than one of the bonuses stipulated.
+- The bonus is not disbursed to any employee for whom the University has allocated a car or has provided transportation on a regular basis.
+- Transportation bonus shall not be granted to staff delegated on training courses lasting more than thirty days, or those on sabbatical leave. [gju_payroll_laws.pdf]",7.813657045,8,8,TRUE,0.563827441,1763195750,FALSE
+1,6,"Transportation allowance? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for different roles at the University are as follows:
+
+### For Faculty Members:
+1. **President**: 170 JOD [gju_payroll_laws.pdf]
+2. **Vice President and Dean**: 100 JOD [gju_payroll_laws.pdf]
+3. **Vice Dean and President Assistant of the Faculty Members**: 90 JOD [gju_payroll_laws.pdf]
+4. **Faculty Member**: 80 JOD [gju_payroll_laws.pdf]
+
+### For Administrative Staff:
+1. **Unit, Department, and Center Director**: 90 JOD [gju_payroll_laws.pdf]
+2. **Employee of the First or Second Categories**: 70 JOD [gju_payroll_laws.pdf]
+3. **Employee of the Third or Fourth Categories**: 60 JOD [gju_payroll_laws.pdf]
+4. **Employee of the Fifth or Sixth Categories**: 40 JOD [gju_payroll_laws.pdf]
+5. **Employee of the Seventh Category**: 24 JOD [gju_payroll_laws.pdf]
+
+For students, there is no specific mention of a transportation allowance in the provided documents [gju_payroll_laws.pdf]. 
+
+Additionally, faculty members and staff who are provided with a vehicle or regular transportation by the University are not eligible for the transportation bonus [gju_payroll_laws.pdf].",8.398137331,10,10,TRUE,0.57276166,1763195759,FALSE
+1,7,"List transportation allowance values for all (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for academic staff, administrative staff, and students are as follows:
+
+### Academic Staff:
+1. **President**: 170 JOD [gju_payroll_laws.pdf]
+2. **Vice President and Dean**: 100 JOD [gju_payroll_laws.pdf]
+3. **Vice Dean and President Assistant of the Faculty Members**: 90 JOD [gju_payroll_laws.pdf]
+4. **Faculty Member**: 80 JOD [gju_payroll_laws.pdf]
+
+### Administrative Staff:
+1. **Unit, Department, or Center Director**: 90 JOD [gju_payroll_laws.pdf]
+2. **Employee of the First or Second Categories**: 70 JOD [gju_payroll_laws.pdf]
+3. **Employee of the Third or Fourth Categories**: 60 JOD [gju_payroll_laws.pdf]
+4. **Employee of the Fifth or Sixth Categories**: 40 JOD [gju_payroll_laws.pdf]
+5. **Employee of the Seventh Category**: 24 JOD [gju_payroll_laws.pdf]
+
+### Students:
+- **No specific transportation allowance is mentioned for students** [gju_payroll_laws.pdf]
+
+Note: The transportation allowance is not granted to those who have a vehicle dedicated to them from the University or are provided with transportation on a regular basis [gju_payroll_laws.pdf].",15.74320006,10,10,TRUE,0.561638996,1763195775,FALSE
+1,8,"List transportation allowance values for all, including dean (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for different roles at the University are as follows:
+
+### For Faculty Members:
+1. **President**: 170 JOD [gju_payroll_laws.pdf]
+2. **Vice President and Dean**: 100 JOD [gju_payroll_laws.pdf]
+3. **Vice Dean and President Assistant of the Faculty Members**: 90 JOD [gju_payroll_laws.pdf]
+4. **Faculty Member**: 80 JOD [gju_payroll_laws.pdf]
+
+### For Administrative Staff:
+1. **Unit, Department, and Center Director**: 90 JOD [gju_payroll_laws.pdf]
+2. **Employee of the First or Second Categories**: 70 JOD [gju_payroll_laws.pdf]
+3. **Employee of the Third or Fourth Categories**: 60 JOD [gju_payroll_laws.pdf]
+4. **Employee of the Fifth or Sixth Categories**: 40 JOD [gju_payroll_laws.pdf]
+5. **Employee of the Seventh Category**: 24 JOD [gju_payroll_laws.pdf]
+
+### For Students:
+- **Student Entry Permit**: Not specified in the provided documents.
+- **Student Vehicle Entry Permit**: Not specified in the provided documents.
+
+### Additional Notes:
+- **Dean (Academic Staff)**: The transportation allowance for a dean is 100 JOD [gju_payroll_laws.pdf].
+- **Dean (Administrative Staff)**: The transportation allowance for a unit, department, or center director is 90 JOD [gju_payroll_laws.pdf].
+
+### General Rules:
+- **No Double Bonuses**: No person may receive more than one of the bonuses stipulated in the respective articles [gju_payroll_laws.pdf].
+- **No Allowance for Those with University-Provided Transportation**: The transportation allowance is not granted to those who have a vehicle dedicated to them from the University or are regularly provided with transportation [gju_payroll_laws.pdf].
+
+If you need more specific information or have additional questions, please let me know!",24.3710978,10,10,TRUE,0.564624549,1763195799,FALSE
+1,9,"Family allowance? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic and administrative staff at the University, the family allowance is structured as follows:
+
+- **Wife**: 7 JOD per month.
+- **Children**:
+  - First child: 2 JOD per month.
+  - Second child: 2 JOD per month.
+  - Third child: 2 JOD per month.
+  - Fourth child: 2 JOD per month.
+
+**Conditions**:
+- The bonus is not granted for children older than eighteen years of age, unless they are still in secondary school, undergraduate programs, or have special needs [gju_payroll_laws.pdf].
+- The bonus is not granted for a wife who is working at or receiving a monthly salary from a public or private institution [gju_payroll_laws.pdf].
+
+In the case of polygamy:
+- The bonus is given for the first wife only if the employee has four children. If the employee has fewer than four children, the remaining child bonuses can be granted to other wives, provided the total number of wives and children does not exceed four [gju_payroll_laws.pdf].
+
+For students, there is no mention of a family allowance in the provided documents.",6.116910934,10,10,TRUE,0.598087673,1763195806,FALSE
+1,10,"Family bonus? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic and administrative staff at the University, the family bonus is provided as follows:
+
+- **Wife**: 7 JOD
+- **First child**: 2 JOD
+- **Second child**: 2 JOD
+- **Third child**: 2 JOD
+- **Fourth child**: 2 JOD
+
+**Conditions:**
+- The bonus is given for the first wife only if the employee has four children. If the employee has less than four children, the remaining child bonuses can be granted to other wives, as long as the total number of wives and children does not exceed four.
+- The family bonus is not given for children who have completed eighteen years of age, unless they are still in secondary school or undergraduate programs or have special needs.
+- The family bonus is not given for a wife who is working at or getting paid monthly by a public or private institution. [gju_payroll_laws.pdf]
+
+For students, there is no mention of a family bonus in the provided documents.",16.16395354,10,10,TRUE,0.587484067,1763195822,FALSE
+1,11,"What is the family bonus? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic and administrative staff at the University, the family bonus is provided as follows:
+
+- **Wife**: 7 JOD
+- **First child**: 2 JOD
+- **Second child**: 2 JOD
+- **Third child**: 2 JOD
+- **Fourth child**: 2 JOD
+
+**Conditions:**
+- The bonus is given for the first wife only if the employee has four children. If the employee has less than four children, the remaining child bonuses can be granted to other wives, as long as the total number of wives and children does not exceed four.
+- The family bonus is not given for children who have completed eighteen years of age, unless they are still in secondary school or undergraduate programs or have special needs.
+- The family bonus is not given for a wife who is working at or getting paid monthly by a public or private institution. [gju_payroll_laws.pdf]",14.15033007,10,10,TRUE,0.538944884,1763195836,FALSE
+1,12,"What is the family bonus for wife? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,The family bonus for the wife is 7 dinars for both academic staff and administrative staff [gju_payroll_laws.pdf]. There is no mention of a family bonus for students in the provided documents.,4.902966022,8,8,TRUE,0.575560257,1763195842,FALSE
+1,13,"Tax exemption? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Based on the provided documents, the following groups are eligible for tax exemptions under specific conditions:
+
+1. **Non-Profit Organizations and Entities:**
+   - Political parties, trade unions, and professional associations such as chambers of commerce and industry, cooperatives, and other legally registered and licensed non-profit organizations.
+   - Non-profit religious, charitable, cultural, educational, sport, or health organizations.
+   - Exempted companies registered under the Companies Law with incomes generated outside the Kingdom, except for incomes generated from taxable sources of income under the provisions of this Law. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+2. **Individuals and Dependents:**
+   - Natural persons and their dependents are granted exemptions against medical expenses, educational expenses, rent, home loan interest, and murabaha. The exemptions are as follows:
+     - One thousand dinars for the taxpayer starting from the year 2020 onwards.
+     - One thousand dinars for the taxpayer’s spouse starting from the year 2020 onwards.
+     - One thousand dinars for each son/daughter up to a maximum of three thousand dinars. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+3. **Donations and Subscriptions:**
+   - Any person may deduct donations without any personal interest to public corporations, departments, or municipalities from their gross income.
+   - Subscriptions and donations paid in the Kingdom without any personal interest for religious, charitable, humanitarian, scientific, environmental, sport, or professional purposes, if the Council of Ministers approves such capacity, are also deductible. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+4. **University-Specific Provisions:**
+   - Faculty members and other university employees may receive financial remuneration for additional tasks, such as teaching, scientific research, or other duties, as determined by the President. [gju_payroll_laws.pdf]
+   - The President may grant unpaid leave to employees for a period of no more than three months, which does not count towards rewards, savings, promotion, or annual leave. [gju_payroll_laws.pdf]
+
+However, the documents do not explicitly state tax exemptions for academic staff, administrative staff, and students as a blanket category. The exemptions are more specific to the types of expenses and activities mentioned above. If you need more detailed information on specific scenarios, please provide additional context or specific questions.",39.73565364,8,8,TRUE,0.600444785,1763195881,FALSE
+1,14,"Health insurance? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Health insurance for academic staff, administrative staff, and students at the German Jordanian University is regulated by specific articles and provisions. Here is a summary based on the provided documents:
+
+1. **For Employees (Academic and Administrative Staff):**
+   - **Membership and Beneficiaries:**
+     - Health insurance is optional for all employees at the University [gju_payroll_laws.pdf].
+     - Members can include their spouse, parents, children under 18, children enrolled in educational institutions up to age 25, and single females or unemployed divorced females [gju_payroll_laws.pdf].
+   - **Exclusions:**
+     - The insurance does not cover suicide, self-injury, injuries from war or civil disturbances, hazardous activities, atomic radiation, and certain medical procedures [gju_payroll_laws.pdf].
+     - Specific exclusions include dental treatments (except for extraction, mouth and gum diseases, and accidents), vitamins and mineral salts (except for pregnancy and osteoporosis), sexual stimulators, infertility treatments, and cosmetic procedures [gju_payroll_laws.pdf].
+   - **Continued Membership:**
+     - Employees on sabbatical, unpaid leave, or secondment can continue their membership by paying the full annual premium [gju_payroll_laws.pdf].
+
+2. **For Students:**
+   - **Participation:**
+     - Health insurance is compulsory for all university students enrolled in any degree or scientific certificate program [gju_payroll_laws.pdf].
+   - **Exclusions:**
+     - Similar to employees, the insurance does not cover certain exclusions such as suicide, self-injury, injuries from war or civil disturbances, hazardous activities, and atomic radiation [gju_payroll_laws.pdf].
+     - Specific exclusions for students include dental treatments (except for extraction, mouth and gum diseases, and accidents), vitamins and mineral salts (except for pregnancy and osteoporosis), sexual stimulators, infertility treatments, and cosmetic procedures [gju_payroll_laws.pdf].
+   - **Coverage:**
+     - Health insurance takes effect upon payment of university fees [gju_payroll_laws.pdf].
+     - Treatment is personal and cannot be transferred to others [gju_payroll_laws.pdf].
+
+3. **General Provisions:**
+   - **Committee:**
+     - The Students Health Insurance Committee and the Committee of Health Insurance at the University are responsible for overseeing health insurance matters [gju_payroll_laws.pdf].
+   - **Fees:**
+     - No student is exempt from the health insurance subscription fee, and it is not recoverable [gju_payroll_laws.pdf].
+
+If you have specific questions or need further details, please let me know!",25.07597327,10,10,TRUE,0.499183838,1763195907,FALSE
+1,15,"University contribution to health insurance? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic staff and administrative staff, the university contributes to the health insurance costs, but the specific percentage and the maximum amount that the university contributes are decided by the University Council upon the recommendation of the Health Insurance Committee [gju_payroll_laws.pdf].
+
+For students, the health insurance subscription fee is mandatory and must be paid by the students themselves. The university does not contribute to the students' health insurance fees [gju_payroll_laws.pdf].",5.482095003,10,10,TRUE,0.52599467,1763195912,FALSE
+1,16,"Academic staff grades? (for academic staff, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic staff, the performance evaluation grades are as follows:
+
+- Excellent
+- Very Good
+- Good
+- Satisfactory
+- Poor
+
+These grades are used to evaluate the general performance of the employee for purposes such as promotion and encouraging incentives [gju_payroll_laws.pdf]. 
+
+For students, the grading scale is different and is based on the cumulative average:
+
+- 70 – less than 76: Good
+- 76 – less than 84: Very Good
+- 84 – less than 92: Excellent
+- 92 – 100: Excellent with honors
+
+The minimum GPA for obtaining a Ph.D. degree is ""Very Good"" [gju_payroll_laws.pdf].",15.43384504,2,2,TRUE,0.470274768,1763195928,FALSE
+1,17,"Academic staff categories? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The academic staff categories at the University are as follows:
+
+1. Professor
+2. Associate Professor
+3. Assistant Professor
+4. Instructor
+5. Assistant Instructor
+6. Practicing Professor
+
+These categories are outlined in [gju_payroll_laws.pdf] under Article 22.",2.776571989,10,10,TRUE,0.43841239,1763195931,FALSE
+1,18,"Administrative staff categories? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The administrative staff categories at the University are as follows:
+
+1. **Category One**: Includes leading administrative positions or highly specialized positions. Only employees with a bachelor's degree minimum, in addition to the qualifications and experience, shall be appointed in or promoted to this category positions. The tasks of this category include proposing the general policy for their units, centers, or departments, preparing plans for the programs, projects, and services for their units, centers, or department, and following up and supervising their execution [gju_payroll_laws.pdf].
+
+2. **Category Two**: Includes job positions which shall conduct specialized work in the field of applied, natural, and human sciences, such as medical, engineering, economic, agricultural, administrative, legal, educational, and financial, and accounting professions, or the like, and supervise such works. Only employees with a bachelor's degree minimum shall be appointed in this category [gju_payroll_laws.pdf].
+
+3. **Category Three**: Includes job positions that shall conduct basic work in the administrative clerical, accounting, training and warehouses affairs, procurement, libraries, technical works, crafts, vocational fields, or the like, and supervise such works. Only employees with a minimum of diplomas from community colleges or an equivalent shall be appointed in this category [gju_payroll_laws.pdf].
+
+4. **Category Four**: Includes job positions whose tasks shall be to conduct assistant vocational craftwork and supervising their execution or performing certain services [gju_payroll_laws.pdf].",9.953187227,10,10,TRUE,0.48018466,1763195941,FALSE
+2,1,"Basic salary (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff at the University is defined as follows:
+
+- **Professor**: 401 - 851 JOD [gju_payroll_laws.pdf]
+- **Associate Professor**: 391 - 439 JOD [gju_payroll_laws.pdf]
+- **Assistant Professor**: 306 - 354 JOD [gju_payroll_laws.pdf]
+- **Practicing Professor**: 300 - 340 JOD [gju_payroll_laws.pdf]
+- **Lecturer**: 222 - 264 JOD [gju_payroll_laws.pdf]
+- **Assistant Lecturer**: 95 - 191 JOD [gju_payroll_laws.pdf]
+
+For administrative staff, the basic salary scale is defined as follows:
+
+- **First Class**:
+  - A: 359 - 494 JOD
+  - B: 279 - 315 JOD [gju_payroll_laws.pdf]
+- **Second Class**:
+  - A: 230 - 258 JOD
+  - B: 186 - 214 JOD [gju_payroll_laws.pdf]
+- **Third Class**:
+  - A: 165 - 189 JOD
+  - B: 133 - 157 JOD [gju_payroll_laws.pdf]
+- **Fourth Class**:
+  - A: 121 - 145 JOD
+  - B: 87 - 111 JOD [gju_payroll_laws.pdf]
+- **Fifth Class**: 65 - 85 JOD [gju_payroll_laws.pdf]
+- **Sixth Class**: 46 - 62 JOD [gju_payroll_laws.pdf]
+- **Seventh Class**: 34 - 46 JOD [gju_payroll_laws.pdf]",15.38351583,10,10,TRUE,0.568131608,1763195957,FALSE
+2,2,"Basic salary? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff at the University is defined as follows:
+
+- **Professor**: 401 - 851 JOD [gju_payroll_laws.pdf]
+- **Associate Professor**: 391 - 439 JOD [gju_payroll_laws.pdf]
+- **Assistant Professor**: 306 - 354 JOD [gju_payroll_laws.pdf]
+- **Practicing Professor**: 300 - 340 JOD [gju_payroll_laws.pdf]
+- **Lecturer**: 222 - 264 JOD [gju_payroll_laws.pdf]
+- **Assistant Lecturer**: 95 - 191 JOD [gju_payroll_laws.pdf]
+
+For administrative staff, the basic salary scale is defined as follows:
+
+- **First Class**:
+  - A: 359 - 494 JOD
+  - B: 279 - 315 JOD [gju_payroll_laws.pdf]
+- **Second Class**:
+  - A: 230 - 258 JOD
+  - B: 186 - 214 JOD [gju_payroll_laws.pdf]
+- **Third Class**:
+  - A: 165 - 189 JOD
+  - B: 133 - 157 JOD [gju_payroll_laws.pdf]
+- **Fourth Class**:
+  - A: 121 - 145 JOD
+  - B: 87 - 111 JOD [gju_payroll_laws.pdf]
+- **Fifth Class**: 65 - 85 JOD [gju_payroll_laws.pdf]
+- **Sixth Class**: 46 - 62 JOD [gju_payroll_laws.pdf]
+- **Seventh Class**: 34 - 46 JOD [gju_payroll_laws.pdf]
+
+",21.0392282,10,10,TRUE,0.609462326,1763195978,FALSE
+2,3,"What is the basic salary? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff at the German Jordanian University varies based on rank:
+
+- Professor: 851 JOD to 401 JOD [gju_payroll_laws.pdf]
+- Associate Professor: 439 JOD to 354 JOD [gju_payroll_laws.pdf]
+- Assistant Professor: 341 JOD to 301 JOD [gju_payroll_laws.pdf]
+- Practicing Professor: 340 JOD to 300 JOD [gju_payroll_laws.pdf]
+- Lecturer: 205 JOD to 163 JOD [gju_payroll_laws.pdf]
+- Assistant Lecturer: 191 JOD to 95 JOD [gju_payroll_laws.pdf]
+
+For administrative staff, the basic salary scale is defined as follows:
+
+- First Class: 494 JOD to 359 JOD [gju_payroll_laws.pdf]
+- Second Class: 315 JOD to 279 JOD [gju_payroll_laws.pdf]
+- Third Class: 258 JOD to 230 JOD [gju_payroll_laws.pdf]
+- Fourth Class: 214 JOD to 186 JOD [gju_payroll_laws.pdf]
+- Fifth Class: 189 JOD to 165 JOD [gju_payroll_laws.pdf]
+- Sixth Class: 157 JOD to 133 JOD [gju_payroll_laws.pdf]
+- Seventh Class: 145 JOD to 121 JOD [gju_payroll_laws.pdf]
+- Eighth Class: 111 JOD to 87 JOD [gju_payroll_laws.pdf]
+- Ninth Class: 85 JOD to 65 JOD [gju_payroll_laws.pdf]
+- Tenth Class: 62 JOD to 46 JOD [gju_payroll_laws.pdf]
+
+For students, there is no mention of a basic salary in the provided documents.",26.74407291,10,10,TRUE,0.589968057,1763196005,FALSE
+2,4,"What is the basic salary definition? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff and administrative staff at the University is defined according to specific scales and ranks. For academic staff, the basic salary ranges are as follows:
+
+- **Professor**: 401 - 851 JOD
+- **Associate Professor**: 306 - 354 JOD
+- **Assistant Professor**: 248 - 288 JOD
+- **Practicing Professor**: 228 - 268 JOD
+- **Lecturer**: 163 - 205 JOD
+- **Assistant Lecturer**: 95 - 191 JOD
+
+For administrative staff, the basic salary ranges are as follows:
+
+- **First Class**:
+  - A: 359 - 494 JOD
+  - B: 279 - 315 JOD
+- **Second Class**:
+  - A: 230 - 258 JOD
+  - B: 186 - 214 JOD
+- **Third Class**:
+  - A: 165 - 189 JOD
+  - B: 133 - 157 JOD
+- **Fourth Class**:
+  - A: 121 - 145 JOD
+  - B: 87 - 111 JOD
+- **Fifth Class**: 65 - 85 JOD
+- **Sixth Class**: 46 - 62 JOD
+- **Seventh Class**: 34 - 46 JOD
+
+Additionally, there are specific base salaries for certain ranks:
+
+- **Associate Professor**: 625 JOD
+- **Assistant Professor**: 465 JOD
+- **Practicing Professor**: 380 JOD
+- **Lecturer**: 280 JOD
+- **Lecturer Assistant**: 230 JOD
+
+For students, the concept of a basic salary does not apply as they are not employees of the University [gju_payroll_laws.pdf].",18.45330095,10,10,TRUE,0.524988999,1763196024,FALSE
+2,5,"Transportation allowance (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance for academic staff and administrative staff is provided as follows:
+
+1. President: 170 JOD
+2. Vice President and Dean: 100 JOD
+3. Vice Dean and President Assistant of the Faculty Members: 90 JOD
+4. Faculty Member: 80 JOD
+
+For employees working with holistic salaries or with contracts, the transportation bonuses are equal to those determined for their equivalents in terms of rank and salary, according to paragraph (A) of the Article [gju_payroll_laws.pdf].
+
+For students, there is no specific transportation allowance mentioned in the provided documents.
+
+Additionally, the transportation bonus is not granted to those who have a vehicle dedicated to them from the University or are always provided with transportation [gju_payroll_laws.pdf].",8.769146681,8,5,TRUE,0.563827441,1763196033,FALSE
+2,6,"Transportation allowance? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for different roles at the University are as follows:
+
+### For Faculty Members:
+1. **President**: 170 JOD [gju_payroll_laws.pdf]
+2. **Vice President and Dean**: 100 JOD [gju_payroll_laws.pdf]
+3. **Vice Dean and President Assistant of the Faculty Members**: 90 JOD [gju_payroll_laws.pdf]
+4. **Faculty Member**: 80 JOD [gju_payroll_laws.pdf]
+
+### For Administrative Staff:
+1. **Unit, Department, and Center Director**: 90 JOD [gju_payroll_laws.pdf]
+2. **Employee of the First or Second Categories**: 70 JOD [gju_payroll_laws.pdf]
+3. **Employee of the Third or Fourth Categories**: 60 JOD [gju_payroll_laws.pdf]
+4. **Employee of the Fifth or Sixth Categories**: 40 JOD [gju_payroll_laws.pdf]
+5. **Employee of the Seventh Category**: 24 JOD [gju_payroll_laws.pdf]
+
+For students, there is no specific transportation allowance mentioned in the provided documents.
+
+Additionally, the transportation bonus is not granted to those who have a vehicle dedicated to them from the University or are always provided with transportation by the University [gju_payroll_laws.pdf].",16.98112988,10,10,TRUE,0.57276166,1763196050,FALSE
+2,7,"List transportation allowance values for all (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for academic staff, administrative staff, and students are as follows:
+
+### Academic Staff:
+1. President: 170 JOD [gju_payroll_laws.pdf]
+2. Vice President and Dean: 100 JOD [gju_payroll_laws.pdf]
+3. Vice Dean and President Assistant of the Faculty Members: 90 JOD [gju_payroll_laws.pdf]
+4. Faculty Member: 80 JOD [gju_payroll_laws.pdf]
+
+### Administrative Staff:
+1. Unit, Department, or Center Director: 90 JOD [gju_payroll_laws.pdf]
+2. Employee of the First or Second Categories: 70 JOD [gju_payroll_laws.pdf]
+3. Employee of the Third or Fourth Categories: 60 JOD [gju_payroll_laws.pdf]
+4. Employee of the Fifth or Sixth Categories: 40 JOD [gju_payroll_laws.pdf]
+5. Employee of the Seventh Category: 24 JOD [gju_payroll_laws.pdf]
+
+### Students:
+- No specific transportation allowance values are mentioned for students in the provided documents. [gju_payroll_laws.pdf]
+
+### Additional Notes:
+- Faculty members assigned with contracts receive transportation bonuses equal to staff receiving the same salary. [gju_payroll_laws.pdf]
+- No person may receive more than one of the bonuses stipulated in the respective paragraphs. [gju_payroll_laws.pdf]
+- The bonus is not granted to those who have a vehicle dedicated to them from the University or are provided with transportation on a regular basis. [gju_payroll_laws.pdf]",26.01108551,10,10,TRUE,0.561638996,1763196076,FALSE
+2,8,"List transportation allowance values for all, including dean (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for different roles at the University are as follows:
+
+### For Faculty Members:
+1. **President**: 170 JOD [gju_payroll_laws.pdf]
+2. **Vice President and Dean**: 100 JOD [gju_payroll_laws.pdf]
+3. **Vice Dean and President Assistant of the Faculty Members**: 90 JOD [gju_payroll_laws.pdf]
+4. **Faculty Member**: 80 JOD [gju_payroll_laws.pdf]
+
+### For Administrative Staff:
+1. **Unit, Department, and Center Director**: 90 JOD [gju_payroll_laws.pdf]
+2. **Employee of the First or Second Categories**: 70 JOD [gju_payroll_laws.pdf]
+3. **Employee of the Third or Fourth Categories**: 60 JOD [gju_payroll_laws.pdf]
+4. **Employee of the Fifth or Sixth Categories**: 40 JOD [gju_payroll_laws.pdf]
+5. **Employee of the Seventh Category**: 24 JOD [gju_payroll_laws.pdf]
+
+### For Students:
+- **Student Entry Permit**: Not specified for transportation allowance, but entry permits are issued based on a valid university ID. [gju_payroll_laws.pdf]
+- **Student Vehicle Entry Permit**: Not specified for transportation allowance, but entry permits are issued based on a valid student vehicle permit. [gju_payroll_laws.pdf]
+
+### Additional Notes:
+- **Dean**: The transportation allowance for a dean is 100 JOD, as they are considered a Vice President. [gju_payroll_laws.pdf]
+- **Transportation bonuses are not granted to those who have a vehicle dedicated to them from the University or are provided with transportation on a regular basis.** [gju_payroll_laws.pdf]
+- **No person may receive more than one of the bonuses stipulated in the relevant articles.** [gju_payroll_laws.pdf]",25.91508555,10,10,TRUE,0.564624549,1763196103,FALSE
+2,9,"Family allowance? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic and administrative staff at the University, the family allowance is structured as follows:
+
+- **Wife**: 7 JOD per month.
+- **Children**:
+  - First child: 2 JOD per month.
+  - Second child: 2 JOD per month.
+  - Third child: 2 JOD per month.
+  - Fourth child: 2 JOD per month.
+
+**Additional Notes**:
+- If the employee has more than one wife, the bonus is given for only one wife if the employee has four children. If the employee has fewer than four children, the remaining child bonuses can be granted to other wives, as long as the total number of wives and children does not exceed four.
+- The family bonus is not given for children older than eighteen years of age, unless they are still in secondary school, undergraduate programs, or have special needs.
+- The family bonus is also not given for a wife who is working at or receiving a monthly salary from a public or private institution. [gju_payroll_laws.pdf]
+
+For students, there is no mention of a family allowance in the provided documents.",8.170152664,10,10,TRUE,0.598087673,1763196111,FALSE
+2,10,"Family bonus? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The family bonus for academic and administrative staff at the University is as follows:
+
+- **For the wife**: 7 JOD per month.
+- **For each of the first four children**: 2 JOD per month.
+
+**Additional Notes:**
+- If the employee has more than one wife, the bonus is given for only one wife if he has four children. If the children are less than four, the other wives will get the bonus, as long as the total number of wives and children does not exceed four.
+- The family bonus is not given for children who have completed eighteen years of age, unless they are still in secondary school or undergraduate programs or have special needs.
+- The family bonus is also not given for a wife who is working at or getting paid monthly by a public or private institution.
+
+This information applies to both academic and administrative staff [gju_payroll_laws.pdf]. There is no mention of family bonuses for students in the provided documents.",5.744017124,10,10,TRUE,0.587484067,1763196117,FALSE
+2,11,"What is the family bonus? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The family bonus for academic staff at the University is structured as follows:
+
+- **For the Wife**: 7 JOD
+- **For Each of the First Four Children**: 2 JOD per child
+
+This bonus is provided under the conditions outlined in Article (23) of the [gju_payroll_laws.pdf]:
+
+1. **Children Older Than 18**: The bonus is not granted for children older than 18 years of age, unless they are still in secondary school, undergraduate programs, or have special needs.
+2. **Working Wife**: The bonus is not granted for a wife who is working at or getting paid monthly by a public or private institution.
+
+For administrative staff, the family bonus is not explicitly mentioned in the provided context. 
+
+For students, the family bonus is not applicable; instead, there are discounts for children of university employees, as detailed in the context:
+
+- **Discount for Credit Hours**: 50% discount on credit hours for the undergraduate degree for children of university employees and those from other public universities.
+- **Conditions for Discount**:
+  - The discount applies only to credit hour fees for the undergraduate degree.
+  - The discount does not include semester fees, university services charges, or other fees.
+  - If the student maintains an average of ""good"" or above, the discount increases to 90% for the next semester.
+
+In summary, the family bonus is primarily for academic staff, with specific conditions for eligibility, and there are no explicit family bonuses for administrative staff or students. [gju_payroll_laws.pdf]",20.7071178,10,10,TRUE,0.538944884,1763196138,FALSE
+2,12,"What is the family bonus for wife? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The family bonus for the wife is 7 dinars for university staff, which includes both academic and administrative staff [gju_payroll_laws.pdf]. There is no mention of a family bonus for students in the provided documents.",4.165081978,8,8,TRUE,0.575560257,1763196142,FALSE
+2,13,"Tax exemption? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Based on the provided documents, the following groups are eligible for tax exemptions under specific conditions:
+
+1. **Non-Profit Organizations and Entities:**
+   - Political parties, trade unions, and professional associations such as chambers of commerce and industry, cooperatives, and other legally registered and licensed non-profit organizations.
+   - Non-profit religious, charitable, cultural, educational, sport, or health organizations.
+   - Exempted companies that are registered under the Companies Law with incomes generated outside the Kingdom, except for incomes generated from taxable sources of income under the provisions of this Law. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+2. **Individuals and Their Dependents:**
+   - The natural person and his dependents are granted exemptions against medical expenses, educational expenses, rent, home loan interest, and murabaha as follows:
+     - One thousand dinars for the taxpayer starting from the year 2020 onwards.
+     - One thousand dinars for the taxpayer’s spouse starting from the year 2020 onwards.
+     - One thousand dinars for each son/daughter up to a maximum of three thousand dinars. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+3. **Donations and Subscriptions:**
+   - Any person may deduct the subscriptions and donations paid in the Kingdom without any personal interest for religious, charitable, humanitarian, scientific, environmental, sport, or professional purposes if the Council of Ministers approves such capacity. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+4. **University-Specific Exemptions:**
+   - Faculty members and other university employees may receive financial remuneration for additional tasks, such as teaching, scientific research, or other duties, as determined by the President. [gju_payroll_laws.pdf]
+   - The President may grant an unpaid leave for a period of no more than three months, which does not count towards rewards, savings, promotion, or annual leave. [gju_payroll_laws.pdf]
+
+However, the documents do not explicitly state tax exemptions specifically for academic staff, administrative staff, and students. The exemptions mentioned are more general and apply to a broader range of individuals and entities. If you are looking for specific tax exemptions for these groups, additional information or specific regulations may be required.",24.76043725,8,8,TRUE,0.600444785,1763196167,FALSE
+2,14,"Health insurance? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Health insurance for academic staff, administrative staff, and students at the German Jordanian University is regulated as follows:
+
+### For Academic and Administrative Staff:
+1. **Membership**:
+   - Health insurance is optional for all employees at the University [gju_payroll_laws.pdf].
+   - Members can include beneficiaries such as spouses, parents, children under 18, children enrolled in educational institutions up to age 25, single females, and unemployed divorced females [gju_payroll_laws.pdf].
+
+2. **Coverage Exclusions**:
+   - The insurance does not cover suicide, self-injury, injuries from wars or civil disturbances, hazardous activities, atomic radiation, radioactive contamination, or chemical exposure [gju_payroll_laws.pdf].
+   - It also excludes addiction to drugs or alcohol, plastic surgeries (unless caused by a covered accident), recovery or spa treatments, artificial limbs, and certain medical devices without approval [gju_payroll_laws.pdf].
+   - Dental treatments, except for extractions, oral and gum diseases, and accident-related cases, are not covered [gju_payroll_laws.pdf].
+   - Other exclusions include vitamins and mineral salts (except for pregnancy and osteoporosis), sexual stimulators, infertility treatments, food outside the hospital, cosmetics, serums, and vaccinations (except for university employees), home visits, unscientific medical procedures, and psychiatric sessions [gju_payroll_laws.pdf].
+
+3. **Continuation of Membership**:
+   - Members on sabbatical, leave, secondment, or mandate must pay the full annual premium to continue coverage [gju_payroll_laws.pdf].
+   - Members who resign due to health problems after 10 continuous years of membership can continue their coverage for themselves and their beneficiaries [gju_payroll_laws.pdf].
+
+### For Students:
+1. **Participation**:
+   - Health insurance is compulsory for all university students enrolled in degree or scientific certificate programs, including private study students [gju_payroll_laws.pdf].
+
+2. **Activation**:
+   - Health insurance takes effect upon payment of university fees [gju_payroll_laws.pdf].
+
+3. **Exemptions**:
+   - No student is exempt from the health insurance subscription fee, and it is not recoverable [gju_payroll_laws.pdf].
+
+4. **Usage**:
+   - Treatment and inspections are conducted with a valid health insurance card and university card, and the treatment is personal [gju_payroll_laws.pdf].
+
+### Additional Notes:
+- The University council issues instructions for the execution of the health insurance regulation, including membership levels, contribution percentages, and maximum contributions [gju_payroll_laws.pdf].
+- The committee of health insurance at the University is responsible for various aspects of the health insurance program, including reviewing cases and making recommendations [gju_payroll_laws.pdf].
+
+For more detailed information, refer to the specific articles in the [gju_payroll_laws.pdf].",34.37068176,10,10,TRUE,0.499183838,1763196202,FALSE
+2,15,"University contribution to health insurance? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic staff and administrative staff, the University contributes to the health insurance costs, but the exact amount and the contribution percentage are determined by the University Council upon the recommendation of the Health Insurance Committee [gju_payroll_laws.pdf].
+
+For students, the University does not contribute to the health insurance costs; the health insurance subscription fee is mandatory and must be paid by the students themselves [gju_payroll_laws.pdf].",3.671987295,10,10,TRUE,0.52599467,1763196206,FALSE
+2,16,"Academic staff grades? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic staff, the performance evaluation grades are as follows:
+
+- Excellent
+- Very Good
+- Good
+- Satisfactory
+- Poor
+
+These grades are used to evaluate the general performance of the employee for purposes such as promotion and encouraging incentives [gju_payroll_laws.pdf]. 
+
+For students, the grading scale is different and is based on the cumulative average:
+
+- 70 – less than 76: Good
+- 76 – less than 84: Very Good
+- 84 – less than 92: Excellent
+- 92 – 100: Excellent with honors
+
+The minimum GPA for obtaining a Ph.D. degree is ""Very Good"" [gju_payroll_laws.pdf].",9.490592718,2,2,TRUE,0.470274768,1763196216,FALSE
+2,17,"Academic staff categories? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The academic staff categories at the University are as follows:
+
+1. **Professor**
+2. **Associate Professor**
+3. **Assistant Professor**
+4. **Instructor**
+5. **Assistant Instructor**
+6. **Practicing Professor**
+
+These categories are defined in [gju_payroll_laws.pdf] under Article 22. 
+
+Additionally, the duties of academic staff members include:
+
+- Teaching and conducting examinations.
+- Conducting creative research and studies and associating them with industry and applied fields.
+- Participating in community service and development.
+- Performing other University duties as required.
+
+For more detailed information on the duties and responsibilities, refer to [gju_payroll_laws.pdf] under Articles 36, 37, and 38.",4.614387512,10,10,TRUE,0.43841239,1763196220,FALSE
+2,18,"Administrative staff categories? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The administrative staff categories at the University are as follows:
+
+1. **Category One**: Includes leading administrative positions or highly specialized positions. Only employees with a bachelor degree minimum, in addition to the qualifications and experience, shall be appointed in or promoted to this category positions. The tasks of this category positions include:
+   - Proposing the general policy for their units, centers, or departments.
+   - Preparing plans for the programs, projects, and services for their units, centers, or departments, and following up and supervising their execution.
+
+2. **Category Two**: Includes job positions which shall conduct specialized work in the field of applied, natural, and human sciences, such as medical, engineering, economic, agricultural, administrative, legal, educational, financial, and accounting professions, or the like, and supervise such works. Only employees with a bachelor degree minimum shall be appointed in this category.
+
+3. **Category Three**: Includes job positions that shall conduct basic work in the administrative clerical, accounting, training and warehouses affairs, procurement, libraries, technical works, crafts, vocational fields, or the like, and supervise such works. Only employees with a minimum of diplomas from community colleges or an equivalent shall be appointed in this category.
+
+4. **Category Four**: Includes job positions whose tasks shall be to conduct assistant vocational craftwork and supervising their execution or performing certain services. [gju_payroll_laws.pdf]",9.078868151,10,10,TRUE,0.48018466,1763196230,FALSE
+3,1,"Basic salary (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff at the University is defined as follows:
+
+- **Professor**: 
+  - Class A: 401 - 851 JOD
+
+  - Annual Increase: 15 JOD for Class A, 12 JOD for Class B [gju_payroll_laws.pdf]
+
+- **Associate Professor**:
+  - Class A: 391 - 439 JOD
+  - Class B: 248 - 288 JOD
+  - Annual Increase: 12 JOD for both classes [gju_payroll_laws.pdf]
+
+- **Assistant Professor**:
+  - Class A: 301 - 341 JOD
+  - Class B: 228 - 268 JOD
+  - Annual Increase: 10 JOD for both classes [gju_payroll_laws.pdf]
+
+- **Practicing Professor**:
+  - Class A: 300 - 340 JOD
+  - Annual Increase: 10 JOD [gju_payroll_laws.pdf]
+
+- **Lecturer**:
+  - Class A: 222 - 264 JOD
+  - Class B: 163 - 205 JOD
+  - Annual Increase: 7 JOD for both classes [gju_payroll_laws.pdf]
+
+- **Assistant Lecturer**:
+  - Class A: 95 - 191 JOD
+  - Annual Increase: 6 JOD [gju_payroll_laws.pdf]
+
+For administrative staff, the basic salary scale is defined as follows:
+
+- **First Category**:
+  - Class A: 359 - 494 JOD
+  - Class B: 279 - 315 JOD
+  - Annual Increase: 9 JOD for both classes [gju_payroll_laws.pdf]
+
+- **Second Category**:
+  - Class A: 230 - 258 JOD
+  - Class B: 186 - 214 JOD
+  - Annual Increase: 7 JOD for both classes [gju_payroll_laws.pdf]
+
+- **Third Category**:
+  - Class A: 165 - 189 JOD
+  - Class B: 133 - 157 JOD
+  - Annual Increase: 6 JOD for both classes [gju_payroll_laws.pdf]
+
+- **Fourth Category**:
+  - Class A: 121 - 145 JOD
+  - Class B: 87 - 111 JOD
+  - Annual Increase: 6 JOD for both classes [gju_payroll_laws.pdf]
+
+- **Fifth Category**:
+  - 65 - 85 JOD
+  - Annual Increase: 5 JOD [gju_payroll_laws.pdf]
+
+- **Sixth Category**:
+  - 46 - 62 JOD
+  - Annual Increase: 4 JOD [gju_payroll_laws.pdf]
+
+- **Seventh Category**:
+  - 34 - 46 JOD
+  - Annual Increase: 3 JOD [gju_payroll_laws.pdf]
+
+For students, there is no mention of a basic salary in the provided documents. [gju_payroll_laws.pdf]",23.95415235,10,10,TRUE,0.568131608,1763196254,FALSE
+3,2,"Basic salary? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff and administrative staff at the University is defined according to specific scales and ranks. For academic staff, the basic salary ranges are as follows:
+
+- **Professor**: 401 - 851 JOD
+- **Associate Professor**: 306 - 354 JOD
+- **Assistant Professor**: 248 - 288 JOD
+- **Practicing Professor**: 228 - 268 JOD
+- **Lecturer**: 163 - 205 JOD
+- **Assistant Lecturer**: 95 - 191 JOD
+
+For administrative staff, the basic salary ranges are as follows:
+
+- **First Class**:
+  - A: 359 - 494 JOD
+  - B: 279 - 315 JOD
+- **Second Class**:
+  - A: 230 - 258 JOD
+  - B: 186 - 214 JOD
+- **Third Class**:
+  - A: 165 - 189 JOD
+  - B: 133 - 157 JOD
+- **Fourth Class**:
+  - A: 121 - 145 JOD
+  - B: 87 - 111 JOD
+- **Fifth Class**: 65 - 85 JOD
+- **Sixth Class**: 46 - 62 JOD
+- **Seventh Class**: 34 - 46 JOD",18.51586175,10,10,TRUE,0.609462326,1763196272,FALSE
+3,3,"What is the basic salary? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff and administrative staff at the University is defined according to specific scales and ranks. For academic staff, the basic salary ranges are as follows:
+
+- **Professor**: 401 - 851 JOD
+- **Associate Professor**: 306 - 354 JOD
+- **Assistant Professor**: 248 - 288 JOD
+- **Practicing Professor**: 228 - 268 JOD
+- **Lecturer**: 163 - 205 JOD
+- **Assistant Lecturer**: 95 - 191 JOD
+
+For administrative staff, the basic salary ranges are as follows:
+
+- **First Class**:
+  - A: 359 - 494 JOD
+  - B: 279 - 315 JOD
+- **Second Class**:
+  - A: 230 - 258 JOD
+  - B: 186 - 214 JOD
+- **Third Class**:
+  - A: 165 - 189 JOD
+  - B: 133 - 157 JOD
+- **Fourth Class**:
+  - A: 121 - 145 JOD
+  - B: 87 - 111 JOD
+- **Fifth Class**: 65 - 85 JOD
+- **Sixth Class**: 46 - 62 JOD
+- **Seventh Class**: 34 - 46 JOD",11.55247235,10,10,TRUE,0.589968057,1763196284,FALSE
+3,4,"What is the basic salary definition? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff and administrative staff at the University is defined according to specific scales and ranks. For academic staff, the basic salary ranges are as follows:
+
+- **Professor**: 401 - 851 JOD
+- **Associate Professor**: 306 - 354 JOD
+- **Assistant Professor**: 248 - 288 JOD
+- **Practicing Professor**: 228 - 268 JOD
+- **Lecturer**: 163 - 205 JOD
+- **Assistant Lecturer**: 95 - 191 JOD
+
+For administrative staff, the basic salary ranges are as follows:
+
+- **First Class**:
+  - A: 359 - 494 JOD
+  - B: 279 - 315 JOD
+- **Second Class**:
+  - A: 230 - 258 JOD
+  - B: 186 - 214 JOD
+- **Third Class**:
+  - A: 165 - 189 JOD
+  - B: 133 - 157 JOD
+- **Fourth Class**:
+  - A: 121 - 145 JOD
+  - B: 87 - 111 JOD
+- **Fifth Class**: 65 - 85 JOD
+- **Sixth Class**: 46 - 62 JOD
+- **Seventh Class**: 34 - 46 JOD
+
+- **Students:**
+  - The basic salary is not applicable to students as they are not employees of the university. However, students may receive scholarships or other financial aid, but this is not considered a basic salary [BM25_Doc_7].
+
+Additionally, faculty members and administrative staff may receive various bonuses and rewards, but these are not part of the basic salary [gju_payroll_laws.pdf].",28.67460489,10,10,TRUE,0.524988999,1763196313,FALSE
+3,5,"Transportation allowance (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance for academic staff is as follows:
+
+1. President: 170 JOD
+2. Vice President and Dean: 100 JOD
+3. Vice Dean and President Assistant of the Faculty Members: 90 JOD
+4. Faculty Member: 80 JOD [gju_payroll_laws.pdf]
+
+For administrative staff, the transportation allowance is as follows:
+
+1. Third or Fourth Category Employees: 60 JOD
+2. Fifth or Sixth Category Employees: 40 JOD
+3. Seventh Category Employees: 24 JOD [gju_payroll_laws.pdf]
+
+For students, there is no specific transportation allowance mentioned in the provided documents.
+
+Additionally, it is noted that:
+- Faculty members and staff with contracts receive transportation bonuses equal to those of their equivalents in terms of rank and salary [gju_payroll_laws.pdf].
+- No individual may receive more than one of the bonuses stipulated [gju_payroll_laws.pdf].
+- The bonus is not granted to those who have a vehicle dedicated to them from the University or are provided with regular transportation [gju_payroll_laws.pdf].",8.272961855,8,8,TRUE,0.563827441,1763196321,FALSE
+3,6,"Transportation allowance? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance for academic staff is as follows:
+
+- President: 170 JOD
+- Vice President and Dean: 100 JOD
+- Vice Dean and President Assistant of the Faculty Members: 90 JOD
+- Faculty Member: 80 JOD [gju_payroll_laws.pdf]
+
+For administrative staff, the transportation allowance is:
+
+- Employee of third or fourth categories: 60 dinars
+- Employee of fifth or sixth categories: 40 dinars
+- Employee of seventh category: 24 dinars [gju_payroll_laws.pdf]
+
+For students, there is no specific transportation allowance mentioned in the provided documents.
+
+Additionally, it is not allowed for one faculty member or employee to receive more than one bonus stipulated in the respective articles, and the bonus is not granted to those who have a vehicle dedicated to them from the University or are provided with transportation on a regular basis [gju_payroll_laws.pdf].",7.363303185,8,8,TRUE,0.57276166,1763196329,FALSE
+3,7,"List transportation allowance values for all (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for academic staff, administrative staff, and students, as applicable, are as follows:
+
+### Academic Staff:
+1. President: 170 JOD [gju_payroll_laws.pdf]
+2. Vice President and Dean: 100 JOD [gju_payroll_laws.pdf]
+3. Vice Dean and President Assistant of the Faculty Members: 90 JOD [gju_payroll_laws.pdf]
+4. Faculty Member: 80 JOD [gju_payroll_laws.pdf]
+
+### Administrative Staff:
+1. Unit, Department, and Center Director: 90 JOD [gju_payroll_laws.pdf]
+2. Employee of the First or Second Categories: 70 JOD [gju_payroll_laws.pdf]
+3. Employee of the Third or Fourth Categories: 60 JOD [gju_payroll_laws.pdf]
+4. Employee of the Fifth or Sixth Categories: 40 JOD [gju_payroll_laws.pdf]
+5. Employee of the Seventh Category: 24 JOD [gju_payroll_laws.pdf]
+
+### Students:
+- No specific transportation allowance values are mentioned for students in the provided documents. [gju_payroll_laws.pdf]
+
+### Additional Notes:
+- Faculty members assigned with contracts are granted transportation bonuses equal to staff receiving the same salary. [gju_payroll_laws.pdf]
+- No person may receive more than one of the bonuses stipulated in the respective paragraphs. [gju_payroll_laws.pdf]
+- The bonus is not granted to those who have a vehicle dedicated to them from the University or are provided with transportation on a regular basis. [gju_payroll_laws.pdf]",14.89875555,10,10,TRUE,0.561638996,1763196344,FALSE
+3,8,"List transportation allowance values for all, including dean (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for different roles at the University are as follows:
+
+### For Faculty Members:
+1. **President**: 170 JOD [gju_payroll_laws.pdf]
+2. **Vice President and Dean**: 100 JOD [gju_payroll_laws.pdf]
+3. **Vice Dean and President Assistant of the Faculty Members**: 90 JOD [gju_payroll_laws.pdf]
+4. **Faculty Member**: 80 JOD [gju_payroll_laws.pdf]
+
+### For Administrative Staff:
+1. **Unit, Department, or Center Director**: 90 JOD [gju_payroll_laws.pdf]
+2. **Employee of the First or Second Categories**: 70 JOD [gju_payroll_laws.pdf]
+3. **Employee of the Third or Fourth Categories**: 60 JOD [gju_payroll_laws.pdf]
+4. **Employee of the Fifth or Sixth Categories**: 40 JOD [gju_payroll_laws.pdf]
+5. **Employee of the Seventh Category**: 24 JOD [gju_payroll_laws.pdf]
+
+### For Students:
+- **Student Entry Permit**: Not specified for transportation allowance [gju_payroll_laws.pdf]
+- **Student Vehicle Entry Permit**: Not specified for transportation allowance [gju_payroll_laws.pdf]
+
+### Additional Notes:
+- **Dean (as an Academic Staff)**: If the Dean is also a faculty member, they would receive the transportation allowance as specified for faculty members (100 JOD).
+- **Dean (as an Administrative Staff)**: If the Dean is also an administrative staff member, they would receive the transportation allowance as specified for administrative staff (90 JOD).
+
+It is important to note that no specific transportation allowance is mentioned for students in the provided documents.",17.11687899,10,10,TRUE,0.564624549,1763196361,FALSE
+3,9,"Family allowance? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic and administrative staff at the University, the family allowance is structured as follows:
+
+- **Wife**: 7 JOD per month.
+- **Children**:
+  - First child: 2 JOD per month.
+  - Second child: 2 JOD per month.
+  - Third child: 2 JOD per month.
+  - Fourth child: 2 JOD per month.
+
+This allowance is provided for up to four children. If the employee has more than one wife, the bonus is given for only one wife if there are four children. If there are fewer than four children, the remaining child bonuses can be granted to other wives, as long as the total number of wives and children does not exceed four [gju_payroll_laws.pdf].
+
+For students, the context does not provide specific information about a family allowance. However, there is a discount for the children of university employees at the university and in other public universities, which is 50% of the credit hours tuition fees for the undergraduate degree only [gju_payroll_laws.pdf].",7.32924819,10,10,TRUE,0.598087673,1763196369,FALSE
+3,10,"Family bonus? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The family bonus for academic and administrative staff at the University is as follows:
+
+- **For the wife:** 7 JOD
+- **For each of the first four children:** 2 JOD each
+
+This bonus is granted under the following conditions:
+
+1. **Children older than eighteen years of age:** The bonus is not granted unless they are still in secondary school, undergraduate programs, or have special needs.
+2. **Wife working at or getting paid monthly by a public or private institution:** The bonus is not granted for such a wife.
+
+For polygamous marriages, the bonus is given for only one wife if the employee has four children. If the employee has fewer than four children, the remaining child bonuses can be granted to other wives, as long as the total number of wives and children does not exceed four [gju_payroll_laws.pdf].
+
+There is no mention of a family bonus for students in the provided documents.",9.479513884,10,10,TRUE,0.587484067,1763196379,FALSE
+3,11,"What is the family bonus? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The family bonus for academic staff at the University is as follows:
+
+- **Wife**: 7 JOD
+- **First Child**: 2 JOD
+- **Second Child**: 2 JOD
+- **Third Child**: 2 JOD
+- **Fourth Child**: 2 JOD
+
+For administrative staff, the family bonus is not explicitly detailed in the provided documents. 
+
+For students, there is no mention of a family bonus; instead, there is a discount for children of university employees. The discount for students from the children of employees of the university and in other public universities who are accepted in the full-time study on the regular program at the university is at a rate of 50%, and it shall be applied to the fees of credit hours for the undergraduate degree only [gju_payroll_laws.pdf].",10.50258207,8,8,TRUE,0.538944884,1763196389,FALSE
+3,12,"What is the family bonus for wife? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The family bonus for the wife is 7 dinars for university staff, which includes academic and administrative staff [gju_payroll_laws.pdf]. There is no mention of a family bonus for students in the provided documents.",3.023797989,8,8,TRUE,0.575560257,1763196392,FALSE
+3,13,"Tax exemption? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Based on the provided documents, there is no explicit mention of a blanket tax exemption for academic staff, administrative staff, and students. However, specific exemptions and deductions are outlined for certain categories and expenses:
+
+1. **Exemptions for Individuals and Dependents**:
+   - Natural persons and their dependents are granted exemptions against various expenses, including medical, educational, rent, home loan interest, and murabaha. The exemptions are as follows:
+     - One thousand dinars for the taxpayer starting from the year 2020 onwards.
+     - One thousand dinars for the taxpayer’s spouse starting from the year 2020 onwards.
+     - One thousand dinars for each son/daughter up to a maximum of three thousand dinars. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+2. **Deductions for Donations and Subscriptions**:
+   - Any person may deduct donations and subscriptions paid in the Kingdom without any personal interest for religious, charitable, humanitarian, scientific, environmental, sport, or professional purposes, if the Council of Ministers approves such capacity. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+3. **Taxable Income and Deductions**:
+   - When an employer pays a monthly salary or wage subject to tax to an employee, in addition to any non-monthly amount as an annual bonus, housing allowance, or similar job benefits, that exceeds 1/12 of the total exemptions due to the employee, the employer shall deduct the tax from that increase. [kta_document_(50).pdf]
+
+4. **Specific University Expenses**:
+   - The German Jordanian University has specific regulations for various expenses, including overtime allowances, travel and moving allowances, and other job-related benefits. These expenses are detailed and may be subject to specific rules and approvals. [gju_payroll_laws.pdf]
+
+5. **Non-Taxable Benefits**:
+   - Some benefits provided by employers, such as medical treatment, meals at the workplace, traveling, transportation, life insurance against work injuries, and health insurance paid by the employer on behalf of the employees and their dependents, are not explicitly mentioned as taxable. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+Given the above points, while there is no overarching tax exemption for academic staff, administrative staff, and students, there are specific exemptions and deductions available for certain types of income and expenses. For a comprehensive understanding, it would be best to consult the specific sections of the tax law and university regulations.",23.39262748,8,8,TRUE,0.600444785,1763196416,FALSE
+3,14,"Health insurance? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Health insurance at the German Jordanian University is regulated differently for academic staff, administrative staff, and students. Here are the key points:
+
+### For Academic and Administrative Staff:
+1. **Membership and Beneficiaries:**
+   - Health insurance is optional for all employers at the University [gju_payroll_laws.pdf].
+   - Members can include the following beneficiaries:
+     - Spouse and parents
+     - Children under the age of 18
+     - Children enrolled in educational institutions, until the end of their study or until they reach the age of 25, whichever comes first
+     - Single females and unemployed divorced females [gju_payroll_laws.pdf].
+
+2. **Exclusions:**
+   - The insurance does not cover:
+     - Suicide, suicidal attempts, voluntary self-injury on purpose or attempt of it regardless of the mental health of the member
+     - Injuries caused by participation in a declared or undeclared war, civil disturbance, riots, civil war, revolutions, or anything that is semi-war
+     - All cases related to hazardous activities such as motor racing
+     - Atomic radiation, radioactive contamination, or chemical contamination
+     - Plastic surgeries, unless caused by an accident that the insurance covers and occurred while the insurance is still active
+     - Recovery, spa treatments, mineral springs, or any relaxation spots
+     - Artificial limbs
+     - Auxiliary external medical and artificial devices unless approved by the president upon the recommendation of the committee
+     - Dental treatment, except dental extraction, mouth and gum diseases, any case that results from accidents
+     - Vitamins and mineral salts, except in case of pregnancy and osteoporosis
+     - All kinds of sexual stimulators
+     - All kinds of infertility
+     - Food outside of the hospital
+     - All cosmetics, serums, and vaccinations, soap and shampoo, toothpaste, sun-block, and acne treatments with the exception of vaccinations for employees in the University
+     - Home visits for patients (including medical examination bill)
+     - Medical procedures which are not scientifically identified as a treatment
+     - Psychiatric sessions [gju_payroll_laws.pdf].
+
+3. **Continuation of Membership:**
+   - Members on sabbatical leave, unpaid vacation, or secondment may continue their membership by paying the full annual premium [gju_payroll_laws.pdf].
+
+### For Students:
+1. **Participation:**
+   - Health insurance is compulsory for all university students who are enrolled to obtain any degree or scientific certificate, and for private study students [gju_payroll_laws.pdf].
+
+2. **Exclusions:**
+   - The insurance does not cover:
+     - Suicide, suicidal attempts, voluntary self-injury on purpose or attempt of it regardless of the mental health of the member
+     - Injuries caused by participation in a declared or undeclared war, civil disturbance, riots, civil war, revolutions, or anything that is semi-war
+     - All cases related to hazardous activities such as motor racing
+     - Atomic radiation, radioactive contamination, or chemical contamination
+     - Plastic surgeries, unless caused by an accident that the insurance covers and occurred while the insurance is still active
+     - Recovery, spa treatments, mineral springs, or any relaxation spots
+     - Artificial limbs
+     - Auxiliary external medical and artificial devices unless approved by the president upon the recommendation of the committee
+     - Dental treatment, except dental extraction, mouth and gum diseases, any case that results from accidents
+     - Vitamins and mineral salts, except in case of pregnancy and osteoporosis
+     - All kinds of sexual stimulators
+     - All kinds of infertility
+     - Food outside of the hospital
+     - All cosmetics, serums, and vaccinations, soap and shampoo, toothpaste, sun-block, and acne treatments with the exception of vaccinations for employees in the University
+     - Home visits for patients (including medical examination bill)
+     - Medical procedures which are not scientifically identified as a treatment
+     - Psychiatric sessions [gju_payroll_laws.pdf].
+
+3. **Payment:**
+   - Health insurance takes effect upon payment of university fees [gju_payroll_laws.pdf].
+
+### General Provisions:
+- **Committee:**
+  - The Students Health Insurance Committee at the University is responsible for health insurance matters [gju_payroll_laws.pdf].
+
+- **Treatment:**
+  - Treatment is personal and it is not permissible to give the university card or health insurance card to anyone else [gju_payroll_laws.pdf].
+
+- **Claims:**
+  - The department of human resources is in charge of receiving the financial claims regarding the treatment expenses and sends it to the approved company to be spent as duly required [gju_payroll_laws.pdf].
+
+For any cases not explicitly mentioned, the president of the University has the authority to make a decision [gju_payroll_laws.pdf].",38.5074966,10,10,TRUE,0.499183838,1763196455,FALSE
+3,15,"University contribution to health insurance? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic staff and administrative staff, the University contributes to the health insurance costs, but the exact amount and the contribution percentage are determined by the University Council upon the recommendation of the Health Insurance Committee [gju_payroll_laws.pdf].
+
+For students, the University does not contribute to the health insurance costs; the participation in health insurance is compulsory for all university students, and the health insurance takes effect upon payment of university fees [gju_payroll_laws.pdf].",9.038769484,10,10,TRUE,0.52599467,1763196464,FALSE
+3,16,"Academic staff grades? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic staff, the performance evaluation grades are as follows:
+
+- Excellent
+- Very Good
+- Good
+- Satisfactory
+- Poor
+
+These grades are used to evaluate the general performance of the employee for purposes such as promotion and encouraging incentives [gju_payroll_laws.pdf]. 
+
+For students, the grading scale is different and is based on the cumulative average:
+
+- 70 – less than 76: Good
+- 76 – less than 84: Very Good
+- 84 – less than 92: Excellent
+- 92 – 100: Excellent with honors
+
+The minimum GPA for obtaining a Ph.D. degree is ""Very Good"" [gju_payroll_laws.pdf].",11.08265114,2,2,TRUE,0.470274768,1763196475,FALSE
+3,17,"Academic staff categories? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The academic staff categories at the University are as follows:
+
+1. Professor
+2. Associate Professor
+3. Assistant Professor
+4. Instructor
+5. Assistant Instructor
+6. Practicing Professor
+
+These categories are defined in [gju_payroll_laws.pdf] under Article 22.",3.460665464,10,10,TRUE,0.43841239,1763196479,FALSE
+3,18,"Administrative staff categories? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The administrative staff categories at the University are as follows:
+
+1. **Category One**: Includes leading administrative positions or highly specialized positions. Only employees with a bachelor's degree minimum, in addition to the qualifications and experience, shall be appointed in or promoted to this category positions. The tasks of this category include:
+   - Proposing the general policy for their units, centers, or departments.
+   - Preparing plans for the programs, projects, and services for their units, centers, or departments, and following up and supervising their execution. [gju_payroll_laws.pdf]
+
+2. **Category Two**: Includes job positions that conduct specialized work in the field of applied, natural, and human sciences, such as medical, engineering, economic, agricultural, administrative, legal, educational, and financial, and accounting professions, or the like, and supervise such works. Only employees with a bachelor's degree minimum shall be appointed in this category. [gju_payroll_laws.pdf]
+
+3. **Category Three**: Includes job positions that conduct basic work in the administrative clerical, accounting, training, and warehouses affairs, procurement, libraries, technical works, crafts, vocational fields, or the like, and supervise such works. Only employees with a minimum of diplomas from community colleges or an equivalent shall be appointed in this category. [gju_payroll_laws.pdf]
+
+4. **Category Four**: Includes job positions whose tasks shall be to conduct assistant vocational craftwork and supervising their execution or performing certain services. [gju_payroll_laws.pdf]",17.88742805,10,10,TRUE,0.48018466,1763196497,FALSE

@@ -1,0 +1,1393 @@
+run_id,subrun_id,question,context_type,chunk_size,top_k,model,embedding_model,answer,latency_sec,reviewer1_score,reviewer2_score,citation_present,confidence_score,timestamp,faq_fallback_used,Category,Difficulty
+1,1,Basic salary,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff at the University is defined as follows:
+
+- **Professor**: 851 JOD to 401 JOD
+- **Associate Professor**: 439 JOD to 354 JOD
+- **Assistant Professor**: 341 JOD to 301 JOD
+- **Practicing Professor**: 340 JOD to 300 JOD
+- **Lecturer**: 268 JOD to 228 JOD
+- **Assistant Lecturer**: 191 JOD to 95 JOD
+
+For administrative staff, the basic salary scale is defined as follows:
+
+- **First Class**:
+  - A: 494 JOD to 359 JOD
+  - B: 315 JOD to 279 JOD
+- **Second Class**:
+  - A: 258 JOD to 230 JOD
+  - B: 214 JOD to 186 JOD
+- **Third Class**:
+  - A: 189 JOD to 165 JOD
+  - B: 157 JOD to 133 JOD
+- **Fourth Class**:
+  - A: 145 JOD to 121 JOD
+  - B: 111 JOD to 87 JOD
+- **Fifth Class**: 85 JOD to 65 JOD
+- **Sixth Class**: 62 JOD to 46 JOD
+- **Seventh Class**: 46 JOD to 34 JOD
+
+For students, there is no mention of a basic salary in the provided documents. [gju_payroll_laws.pdf]",6.96598911,10,10,TRUE,0.313339485,1768144575,TRUE,Regular Allowance,Difficult
+1,2,Basic salary?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff at the German Jordanian University varies based on rank:
+
+- Professor: 851 JOD (Class A) to 401 JOD (Class B) [gju_payroll_laws.pdf]
+- Associate Professor: 439 JOD (Class A) to 354 JOD (Class B) [gju_payroll_laws.pdf]
+- Assistant Professor: 341 JOD (Class A) to 288 JOD (Class B) [gju_payroll_laws.pdf]
+- Practicing Professor: 340 JOD (Class A) to 268 JOD (Class B) [gju_payroll_laws.pdf]
+- Lecturer: 264 JOD (Class A) to 205 JOD (Class B) [gju_payroll_laws.pdf]
+- Assistant Lecturer: 191 JOD (Class A) to 95 JOD (Class B) [gju_payroll_laws.pdf]
+
+For administrative staff, the basic salary scale is as follows:
+
+- First Class: 494 JOD (Class A) to 279 JOD (Class B) [gju_payroll_laws.pdf]
+- Second Class: 258 JOD (Class A) to 214 JOD (Class B) [gju_payroll_laws.pdf]
+- Third Class: 189 JOD (Class A) to 157 JOD (Class B) [gju_payroll_laws.pdf]
+- Fourth Class: 145 JOD (Class A) to 111 JOD (Class B) [gju_payroll_laws.pdf]
+- Fifth Class: 85 JOD [gju_payroll_laws.pdf]
+- Sixth Class: 62 JOD [gju_payroll_laws.pdf]
+- Seventh Class: 46 JOD [gju_payroll_laws.pdf]",8.83773184,10,10,TRUE,0.308272125,1768144579,TRUE,Regular Allowance,Difficult
+1,3,What is the basic salary?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff at the German Jordanian University varies based on rank:
+
+- Professor: 851 JOD (Class A) to 401 JOD (Class B) [gju_payroll_laws.pdf]
+- Associate Professor: 439 JOD (Class A) to 354 JOD (Class B) [gju_payroll_laws.pdf]
+- Assistant Professor: 341 JOD (Class A) to 288 JOD (Class B) [gju_payroll_laws.pdf]
+- Practicing Professor: 340 JOD (Class A) to 268 JOD (Class B) [gju_payroll_laws.pdf]
+- Lecturer: 264 JOD (Class A) to 205 JOD (Class B) [gju_payroll_laws.pdf]
+- Assistant Lecturer: 191 JOD (Class A) to 95 JOD (Class B) [gju_payroll_laws.pdf]
+
+For administrative staff, the basic salary scale is as follows:
+
+- First Class: 494 JOD (Class A) to 279 JOD (Class B) [gju_payroll_laws.pdf]
+- Second Class: 258 JOD (Class A) to 214 JOD (Class B) [gju_payroll_laws.pdf]
+- Third Class: 189 JOD (Class A) to 157 JOD (Class B) [gju_payroll_laws.pdf]
+- Fourth Class: 145 JOD (Class A) to 111 JOD (Class B) [gju_payroll_laws.pdf]
+- Fifth Class: 85 JOD [gju_payroll_laws.pdf]
+- Sixth Class: 62 JOD [gju_payroll_laws.pdf]
+- Seventh Class: 46 JOD [gju_payroll_laws.pdf]
+
+For students, there is no mention of a basic salary in the provided documents.",8.58074474,10,10,TRUE,0.22501378,1768144598,TRUE,Regular Allowance,Difficult
+1,4,What is the basic salary definition?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Based on the provided documents, the basic salary for academic staff and administrative staff is defined as follows:
+
+- **Academic Staff:**
+  - The basic salary scale for academic staff is defined according to their ranks. For example:
+    - Professor: 401 to 851 JOD [gju_payroll_laws.pdf]
+    - Associate Professor: 391 to 439 JOD [gju_payroll_laws.pdf]
+    - Assistant Professor: 301 to 341 JOD [gju_payroll_laws.pdf]
+    - Lecturer: 163 to 205 JOD [gju_payroll_laws.pdf]
+    - Assistant Lecturer: 95 to 191 JOD [gju_payroll_laws.pdf]
+
+- **Administrative Staff:**
+  - The basic salary scale for administrative staff is also defined in categories. For example:
+    - First Category: 359 to 494 JOD [gju_payroll_laws.pdf]
+    - Second Category: 230 to 258 JOD [gju_payroll_laws.pdf]
+    - Third Category: 133 to 157 JOD [gju_payroll_laws.pdf]
+    - Fourth Category: 121 to 145 JOD [gju_payroll_laws.pdf]
+    - Fifth Category: 87 to 111 JOD [gju_payroll_laws.pdf]
+    - Sixth Category: 46 to 62 JOD [gju_payroll_laws.pdf]
+    - Seventh Category: 34 to 46 JOD [gju_payroll_laws.pdf]
+
+- **Students:**
+  - There is no mention of a basic salary for students in the provided documents.
+
+Additionally, the documents specify that certain bonuses and rewards are not included in the basic salary for the purposes of social security, end-of-service remuneration, or participation in the housing fund [gju_payroll_laws.pdf].",8.98011255,10,10,TRUE,0.290442367,1768144602,TRUE,Regular Allowance,Medium
+1,5,Transportation allowance,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance for academic staff is as follows:
+
+1. President: 170 JOD
+2. Vice President and Dean: 100 JOD
+3. Vice Dean and President Assistant of the Faculty Members: 90 JOD
+4. Faculty Member: 80 JOD
+
+For administrative staff, the transportation allowance is:
+
+1. Employee of third or fourth categories: 60 dinars
+2. Employee of the fifth or sixth categories: 40 dinars
+3. Employee of seventh category: 24 dinars
+
+It is important to note that:
+- Faculty members and staff working with holistic salaries or with contracts shall be granted transportation bonuses equal to those determined for their equivalents in terms of rank and salary.
+- No individual may receive more than one of the bonuses stipulated.
+- The bonus is not disbursed to any employee for whom the University has allocated a car or has provided transportation on a regular basis.
+- Transportation bonus shall not be granted to staff delegated on training courses lasting more than thirty days, or those on sabbatical leave. [gju_payroll_laws.pdf]",7.813657045,8,8,TRUE,0.296946488,1768144608,TRUE,Regular Allowance,Difficult
+1,6,Transportation allowance?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for academic staff, administrative staff, and students are as follows:
+
+### Academic Staff:
+1. **President**: 170 JOD [gju_payroll_laws.pdf]
+2. **Vice President and Dean**: 100 JOD [gju_payroll_laws.pdf]
+3. **Vice Dean and President Assistant of the Faculty Members**: 90 JOD [gju_payroll_laws.pdf]
+4. **Faculty Member**: 80 JOD [gju_payroll_laws.pdf]
+
+### Administrative Staff:
+1. **Unit, Department, or Center Director**: 90 JOD [gju_payroll_laws.pdf]
+2. **Employee of the First or Second Categories**: 70 JOD [gju_payroll_laws.pdf]
+3. **Employee of the Third or Fourth Categories**: 60 JOD [gju_payroll_laws.pdf]
+4. **Employee of the Fifth or Sixth Categories**: 40 JOD [gju_payroll_laws.pdf]
+5. **Employee of the Seventh Category**: 24 JOD [gju_payroll_laws.pdf]
+For students, there is no specific mention of a transportation allowance in the provided documents [gju_payroll_laws.pdf]. 
+
+Additionally, faculty members and staff who are provided with a vehicle or regular transportation by the University are not eligible for the transportation bonus [gju_payroll_laws.pdf].",8.398137331,10,10,TRUE,0.274702244,1768144614,TRUE,Regular Allowance,Difficult
+1,7,List the transportation allowance values for all,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for academic staff, administrative staff, and students are as follows:
+
+### Academic Staff:
+1. **President**: 170 JOD [gju_payroll_laws.pdf]
+2. **Vice President and Dean**: 100 JOD [gju_payroll_laws.pdf]
+3. **Vice Dean and President Assistant of the Faculty Members**: 90 JOD [gju_payroll_laws.pdf]
+4. **Faculty Member**: 80 JOD [gju_payroll_laws.pdf]
+
+### Administrative Staff:
+1. **Unit, Department, or Center Director**: 90 JOD [gju_payroll_laws.pdf]
+2. **Employee of the First or Second Categories**: 70 JOD [gju_payroll_laws.pdf]
+3. **Employee of the Third or Fourth Categories**: 60 JOD [gju_payroll_laws.pdf]
+4. **Employee of the Fifth or Sixth Categories**: 40 JOD [gju_payroll_laws.pdf]
+5. **Employee of the Seventh Category**: 24 JOD [gju_payroll_laws.pdf]
+
+### Students:
+- **No specific transportation allowance is mentioned for students** [gju_payroll_laws.pdf]
+
+Note: The transportation allowance is not granted to those who have a vehicle dedicated to them from the University or are provided with transportation on a regular basis [gju_payroll_laws.pdf].",10.74320006,10,10,TRUE,0.245092178,1768144622,TRUE,Regular Allowance,Mediun
+1,8,"List the transportation allowance values for all, including dean",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for different roles at the University are as follows:
+
+### For Faculty Members:
+1. **President**: 170 JOD [gju_payroll_laws.pdf]
+2. **Vice President and Dean**: 100 JOD [gju_payroll_laws.pdf]
+3. **Vice Dean and President Assistant of the Faculty Members**: 90 JOD [gju_payroll_laws.pdf]
+4. **Faculty Member**: 80 JOD [gju_payroll_laws.pdf]
+
+### For Administrative Staff:
+1. **Unit, Department, and Center Director**: 90 JOD [gju_payroll_laws.pdf]
+2. **Employee of the First or Second Categories**: 70 JOD [gju_payroll_laws.pdf]
+3. **Employee of the Third or Fourth Categories**: 60 JOD [gju_payroll_laws.pdf]
+4. **Employee of the Fifth or Sixth Categories**: 40 JOD [gju_payroll_laws.pdf]
+5. **Employee of the Seventh Category**: 24 JOD [gju_payroll_laws.pdf]
+
+### For Students:
+- **Student Entry Permit**: Not specified in the provided documents.
+- **Student Vehicle Entry Permit**: Not specified in the provided documents.
+
+### Additional Notes:
+- **Dean (Academic Staff)**: The transportation allowance for a dean is 100 JOD [gju_payroll_laws.pdf].
+- **Dean (Administrative Staff)**: The transportation allowance for a unit, department, or center director is 90 JOD [gju_payroll_laws.pdf].
+
+### General Rules:
+- **No Double Bonuses**: No person may receive more than one of the bonuses stipulated in the respective articles [gju_payroll_laws.pdf].
+- **No Allowance for Those with University-Provided Transportation**: The transportation allowance is not granted to those who have a vehicle dedicated to them from the University or are regularly provided with transportation [gju_payroll_laws.pdf].
+
+If you need more specific information or have additional questions, please let me know!",4.3710978,10,10,TRUE,0.292155686,1768144631,TRUE,Regular Allowance,Medium
+1,9,Family allowance?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic and administrative staff at the University, the family allowance is structured as follows:
+
+- **Wife**: 7 JOD per month.
+- **Children**:
+  - First child: 2 JOD per month.
+  - Second child: 2 JOD per month.
+  - Third child: 2 JOD per month.
+  - Fourth child: 2 JOD per month.
+
+**Conditions**:
+- The bonus is not granted for children older than eighteen years of age, unless they are still in secondary school, undergraduate programs, or have special needs [gju_payroll_laws.pdf].
+- The bonus is not granted for a wife who is working at or receiving a monthly salary from a public or private institution [gju_payroll_laws.pdf].
+
+In the case of polygamy:
+- The bonus is given for the first wife only if the employee has four children. If the employee has fewer than four children, the remaining child bonuses can be granted to other wives, provided the total number of wives and children does not exceed four [gju_payroll_laws.pdf].
+
+For students, there is no mention of a family allowance in the provided documents.",6.116910934,10,10,TRUE,0.576976806,1768144639,FALSE,Regular Allowance,Difficult
+1,10,Family bonus?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic and administrative staff at the University, the family bonus is provided as follows:
+
+- **Wife**: 7 JOD
+- **First child**: 2 JOD
+- **Second child**: 2 JOD
+- **Third child**: 2 JOD
+- **Fourth child**: 2 JOD
+
+**Conditions:**
+- The bonus is given for the first wife only if the employee has four children. If the employee has less than four children, the remaining child bonuses can be granted to other wives, as long as the total number of wives and children does not exceed four.
+- The family bonus is not given for children who have completed eighteen years of age, unless they are still in secondary school or undergraduate programs or have special needs.
+- The family bonus is not given for a wife who is working at or getting paid monthly by a public or private institution. [gju_payroll_laws.pdf]
+
+For students, there is no mention of a family bonus in the provided documents.",6.16395354,10,10,TRUE,0.65869163,1768144653,FALSE,Regular Allowance,Difficult
+1,11,What is the family bonus?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic and administrative staff at the University, the family bonus is provided as follows:
+
+- **Wife**: 7 JOD
+- **First child**: 2 JOD
+- **Second child**: 2 JOD
+- **Third child**: 2 JOD
+- **Fourth child**: 2 JOD
+
+**Conditions:**
+- The bonus is given for the first wife only if the employee has four children. If the employee has less than four children, the remaining child bonuses can be granted to other wives, as long as the total number of wives and children does not exceed four.
+- The family bonus is not given for children who have completed eighteen years of age, unless they are still in secondary school or undergraduate programs or have special needs.
+- The family bonus is not given for a wife who is working at or getting paid monthly by a public or private institution. [gju_payroll_laws.pdf]",8.15033007,10,10,TRUE,0.284465146,1768144656,TRUE,Regular Allowance,Difficult
+1,12,What is the family bonus for wife?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,The family bonus for the wife is 7 dinars for both academic staff and administrative staff [gju_payroll_laws.pdf]. There is no mention of a family bonus for students in the provided documents.,7.902966022,8,8,TRUE,0.417549016,1768144658,TRUE,Regular Allowance,Easy
+1,13,Tax exemption?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Based on the provided documents, the following groups are eligible for tax exemptions under specific conditions:
+
+1. **Non-Profit Organizations and Entities:**
+   - Political parties, trade unions, and professional associations such as chambers of commerce and industry, cooperatives, and other legally registered and licensed non-profit organizations.
+   - Non-profit religious, charitable, cultural, educational, sport, or health organizations.
+   - Exempted companies registered under the Companies Law with incomes generated outside the Kingdom, except for incomes generated from taxable sources of income under the provisions of this Law. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+2. **Individuals and Dependents:**
+   - Natural persons and their dependents are granted exemptions against medical expenses, educational expenses, rent, home loan interest, and murabaha. The exemptions are as follows:
+     - One thousand dinars for the taxpayer starting from the year 2020 onwards.
+     - One thousand dinars for the taxpayer’s spouse starting from the year 2020 onwards.
+     - One thousand dinars for each son/daughter up to a maximum of three thousand dinars. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+3. **Donations and Subscriptions:**
+   - Any person may deduct donations without any personal interest to public corporations, departments, or municipalities from their gross income.
+   - Subscriptions and donations paid in the Kingdom without any personal interest for religious, charitable, humanitarian, scientific, environmental, sport, or professional purposes, if the Council of Ministers approves such capacity, are also deductible. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+4. **University-Specific Provisions:**
+   - Faculty members and other university employees may receive financial remuneration for additional tasks, such as teaching, scientific research, or other duties, as determined by the President. [gju_payroll_laws.pdf]
+   - The President may grant unpaid leave to employees for a period of no more than three months, which does not count towards rewards, savings, promotion, or annual leave. [gju_payroll_laws.pdf]
+
+However, the documents do not explicitly state tax exemptions for academic staff, administrative staff, and students as a blanket category. The exemptions are more specific to the types of expenses and activities mentioned above. If you need more detailed information on specific scenarios, please provide additional context or specific questions.",9.73565364,8,8,TRUE,0.128610432,1768144676,TRUE,Income Tax,Difficult
+1,14,Health insurance?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Health insurance for academic staff, administrative staff, and students at the German Jordanian University is regulated by specific articles and provisions. Here is a summary based on the provided documents:
+
+1. **For Employees (Academic and Administrative Staff):**
+   - **Membership and Beneficiaries:**
+     - Health insurance is optional for all employees at the University [gju_payroll_laws.pdf].
+     - Members can include their spouse, parents, children under 18, children enrolled in educational institutions up to age 25, and single females or unemployed divorced females [gju_payroll_laws.pdf].
+   - **Exclusions:**
+     - The insurance does not cover suicide, self-injury, injuries from war or civil disturbances, hazardous activities, atomic radiation, and certain medical procedures [gju_payroll_laws.pdf].
+     - Specific exclusions include dental treatments (except for extraction, mouth and gum diseases, and accidents), vitamins and mineral salts (except for pregnancy and osteoporosis), sexual stimulators, infertility treatments, and cosmetic procedures [gju_payroll_laws.pdf].
+   - **Continued Membership:**
+     - Employees on sabbatical, unpaid leave, or secondment can continue their membership by paying the full annual premium [gju_payroll_laws.pdf].
+
+2. **For Students:**
+   - **Participation:**
+     - Health insurance is compulsory for all university students enrolled in any degree or scientific certificate program [gju_payroll_laws.pdf].
+   - **Exclusions:**
+     - Similar to employees, the insurance does not cover certain exclusions such as suicide, self-injury, injuries from war or civil disturbances, hazardous activities, and atomic radiation [gju_payroll_laws.pdf].
+     - Specific exclusions for students include dental treatments (except for extraction, mouth and gum diseases, and accidents), vitamins and mineral salts (except for pregnancy and osteoporosis), sexual stimulators, infertility treatments, and cosmetic procedures [gju_payroll_laws.pdf].
+   - **Coverage:**
+     - Health insurance takes effect upon payment of university fees [gju_payroll_laws.pdf].
+     - Treatment is personal and cannot be transferred to others [gju_payroll_laws.pdf].
+
+3. **General Provisions:**
+   - **Committee:**
+     - The Students Health Insurance Committee and the Committee of Health Insurance at the University are responsible for overseeing health insurance matters [gju_payroll_laws.pdf].
+   - **Fees:**
+     - No student is exempt from the health insurance subscription fee, and it is not recoverable [gju_payroll_laws.pdf].
+
+If you have specific questions or need further details, please let me know!",5.07597327,10,10,TRUE,0.215892061,1768144682,TRUE,Health Insurance,Difficult
+1,15,University contribution to health insurance?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic staff and administrative staff, the university contributes to the health insurance costs, but the specific percentage and the maximum amount that the university contributes are decided by the University Council upon the recommendation of the Health Insurance Committee [gju_payroll_laws.pdf].
+
+For students, the health insurance subscription fee is mandatory and must be paid by the students themselves. The university does not contribute to the students' health insurance fees [gju_payroll_laws.pdf].",5.482095003,10,10,TRUE,0.400498158,1768144688,TRUE,Health Insurance,Difficult
+1,16,Academic staff ranks?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The academic staff ranks at the University are as follows:
+
+1. Professor
+2. Associate Professor
+3. Assistant Professor
+4. Instructor
+5. Assistant Instructor
+6. Practicing Professor",5.43384504,10,10,TRUE,0.181868056,1768144696,TRUE,Employee Attributes,Difficult
+1,17,Academic staff categories?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The academic staff categories at the University are as follows:
+
+1. Professor
+2. Associate Professor
+3. Assistant Professor
+4. Instructor
+5. Assistant Instructor
+6. Practicing Professor
+
+These categories are outlined in [gju_payroll_laws.pdf] under Article 22.",4.776571989,10,10,TRUE,0.230568508,1768144699,TRUE,Employee Attributes,Medium
+1,18,Administrative staff categories?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The administrative staff categories at the University are as follows:
+
+1. **Category One**: Includes leading administrative positions or highly specialized positions. Only employees with a bachelor's degree minimum, in addition to the qualifications and experience, shall be appointed in or promoted to this category positions. The tasks of this category include proposing the general policy for their units, centers, or departments, preparing plans for the programs, projects, and services for their units, centers, or department, and following up and supervising their execution [gju_payroll_laws.pdf].
+
+2. **Category Two**: Includes job positions which shall conduct specialized work in the field of applied, natural, and human sciences, such as medical, engineering, economic, agricultural, administrative, legal, educational, and financial, and accounting professions, or the like, and supervise such works. Only employees with a bachelor's degree minimum shall be appointed in this category [gju_payroll_laws.pdf].
+
+3. **Category Three**: Includes job positions that shall conduct basic work in the administrative clerical, accounting, training and warehouses affairs, procurement, libraries, technical works, crafts, vocational fields, or the like, and supervise such works. Only employees with a minimum of diplomas from community colleges or an equivalent shall be appointed in this category [gju_payroll_laws.pdf].
+
+4. **Category Four**: Includes job positions whose tasks shall be to conduct assistant vocational craftwork and supervising their execution or performing certain services [gju_payroll_laws.pdf].",9.953187227,10,10,TRUE,0.241522849,1768144709,TRUE,Employee Attributes,Medium
+1,19,Is membership in health insurance optional for all employees at GJU?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, membership in health insurance is optional for all employees at GJU [gju_payroll_laws.pdf].",3.148926973,10,10,TRUE,0.325550123,1768144712,TRUE,Health Insurance,Easy
+1,20,Are children under the age of 18 eligible for inclusion in the health insurance?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, children under the age of 18 are eligible for inclusion in the health insurance [gju_payroll_laws.pdf].",7.329445601,10,10,TRUE,0.274562176,1768144715,TRUE,Health Insurance,Easy
+1,21,Can single females and unemployed divorced females be included as health insurance beneficiaries?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, single females and unemployed divorced females can be included as health insurance beneficiaries [gju_payroll_laws.pdf].",5.139724731,10,10,TRUE,0.393385313,1768144717,TRUE,Health Insurance,Easy
+1,22,Who can a member include as beneficiaries in the health insurance plan?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"According to the provided documents, a member may include the following beneficiaries in the health insurance plan:
+
+1. Spouse and parents
+2. Children under the age of 18
+3. Children enrolled in educational institutions, until the end of their study or until they reach the age of 25, whichever comes first
+4. Single females and unemployed divorced females [gju_payroll_laws.pdf]",4.463879824,10,10,TRUE,0.259198777,1768144722,TRUE,Health Insurance,Medium
+1,23,Are cosmetic treatments and vaccinations covered under the health insurance regulation?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Cosmetic treatments are not covered under the health insurance regulation. Vaccinations are generally not covered, except for vaccinations for employees in the University [gju_payroll_laws.pdf].",8.637616634,10,10,TRUE,0.339522461,1768144724,TRUE,Health Insurance,Easy
+1,24,What dental treatments are included under the health insurance according to this regulation?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"According to the regulation, the health insurance covers dental treatment except for dental extraction, mouth and gum diseases, and any case that results from accidents [gju_payroll_laws.pdf].",5.65820241,2,2,TRUE,0.414789628,1768144727,TRUE,Health Insurance,Medium
+1,25,Who recommends instructions to the University Council for executing the health insurance regulation?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,The President recommends instructions to the University Council for executing the health insurance regulation [gju_payroll_laws.pdf].,2.156043768,10,10,TRUE,0.315899943,1768144730,TRUE,Health Insurance,Easy
+1,26,What are the main tasks and authorities of the health insurance committee?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The main tasks and authorities of the health insurance committee include:
+
+1. **Implementation of Provisions**: Implementing the provisions of the regulation and the instructions issued by it to ensure the achievement of the goals of the health insurance [gju_payroll_laws.pdf].
+2. **Establishing Agreements**: Establishing agreements with hospitals, health centers, and health insurance companies in the kingdom [gju_payroll_laws.pdf].
+3. **Administrative Actions**: Deciding on administrative actions to become a member in the health insurance or to withdraw from it [gju_payroll_laws.pdf].
+4. **Auditing Financial Requests**: Auditing the financial requests regarding treatments as required by the President [gju_payroll_laws.pdf].
+5. **Studying Other Matters**: Studying any other matter related to the health insurance [gju_payroll_laws.pdf].",6.326098204,10,10,TRUE,0.333038914,1768144736,TRUE,Health Insurance,Medium
+1,27,Can a member who resigned due to health problems continue their health insurance membership?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, a member who resigned from the University due to health problems can continue their health insurance membership along with his/her spouse and children, provided that the duration of the membership was no less than 10 continuous years as set by the provisions of the regulation [gju_payroll_laws.pdf].",7.159576416,10,10,TRUE,0.332970673,1768144740,TRUE,Health Insurance,Medium
+1,28,Does the University contribute to health insurance expenses?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, the University contributes to health insurance expenses. Specifically, the University contributes to the health insurance expenses of a faculty member enrolled in a training course and covers up to 85% of the health insurance expenses, with the condition that the contribution does not exceed 250 JD per month [gju_payroll_laws.pdf]. Additionally, the University allocates part of its budget to contribute to covering the health insurance expenses as determined by the University Council upon the recommendation of the Health Insurance Committee [gju_payroll_laws.pdf].",4.035663843,10,10,TRUE,0.314741327,1768144744,TRUE,Health Insurance,Easy
+1,29,Does the category 'Practicing Professor' exist among the University’s academic staff?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, the category 'Practicing Professor' exists among the University’s academic staff [gju_payroll_laws.pdf].",8.280996323,10,10,TRUE,0.216703961,1768144746,TRUE,Employee Attributes,Easy
+1,30,What are the categories of academic staff at the University?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The categories of academic staff at the University are as follows:
+
+- Professor
+- Associate Professor
+- Assistant Professor
+- Professor (Note: This appears to be a duplicate entry, possibly a typographical error)
+- Instructor
+- Assistant Instructor
+- Practicing Professor
+
+[Source: gju_payroll_laws.pdf, Article 22]",3.601238012,10,10,FALSE,0.221127585,1768144750,TRUE,Employee Attributes,Medium
+1,31,Is a Teaching Assistant considered part of the academic staff?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Based on the provided documents, a Teaching Assistant is not explicitly listed as part of the academic staff. The academic staff ranks are defined as Professor, Associate Professor, Assistant Professor, Practicing Professor, Lecturer, and Teaching Assistant, but the role of a Teaching Assistant is described more as a grant recipient and a position for outstanding students rather than a formal member of the academic staff [gju_payroll_laws.pdf].",6.407130957,10,10,TRUE,0.239671313,1768144757,TRUE,Employee Attributes,Easy
+1,32,What are the four Administrative Job Categories at the University?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Based on the provided documents, the four administrative job categories at the University are:
+
+1. **Category One**: Includes leading administrative positions or highly specialized positions. Only employees with a bachelor's degree minimum, in addition to the qualifications and experience, shall be appointed in or promoted to this category positions [BM25_Doc_1].
+
+2. **Category Two**: Not explicitly detailed in the provided documents, but it likely includes positions that are below Category One in terms of seniority and responsibility.
+
+3. **Category Three**: Workers in the fields of administration, clerking, accounting, and training, warehouse and supply affairs, libraries, technical, crafts, and vocational works or the like, and supervising such works [gju_payroll_laws.pdf].
+
+4. **Category Four**: Technical, craft, and vocational assistants, or the like, and those supervising their execution and the performance of specific services [gju_payroll_laws.pdf].",6.56475091,10,10,TRUE,0.359810601,1768144764,TRUE,Employee Attributes,Medium
+1,33,Which two main employee groups exist at GJU?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The two main employee groups at GJU are:
+
+1. **Classified staff**: These are employees appointed in classified and permanent jobs with outlined titles, categories, levels, and salaries within the job structure.
+2. **Unclassified staff**: These are employees appointed with holistic fixed monthly salaries in specific jobs within the job structure.
+
+[Source: gju_payroll_laws.pdf]",3.603780985,2,2,FALSE,0.201812148,1768144767,TRUE,Employee Attributes,Easy
+1,34,Can part-time lecturers be assigned to teach at the University?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, part-time lecturers can be assigned to teach at the University. According to the documents, part-time lecturers may be assigned to teach or train at the University for one semester or more, based on the decision of the President and the recommendation of the competent dean/director [gju_payroll_laws.pdf]. Additionally, the President may invite people from outside the University to give lectures or do timely tasks, pursuant to bases determined by him [gju_payroll_laws.pdf].",4.111402512,10,10,TRUE,0.396452649,1768144772,TRUE,Employee Attributes,Easy
+1,35,What are the three main types of employees at GJU?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The three main types of employees at GJU are:
+
+1. Classified staff: These are individuals appointed in classified and permanent jobs with outlined titles, categories, levels, and salaries within the job structure.
+2. Unclassified staff: These are individuals appointed with holistic fixed monthly salaries in specific jobs within the job structure.
+3. Staff with contracts: These are individuals appointed for a fixed term under contracts concluded between them and the University, under the conditions set forth in their contracts in all matters relating to salaries, allowances, vacations, transfer, end of their services, and others. [gju_payroll_laws.pdf]",4.862246037,10,10,TRUE,0.152526411,1768144777,TRUE,Employee Attributes,Medium
+1,36,Are temporary assignments considered permanent University employment?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"No, temporary assignments are not considered permanent University employment. According to the regulations, temporary assignments are for a specific period and for a specific task, and the services of the assigned individual shall end with the completion of the task or the depletion of the allocated budget [gju_payroll_laws.pdf].",9.243508577,10,10,TRUE,0.26906669,1768144780,TRUE,Employee Attributes,Easy
+1,37,What is the main matter the Personnel Affairs Committee deals with for administrative employees?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The main matter the Personnel Affairs Committee deals with for administrative employees includes appointments, promotions, transfers, tenure, and other employment conditions as outlined in the context provided [BM25_Doc_1].",7.520751238,10,10,TRUE,0.19583594,1768144783,TRUE,Employee Attributes,Medium
+1,38,What is the personal exemption for a resident natural person from 2020 onwards?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,The personal exemption for a resident natural person from 2020 onwards is nine thousand dinars [BM25_Doc_1].,2.276810408,10,10,TRUE,0.416033352,1768144786,TRUE,Income Tax,Easy
+1,39,"What is the tax rate on the first 5,000 JOD of taxable income for a natural person?",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The tax rate on the first 5,000 JOD of taxable income for a natural person is 5% (five percent) [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].",3.810757875,10,10,TRUE,0.236877522,1768144790,TRUE,Income Tax,Easy
+1,40,"Explain the additional exemptions for medical, educational, and housing expenses for resident individuals",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Resident individuals are granted specific exemptions for medical, educational, and housing expenses as outlined in the provided documents. These exemptions are detailed as follows:
+
+1. **Medical Expenses**:
+   - **Taxpayer**: A maximum of 1,000 dinars for the taxpayer for the tax period 2020 and thereafter [kta_document_(50).pdf].
+   - **Spouse**: A maximum of 1,000 dinars for the taxpayer’s spouse for the tax period 2020 and thereafter [kta_document_(50).pdf].
+   - **Dependent Children**: A maximum of 1,000 dinars for each of the taxpayer’s dependent children for the tax period 2019 and thereafter, with a maximum of 3 children [kta_document_(50).pdf].
+
+2. **Educational Expenses**:
+   - **Taxpayer**: A maximum of 1,000 dinars for the taxpayer for the tax period 2020 and thereafter [kta_document_(50).pdf].
+   - **Spouse**: A maximum of 1,000 dinars for the taxpayer’s spouse for the tax period 2020 and thereafter [kta_document_(50).pdf].
+   - **Dependent Children**: A maximum of 1,000 dinars for each of the taxpayer’s dependent children for the tax period 2019 and thereafter, with a maximum of 3 children [kta_document_(50).pdf].
+
+3. **Housing Expenses**:
+   - **Rent**: A maximum of 1,000 dinars for the taxpayer for the tax period 2020 and thereafter [kta_document_(50).pdf].
+   - **Spouse**: A maximum of 1,000 dinars for the taxpayer’s spouse for the tax period 2020 and thereafter [kta_document_(50).pdf].
+   - **Dependent Children**: A maximum of 1,000 dinars for each of the taxpayer’s dependent children for the tax period 2019 and thereafter, with a maximum of 3 children [kta_document_(50).pdf].
+   - **Home Loan Interest and Murabaha**: A maximum of 1,000 dinars for the taxpayer for the tax period 2020 and thereafter [kta_document_(50).pdf].
+
+To claim these exemptions, the taxpayer must submit invoices and documents that support the expenses. These documents must include:
+- The serial number of the invoice or document and its date.
+- The name, address, stamp, and tax number of the service provider, if any.
+- The name of the service beneficiary.
+- For rental expenses, a rental contract for housing within the kingdom, certified by the Greater Amman Municipality or the municipality in whose area the rented property is located [BM25_Doc_2].
+
+These exemptions are designed to reduce the tax burden on resident individuals and their families, particularly for essential expenses such as medical care, education, and housing.",5.3258512,10,10,TRUE,0.261174673,1768144810,TRUE,Income Tax,Medium
+1,41,How are joint tax return exemptions divided between spouses?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"In the case of filing joint tax returns or separate tax returns by the spouses, or in the case of joint assessment decisions or separate assessment decisions for the spouses, the exemption for the taxpayer and his dependents, in accordance with the provisions of Paragraph (a) of this Article, shall not exceed (23,000) dinars [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]. 
+
+Additionally, it is not permitted to submit the joint tax return or issue the joint assessment decision without the consent of the spouses [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]. 
+
+If multiple breadwinner-taxpayers apply to benefit from the exemption for dependents, it shall be divided depending on the percentage of support, provided that receipts and supporting documents are submitted; otherwise, it is divided equally between the breadwinners [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].",9.09481287,10,10,TRUE,0.266921903,1768144820,TRUE,Income Tax,Medium
+1,42,"How is taxable income for a resident natural person calculated in Jordan, and what exemptions reduce it?",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"To calculate the taxable income for a resident natural person in Jordan, the following steps and deductions are applied:
+
+1. **Personal Exemption**: A deduction of ten thousand dinars is allowed for the year 2019, and nine thousand dinars for the year 2020 and subsequent years [BM25_Doc_8].
+
+2. **Exemptions for Dependents**:
+   - One thousand dinars for the taxpayer starting from the year 2020 onwards.
+   - One thousand dinars for the taxpayer’s spouse starting from the year 2020 onwards.
+   - One thousand dinars for each son/daughter, up to a maximum of three thousand dinars [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].
+
+3. **Other Exemptions**:
+   - Medical expenses, educational expenses, rent, home loan interest, and murabaha can be claimed up to specific limits, provided that invoices and supporting documents are submitted [BM25_Doc_12].
+
+After applying these deductions, the remaining net income is considered the taxable income. This taxable income is then subjected to the progressive tax rates specified in the law:
+
+- 5% on the first five thousand dinars.
+- 10% on the next five thousand dinars.
+- 15% on the next five thousand dinars.
+- 20% on the next five thousand dinars [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].",10.87559295,10,10,TRUE,0.366010729,1768144831,TRUE,Income Tax,Difficult
+1,43,Are end-of-service benefits fully taxable?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"No, end-of-service benefits are not fully taxable. According to the provided documents, the taxation of end-of-service benefits is structured as follows:
+
+1. The full end-of-service gratuity due for the employee’s services prior to 1/1/2010 is exempt from tax [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].
+2. 50% of the end-of-service gratuity due to the employee for services from 1/1/2010 to 12/31/2014 is exempt from tax [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].
+3. The first 15,000 dinars of the end-of-service gratuity due to the employee for services from 1/1/2015 and thereafter is exempt from tax [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].
+
+Any amounts exceeding these thresholds are subject to a tax rate of 9% [kta_document_(50).pdf].",6.15770006,10,10,TRUE,0.294724371,1768144847,TRUE,Income Tax,Medium
+1,44,"What is the maximum exemption for children’s medical, educational, or housing expenses?",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The maximum exemption for each dependent child's medical, educational, or housing expenses is 1,000 dinars, with a maximum of 3,000 dinars for up to three children [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].",7.481027126,10,10,TRUE,0.338134523,1768144855,TRUE,Income Tax,Easy
+1,45,"How much is the exemption for the taxpayer himself/herself for medical, educational, and housing expenses?",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The exemption for the taxpayer himself/herself for medical, educational, and housing expenses is a maximum of 1,000 dinars for the tax period 2020 and thereafter [kta_document_(50).pdf].",3.175623417,10,10,TRUE,0.296648582,1768144858,TRUE,Income Tax,Easy
+1,46,What is the tax rate on income exceeding 1 million JOD for individuals?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,The tax rate on income exceeding 1 million JOD for individuals is 30% [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].,2.684874773,10,10,TRUE,0.272073735,1768144861,TRUE,Income Tax,Medium
+1,47,Are donations to public institutions or approved charities deductible?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, donations to public institutions or approved charities are deductible. According to the provided context, a person may deduct any amount paid during the tax period as a donation without any personal interest to any public corporation or department, or municipality from their gross income during the period in which the payment took place [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]. Additionally, donations paid in the Kingdom without any personal interest for religious, charitable, humanitarian, scientific, environmental, sport, or professional purposes, if approved by the Council of Ministers, are also deductible [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].",6.300993443,10,10,TRUE,0.409067236,1768144868,TRUE,Income Tax,Medium
+1,48,What is income tax?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Income tax is the tax imposed by law on the income of individuals or organizations, which includes salaries, wages, bonuses, rewards, allowances, and any other cash or in-kind privileges generated by the employee from employment in the public or private sector [kta_document_(50).pdf], [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].",6.99972105,10,10,TRUE,0.337773961,1768144875,TRUE,Income Tax,Medium
+1,49,How is the transportation bonus determined for faculty members on contracts?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for different ranks at the German-Jordanian University is defined as follows:
+
+- **Professor:**
+  - From 401 JOD to 851 JOD with an annual increase of 15 JOD [BM25_Doc_5].
+  - From 306 JOD to 354 JOD with an annual increase of 12 JOD [BM25_Doc_10].
+
+- **Associate Professor:**
+  - From 391 JOD to 439 JOD with an annual increase of 12 JOD [BM25_Doc_5].
+
+- **Assistant Professor:**
+  - From 301 JOD to 341 JOD with an annual increase of 10 JOD [BM25_Doc_5].
+  - From 248 JOD to 288 JOD with an annual increase of 10 JOD [BM25_Doc_10].
+
+- **Practicing Professor:**
+  - From 300 JOD to 340 JOD with an annual increase of 10 JOD [BM25_Doc_10].
+
+- **Lecturer:**
+  - From 222 JOD to 264 JOD with an annual increase of 7 JOD [BM25_Doc_10].
+  - From 163 JOD to 205 JOD with an annual increase of 7 JOD [BM25_Doc_10].
+
+- **Assistant Lecturer:**
+  - From 95 JOD to 191 JOD with an annual increase of 6 JOD [BM25_Doc_10].
+
+Additionally, the University President’s basic salary is determined according to the highest salary of a professor [BM25_Doc_10].",3.726998806,10,10,TRUE,0.508076266,1768144879,FALSE,Regular Allowance,Medium
+1,50,"What is the salary range for Fourth Class B staff, and what is their annual increase?",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The salary range for Fourth Class B staff is from 87 JOD to 111 JOD, and their annual increase is 6 JOD [gju_payroll_laws.pdf].",9.834542036,10,10,TRUE,0.242660089,1768144883,TRUE,Regular Allowance,Medium
+2,1,Basic salary,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff at the University is defined as follows:
+
+- **Professor**: 401 - 851 JOD [gju_payroll_laws.pdf]
+- **Associate Professor**: 391 - 439 JOD [gju_payroll_laws.pdf]
+- **Assistant Professor**: 306 - 354 JOD [gju_payroll_laws.pdf]
+- **Practicing Professor**: 300 - 340 JOD [gju_payroll_laws.pdf]
+- **Lecturer**: 222 - 264 JOD [gju_payroll_laws.pdf]
+- **Assistant Lecturer**: 95 - 191 JOD [gju_payroll_laws.pdf]
+
+For administrative staff, the basic salary scale is defined as follows:
+
+- **First Class**:
+  - A: 359 - 494 JOD
+  - B: 279 - 315 JOD [gju_payroll_laws.pdf]
+- **Second Class**:
+  - A: 230 - 258 JOD
+  - B: 186 - 214 JOD [gju_payroll_laws.pdf]
+- **Third Class**:
+  - A: 165 - 189 JOD
+  - B: 133 - 157 JOD [gju_payroll_laws.pdf]
+- **Fourth Class**:
+  - A: 121 - 145 JOD
+  - B: 87 - 111 JOD [gju_payroll_laws.pdf]
+- **Fifth Class**: 65 - 85 JOD [gju_payroll_laws.pdf]
+- **Sixth Class**: 46 - 62 JOD [gju_payroll_laws.pdf]
+- **Seventh Class**: 34 - 46 JOD [gju_payroll_laws.pdf]",5.38351583,10,10,TRUE,0.313339485,1768144896,TRUE,Regular Allowance,Difficult
+2,2,Basic salary?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff at the University is defined as follows:
+
+- **Professor**: 401 - 851 JOD [gju_payroll_laws.pdf]
+- **Associate Professor**: 391 - 439 JOD [gju_payroll_laws.pdf]
+- **Assistant Professor**: 306 - 354 JOD [gju_payroll_laws.pdf]
+- **Practicing Professor**: 300 - 340 JOD [gju_payroll_laws.pdf]
+- **Lecturer**: 222 - 264 JOD [gju_payroll_laws.pdf]
+- **Assistant Lecturer**: 95 - 191 JOD [gju_payroll_laws.pdf]
+
+For administrative staff, the basic salary scale is defined as follows:
+
+- **First Class**:
+  - A: 359 - 494 JOD
+  - B: 279 - 315 JOD [gju_payroll_laws.pdf]
+- **Second Class**:
+  - A: 230 - 258 JOD
+  - B: 186 - 214 JOD [gju_payroll_laws.pdf]
+- **Third Class**:
+  - A: 165 - 189 JOD
+  - B: 133 - 157 JOD [gju_payroll_laws.pdf]
+- **Fourth Class**:
+  - A: 121 - 145 JOD
+  - B: 87 - 111 JOD [gju_payroll_laws.pdf]
+- **Fifth Class**: 65 - 85 JOD [gju_payroll_laws.pdf]
+- **Sixth Class**: 46 - 62 JOD [gju_payroll_laws.pdf]
+- **Seventh Class**: 34 - 46 JOD [gju_payroll_laws.pdf]
+
+",8.0392282,10,10,TRUE,0.308272125,1768144926,TRUE,Regular Allowance,Difficult
+2,3,What is the basic salary?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff at the German Jordanian University varies based on rank:
+
+- Professor: 851 JOD to 401 JOD [gju_payroll_laws.pdf]
+- Associate Professor: 439 JOD to 354 JOD [gju_payroll_laws.pdf]
+- Assistant Professor: 341 JOD to 301 JOD [gju_payroll_laws.pdf]
+- Practicing Professor: 340 JOD to 300 JOD [gju_payroll_laws.pdf]
+- Lecturer: 205 JOD to 163 JOD [gju_payroll_laws.pdf]
+- Assistant Lecturer: 191 JOD to 95 JOD [gju_payroll_laws.pdf]
+
+For administrative staff, the basic salary scale is defined as follows:
+
+- First Class: 494 JOD to 359 JOD [gju_payroll_laws.pdf]
+- Second Class: 315 JOD to 279 JOD [gju_payroll_laws.pdf]
+- Third Class: 258 JOD to 230 JOD [gju_payroll_laws.pdf]
+- Fourth Class: 214 JOD to 186 JOD [gju_payroll_laws.pdf]
+- Fifth Class: 189 JOD to 165 JOD [gju_payroll_laws.pdf]
+- Sixth Class: 157 JOD to 133 JOD [gju_payroll_laws.pdf]
+- Seventh Class: 145 JOD to 121 JOD [gju_payroll_laws.pdf]
+- Eighth Class: 111 JOD to 87 JOD [gju_payroll_laws.pdf]
+- Ninth Class: 85 JOD to 65 JOD [gju_payroll_laws.pdf]
+- Tenth Class: 62 JOD to 46 JOD [gju_payroll_laws.pdf]
+
+For students, there is no mention of a basic salary in the provided documents.",6.74407291,10,10,TRUE,0.22501378,1768144950,TRUE,Regular Allowance,Difficult
+2,4,What is the basic salary definition?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff and administrative staff at the University is defined according to specific scales and ranks. For academic staff, the basic salary ranges are as follows:
+
+- **Professor**: 401 - 851 JOD
+- **Associate Professor**: 306 - 354 JOD
+- **Assistant Professor**: 248 - 288 JOD
+- **Practicing Professor**: 228 - 268 JOD
+- **Lecturer**: 163 - 205 JOD
+- **Assistant Lecturer**: 95 - 191 JOD
+
+For administrative staff, the basic salary ranges are as follows:
+
+- **First Class**:
+  - A: 359 - 494 JOD
+  - B: 279 - 315 JOD
+- **Second Class**:
+  - A: 230 - 258 JOD
+  - B: 186 - 214 JOD
+- **Third Class**:
+  - A: 165 - 189 JOD
+  - B: 133 - 157 JOD
+- **Fourth Class**:
+  - A: 121 - 145 JOD
+  - B: 87 - 111 JOD
+- **Fifth Class**: 65 - 85 JOD
+- **Sixth Class**: 46 - 62 JOD
+- **Seventh Class**: 34 - 46 JOD
+
+Additionally, there are specific base salaries for certain ranks:
+
+- **Associate Professor**: 625 JOD
+- **Assistant Professor**: 465 JOD
+- **Practicing Professor**: 380 JOD
+- **Lecturer**: 280 JOD
+- **Lecturer Assistant**: 230 JOD
+
+For students, the concept of a basic salary does not apply as they are not employees of the University [gju_payroll_laws.pdf].",8.45330095,10,10,TRUE,0.290442367,1768144954,TRUE,Regular Allowance,Medium
+2,5,Transportation allowance,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance for academic staff and administrative staff is provided as follows:
+
+1. President: 170 JOD
+2. Vice President and Dean: 100 JOD
+3. Vice Dean and President Assistant of the Faculty Members: 90 JOD
+4. Faculty Member: 80 JOD
+
+For employees working with holistic salaries or with contracts, the transportation bonuses are equal to those determined for their equivalents in terms of rank and salary, according to paragraph (A) of the Article [gju_payroll_laws.pdf].
+
+For students, there is no specific transportation allowance mentioned in the provided documents.
+
+Additionally, the transportation bonus is not granted to those who have a vehicle dedicated to them from the University or are always provided with transportation [gju_payroll_laws.pdf].",8.769146681,8,5,TRUE,0.296946488,1768144960,TRUE,Regular Allowance,Difficult
+2,6,Transportation allowance?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for academic staff, administrative staff, and students are as follows:
+
+### Academic Staff:
+1. President: 170 JOD [gju_payroll_laws.pdf]
+2. Vice President and Dean: 100 JOD [gju_payroll_laws.pdf]
+3. Vice Dean and President Assistant of the Faculty Members: 90 JOD [gju_payroll_laws.pdf]
+4. Faculty Member: 80 JOD [gju_payroll_laws.pdf]
+
+### Administrative Staff:
+1. Unit, Department, or Center Director: 90 JOD [gju_payroll_laws.pdf]
+2. Employee of the First or Second Categories: 70 JOD [gju_payroll_laws.pdf]
+3. Employee of the Third or Fourth Categories: 60 JOD [gju_payroll_laws.pdf]
+4. Employee of the Fifth or Sixth Categories: 40 JOD [gju_payroll_laws.pdf]
+5. Employee of the Seventh Category: 24 JOD [gju_payroll_laws.pdf]
+
+For students, there is no specific transportation allowance mentioned in the provided documents.
+
+Additionally, the transportation bonus is not granted to those who have a vehicle dedicated to them from the University or are always provided with transportation by the University [gju_payroll_laws.pdf].",6.98112988,10,10,TRUE,0.274702244,1768144966,TRUE,Regular Allowance,Difficult
+2,7,List the transportation allowance values for all,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for academic staff, administrative staff, and students are as follows:
+
+### Academic Staff:
+1. President: 170 JOD [gju_payroll_laws.pdf]
+2. Vice President and Dean: 100 JOD [gju_payroll_laws.pdf]
+3. Vice Dean and President Assistant of the Faculty Members: 90 JOD [gju_payroll_laws.pdf]
+4. Faculty Member: 80 JOD [gju_payroll_laws.pdf]
+
+### Administrative Staff:
+1. Unit, Department, or Center Director: 90 JOD [gju_payroll_laws.pdf]
+2. Employee of the First or Second Categories: 70 JOD [gju_payroll_laws.pdf]
+3. Employee of the Third or Fourth Categories: 60 JOD [gju_payroll_laws.pdf]
+4. Employee of the Fifth or Sixth Categories: 40 JOD [gju_payroll_laws.pdf]
+5. Employee of the Seventh Category: 24 JOD [gju_payroll_laws.pdf]
+
+### Students:
+- No specific transportation allowance values are mentioned for students in the provided documents. [gju_payroll_laws.pdf]
+
+### Additional Notes:
+- Faculty members assigned with contracts receive transportation bonuses equal to staff receiving the same salary. [gju_payroll_laws.pdf]
+- No person may receive more than one of the bonuses stipulated in the respective paragraphs. [gju_payroll_laws.pdf]
+- The bonus is not granted to those who have a vehicle dedicated to them from the University or are provided with transportation on a regular basis. [gju_payroll_laws.pdf]",6.01108551,10,10,TRUE,0.245092178,1768144973,TRUE,Regular Allowance,Mediun
+2,8,"List the transportation allowance values for all, including dean",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for different roles at the University are as follows:
+
+### For Faculty Members:
+1. **President**: 170 JOD [gju_payroll_laws.pdf]
+2. **Vice President and Dean**: 100 JOD [gju_payroll_laws.pdf]
+3. **Vice Dean and President Assistant of the Faculty Members**: 90 JOD [gju_payroll_laws.pdf]
+4. **Faculty Member**: 80 JOD [gju_payroll_laws.pdf]
+
+### For Administrative Staff:
+1. **Unit, Department, and Center Director**: 90 JOD [gju_payroll_laws.pdf]
+2. **Employee of the First or Second Categories**: 70 JOD [gju_payroll_laws.pdf]
+3. **Employee of the Third or Fourth Categories**: 60 JOD [gju_payroll_laws.pdf]
+4. **Employee of the Fifth or Sixth Categories**: 40 JOD [gju_payroll_laws.pdf]
+5. **Employee of the Seventh Category**: 24 JOD [gju_payroll_laws.pdf]
+
+### For Students:
+- **Student Entry Permit**: Not specified for transportation allowance, but entry permits are issued based on a valid university ID. [gju_payroll_laws.pdf]
+- **Student Vehicle Entry Permit**: Not specified for transportation allowance, but entry permits are issued based on a valid student vehicle permit. [gju_payroll_laws.pdf]
+
+### Additional Notes:
+- **Dean**: The transportation allowance for a dean is 100 JOD, as they are considered a Vice President. [gju_payroll_laws.pdf]
+- **Transportation bonuses are not granted to those who have a vehicle dedicated to them from the University or are provided with transportation on a regular basis.** [gju_payroll_laws.pdf]
+- **No person may receive more than one of the bonuses stipulated in the relevant articles.** [gju_payroll_laws.pdf]",5.91508555,10,10,TRUE,0.292155686,1768144992,TRUE,Regular Allowance,Medium
+2,9,Family allowance?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic and administrative staff at the University, the family allowance is structured as follows:
+
+- **Wife**: 7 JOD per month.
+- **Children**:
+  - First child: 2 JOD per month.
+  - Second child: 2 JOD per month.
+  - Third child: 2 JOD per month.
+  - Fourth child: 2 JOD per month.
+
+**Additional Notes**:
+- If the employee has more than one wife, the bonus is given for only one wife if the employee has four children. If the employee has fewer than four children, the remaining child bonuses can be granted to other wives, as long as the total number of wives and children does not exceed four.
+- The family bonus is not given for children older than eighteen years of age, unless they are still in secondary school, undergraduate programs, or have special needs.
+- The family bonus is also not given for a wife who is working at or receiving a monthly salary from a public or private institution. [gju_payroll_laws.pdf]
+
+For students, there is no mention of a family allowance in the provided documents.",8.170152664,10,10,TRUE,0.576976806,1768145002,FALSE,Regular Allowance,Difficult
+2,10,Family bonus?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The family bonus for academic and administrative staff at the University is as follows:
+
+- **For the wife**: 7 JOD per month.
+- **For each of the first four children**: 2 JOD per month.
+
+**Additional Notes:**
+- If the employee has more than one wife, the bonus is given for only one wife if he has four children. If the children are less than four, the other wives will get the bonus, as long as the total number of wives and children does not exceed four.
+- The family bonus is not given for children who have completed eighteen years of age, unless they are still in secondary school or undergraduate programs or have special needs.
+- The family bonus is also not given for a wife who is working at or getting paid monthly by a public or private institution.
+
+This information applies to both academic and administrative staff [gju_payroll_laws.pdf]. There is no mention of family bonuses for students in the provided documents.",5.744017124,10,10,TRUE,0.65869163,1768145008,FALSE,Regular Allowance,Difficult
+2,11,What is the family bonus?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The family bonus for academic staff at the University is structured as follows:
+
+- **For the Wife**: 7 JOD
+- **For Each of the First Four Children**: 2 JOD per child
+
+This bonus is provided under the conditions outlined in Article (23) of the [gju_payroll_laws.pdf]:
+
+1. **Children Older Than 18**: The bonus is not granted for children older than 18 years of age, unless they are still in secondary school, undergraduate programs, or have special needs.
+2. **Working Wife**: The bonus is not granted for a wife who is working at or getting paid monthly by a public or private institution.
+
+For administrative staff, the family bonus is not explicitly mentioned in the provided context. 
+
+For students, the family bonus is not applicable; instead, there are discounts for children of university employees, as detailed in the context:
+
+- **Discount for Credit Hours**: 50% discount on credit hours for the undergraduate degree for children of university employees and those from other public universities.
+- **Conditions for Discount**:
+  - The discount applies only to credit hour fees for the undergraduate degree.
+  - The discount does not include semester fees, university services charges, or other fees.
+  - If the student maintains an average of ""good"" or above, the discount increases to 90% for the next semester.
+
+In summary, the family bonus is primarily for academic staff, with specific conditions for eligibility, and there are no explicit family bonuses for administrative staff or students. [gju_payroll_laws.pdf]",7.7071178,10,10,TRUE,0.284465146,1768145012,TRUE,Regular Allowance,Difficult
+2,12,What is the family bonus for wife?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The family bonus for the wife is 7 dinars for university staff, which includes both academic and administrative staff [gju_payroll_laws.pdf]. There is no mention of a family bonus for students in the provided documents.",4.165081978,8,8,TRUE,0.417549016,1768145015,TRUE,Regular Allowance,Easy
+2,13,Tax exemption?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Based on the provided documents, the following groups are eligible for tax exemptions under specific conditions:
+
+1. **Non-Profit Organizations and Entities:**
+   - Political parties, trade unions, and professional associations such as chambers of commerce and industry, cooperatives, and other legally registered and licensed non-profit organizations.
+   - Non-profit religious, charitable, cultural, educational, sport, or health organizations.
+   - Exempted companies that are registered under the Companies Law with incomes generated outside the Kingdom, except for incomes generated from taxable sources of income under the provisions of this Law. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+2. **Individuals and Their Dependents:**
+   - The natural person and his dependents are granted exemptions against medical expenses, educational expenses, rent, home loan interest, and murabaha as follows:
+     - One thousand dinars for the taxpayer starting from the year 2020 onwards.
+     - One thousand dinars for the taxpayer’s spouse starting from the year 2020 onwards.
+     - One thousand dinars for each son/daughter up to a maximum of three thousand dinars. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+3. **Donations and Subscriptions:**
+   - Any person may deduct the subscriptions and donations paid in the Kingdom without any personal interest for religious, charitable, humanitarian, scientific, environmental, sport, or professional purposes if the Council of Ministers approves such capacity. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+4. **University-Specific Exemptions:**
+   - Faculty members and other university employees may receive financial remuneration for additional tasks, such as teaching, scientific research, or other duties, as determined by the President. [gju_payroll_laws.pdf]
+   - The President may grant an unpaid leave for a period of no more than three months, which does not count towards rewards, savings, promotion, or annual leave. [gju_payroll_laws.pdf]
+
+However, the documents do not explicitly state tax exemptions specifically for academic staff, administrative staff, and students. The exemptions mentioned are more general and apply to a broader range of individuals and entities. If you are looking for specific tax exemptions for these groups, additional information or specific regulations may be required.",8.76043725,8,8,TRUE,0.128610432,1768145032,TRUE,Income Tax,Difficult
+2,14,Health insurance?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Health insurance for academic staff, administrative staff, and students at the German Jordanian University is regulated as follows:
+
+### For Academic and Administrative Staff:
+1. **Membership**:
+   - Health insurance is optional for all employees at the University [gju_payroll_laws.pdf].
+   - Members can include beneficiaries such as spouses, parents, children under 18, children enrolled in educational institutions up to age 25, single females, and unemployed divorced females [gju_payroll_laws.pdf].
+
+2. **Coverage Exclusions**:
+   - The insurance does not cover suicide, self-injury, injuries from wars or civil disturbances, hazardous activities, atomic radiation, radioactive contamination, or chemical exposure [gju_payroll_laws.pdf].
+   - It also excludes addiction to drugs or alcohol, plastic surgeries (unless caused by a covered accident), recovery or spa treatments, artificial limbs, and certain medical devices without approval [gju_payroll_laws.pdf].
+   - Dental treatments, except for extractions, oral and gum diseases, and accident-related cases, are not covered [gju_payroll_laws.pdf].
+   - Other exclusions include vitamins and mineral salts (except for pregnancy and osteoporosis), sexual stimulators, infertility treatments, food outside the hospital, cosmetics, serums, and vaccinations (except for university employees), home visits, unscientific medical procedures, and psychiatric sessions [gju_payroll_laws.pdf].
+
+3. **Continuation of Membership**:
+   - Members on sabbatical, leave, secondment, or mandate must pay the full annual premium to continue coverage [gju_payroll_laws.pdf].
+   - Members who resign due to health problems after 10 continuous years of membership can continue their coverage for themselves and their beneficiaries [gju_payroll_laws.pdf].
+
+### For Students:
+1. **Participation**:
+   - Health insurance is compulsory for all university students enrolled in degree or scientific certificate programs, including private study students [gju_payroll_laws.pdf].
+
+2. **Activation**:
+   - Health insurance takes effect upon payment of university fees [gju_payroll_laws.pdf].
+
+3. **Exemptions**:
+   - No student is exempt from the health insurance subscription fee, and it is not recoverable [gju_payroll_laws.pdf].
+
+4. **Usage**:
+   - Treatment and inspections are conducted with a valid health insurance card and university card, and the treatment is personal [gju_payroll_laws.pdf].
+
+### Additional Notes:
+- The University council issues instructions for the execution of the health insurance regulation, including membership levels, contribution percentages, and maximum contributions [gju_payroll_laws.pdf].
+- The committee of health insurance at the University is responsible for various aspects of the health insurance program, including reviewing cases and making recommendations [gju_payroll_laws.pdf].
+
+For more detailed information, refer to the specific articles in the [gju_payroll_laws.pdf].",7.37068176,10,10,TRUE,0.215892061,1768145037,TRUE,Health Insurance,Difficult
+2,15,University contribution to health insurance?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic staff and administrative staff, the University contributes to the health insurance costs, but the exact amount and the contribution percentage are determined by the University Council upon the recommendation of the Health Insurance Committee [gju_payroll_laws.pdf].
+
+For students, the University does not contribute to the health insurance costs; the health insurance subscription fee is mandatory and must be paid by the students themselves [gju_payroll_laws.pdf].",3.671987295,10,10,TRUE,0.400498158,1768145042,TRUE,Health Insurance,Difficult
+2,16,Academic staff ranks?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The academic staff ranks at the University are as follows:
+
+1. **Professor**
+2. **Associate Professor**
+3. **Assistant Professor**
+4. **Instructor**
+5. **Assistant Instructor**
+6. **Practicing Professor**",9.490592718,10,10,TRUE,0.181868056,1768145048,TRUE,Employee Attributes,Difficult
+2,17,Academic staff categories?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The academic staff categories at the University are as follows:
+
+1. **Professor**
+2. **Associate Professor**
+3. **Assistant Professor**
+4. **Instructor**
+5. **Assistant Instructor**
+6. **Practicing Professor**
+
+These categories are defined in [gju_payroll_laws.pdf] under Article 22. 
+
+Additionally, the duties of academic staff members include:
+
+- Teaching and conducting examinations.
+- Conducting creative research and studies and associating them with industry and applied fields.
+- Participating in community service and development.
+- Performing other University duties as required.
+
+For more detailed information on the duties and responsibilities, refer to [gju_payroll_laws.pdf] under Articles 36, 37, and 38.",4.614387512,10,10,TRUE,0.230568508,1768145054,TRUE,Employee Attributes,Medium
+2,18,Administrative staff categories?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The administrative staff categories at the University are as follows:
+
+1. **Category One**: Includes leading administrative positions or highly specialized positions. Only employees with a bachelor degree minimum, in addition to the qualifications and experience, shall be appointed in or promoted to this category positions. The tasks of this category positions include:
+   - Proposing the general policy for their units, centers, or departments.
+   - Preparing plans for the programs, projects, and services for their units, centers, or departments, and following up and supervising their execution.
+
+2. **Category Two**: Includes job positions which shall conduct specialized work in the field of applied, natural, and human sciences, such as medical, engineering, economic, agricultural, administrative, legal, educational, financial, and accounting professions, or the like, and supervise such works. Only employees with a bachelor degree minimum shall be appointed in this category.
+
+3. **Category Three**: Includes job positions that shall conduct basic work in the administrative clerical, accounting, training and warehouses affairs, procurement, libraries, technical works, crafts, vocational fields, or the like, and supervise such works. Only employees with a minimum of diplomas from community colleges or an equivalent shall be appointed in this category.
+
+4. **Category Four**: Includes job positions whose tasks shall be to conduct assistant vocational craftwork and supervising their execution or performing certain services. [gju_payroll_laws.pdf]",9.078868151,10,10,TRUE,0.241522849,1768145064,TRUE,Employee Attributes,Medium
+2,19,Is membership in health insurance optional for all employees at GJU?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, membership in health insurance is optional for all employees at GJU [gju_payroll_laws.pdf].",3.95415235,10,10,TRUE,0.325550123,1768145066,TRUE,Health Insurance,Easy
+2,20,Are children under the age of 18 eligible for inclusion in the health insurance?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, children under the age of 18 are eligible for inclusion in the health insurance [gju_payroll_laws.pdf].",8.2627213,10,10,TRUE,0.274562176,1768145069,TRUE,Health Insurance,Easy
+2,21,Can single females and unemployed divorced females be included as health insurance beneficiaries?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, single females and unemployed divorced females can be included as health insurance beneficiaries [gju_payroll_laws.pdf].",7.469160795,10,10,TRUE,0.393385313,1768145072,TRUE,Health Insurance,Easy
+2,22,Who can a member include as beneficiaries in the health insurance plan?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"According to the provided documents, a member may include the following beneficiaries in the health insurance plan:
+
+1. Spouse and parents
+2. Children under the age of 18
+3. Children enrolled in educational institutions, until the end of their study or until they reach the age of 25, whichever comes first.
+4. Single females and unemployed divorced females. [gju_payroll_laws.pdf]",4.173461914,10,10,TRUE,0.259198777,1768145076,TRUE,Health Insurance,Medium
+2,23,Are cosmetic treatments and vaccinations covered under the health insurance regulation?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Cosmetic treatments are not covered under the health insurance regulation. Vaccinations are generally not covered, except for vaccinations for employees in the University [gju_payroll_laws.pdf].",2.653523922,10,10,TRUE,0.339522461,1768145079,TRUE,Health Insurance,Easy
+2,24,What dental treatments are included under the health insurance according to this regulation?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"According to the regulation, the health insurance covers dental treatment except for dental extraction, mouth and gum diseases, and any case that results from accidents [gju_payroll_laws.pdf].",4.497403383,2,2,TRUE,0.414789628,1768145082,TRUE,Health Insurance,Medium
+2,25,Who recommends instructions to the University Council for executing the health insurance regulation?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,The President recommends instructions to the University Council for executing the health insurance regulation [gju_payroll_laws.pdf].,5.257891655,10,10,TRUE,0.315899943,1768145084,TRUE,Health Insurance,Easy
+2,26,What are the main tasks and authorities of the health insurance committee?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The main tasks and authorities of the health insurance committee include:
+
+1. **Implementation of Provisions**: Implementing the provisions of the regulation and the instructions issued by it to ensure the achievement of the goals of the health insurance [gju_payroll_laws.pdf].
+2. **Establishing Agreements**: Establishing agreements with hospitals, health centers, and health insurance companies in the kingdom [gju_payroll_laws.pdf].
+3. **Administrative Actions**: Deciding on administrative actions to become a member in the health insurance or to withdraw from it [gju_payroll_laws.pdf].
+4. **Auditing Financial Requests**: Auditing the financial requests regarding treatments as required by the President [gju_payroll_laws.pdf].
+5. **Studying Matters**: Studying any other matter related to the health insurance [gju_payroll_laws.pdf].",6.33024931,10,10,TRUE,0.333038914,1768145091,TRUE,Health Insurance,Medium
+2,27,Can a member who resigned due to health problems continue their health insurance membership?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, a member who resigned due to health problems can continue their health insurance membership along with his/her spouse and children, provided that the duration of the membership was no less than 10 continuous years as set by the provisions of the regulation [gju_payroll_laws.pdf].",3.138918161,10,10,TRUE,0.332970673,1768145094,TRUE,Health Insurance,Medium
+2,28,Does the University contribute to health insurance expenses?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, the University contributes to health insurance expenses. Specifically, the University contributes to the health insurance expenses of a faculty member enrolled in a training course and covers up to 85% of the health insurance expenses, with the condition that the contribution does not exceed 250 JD per month [gju_payroll_laws.pdf]. Additionally, the University allocates part of its budget to contribute to covering the health insurance expenses as determined by the University Council upon the recommendation of the Health Insurance Committee [gju_payroll_laws.pdf].",4.555262327,10,10,TRUE,0.314741327,1768145099,TRUE,Health Insurance,Easy
+2,29,Does the category 'Practicing Professor' exist among the University’s academic staff?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, the category 'Practicing Professor' exists among the University’s academic staff [gju_payroll_laws.pdf].",6.143414497,10,10,TRUE,0.216703961,1768145101,TRUE,Employee Attributes,Easy
+2,30,What are the categories of academic staff at the University?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The categories of academic staff at the University are as follows:
+
+- Professor
+- Associate Professor
+- Assistant Professor
+- Professor (Note: This appears to be a duplicate entry, possibly a typographical error)
+- Instructor
+- Assistant Instructor
+- Practicing Professor
+
+[Source: gju_payroll_laws.pdf, Article 22]",5.576999664,10,10,FALSE,0.221127585,1768145107,TRUE,Employee Attributes,Medium
+2,31,Is a Teaching Assistant considered part of the academic staff?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Based on the provided documents, a Teaching Assistant is not explicitly listed as part of the academic staff. The academic staff typically includes positions such as Professor, Associate Professor, Assistant Professor, Lecturer, and others [gju_payroll_laws.pdf]. However, Teaching Assistants are mentioned in the context of grants and their roles and responsibilities, but they are not categorized as academic staff members [gju_payroll_laws.pdf].",3.213204384,10,10,TRUE,0.239671313,1768145111,TRUE,Employee Attributes,Easy
+2,32,What are the four Administrative Job Categories at the University?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The four Administrative Job Categories at the University are:
+
+1. **Category One**: Includes leading administrative positions or highly specialized positions. Only employees with a bachelor's degree minimum, in addition to the qualifications and experience, shall be appointed in or promoted to this category positions [BM25_Doc_1].
+
+2. **Category Two**: Not explicitly detailed in the provided documents.
+
+3. **Category Three**: Workers in the fields of administration, clerking, accounting and training, warehouse and supply affairs, libraries, technical, crafts, and vocational works or the like and supervising such works [gju_payroll_laws.pdf].
+
+4. **Category Four**: Technical, craft, and vocational assistants, or the like, and those supervising their execution and the performance of specific services [gju_payroll_laws.pdf].",6.675642729,10,10,TRUE,0.359810601,1768145117,TRUE,Employee Attributes,Medium
+2,33,Which two main employee groups exist at GJU?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The two main employee groups at GJU are:
+
+1. Classified staff: These are employees appointed in classified and permanent jobs with outlined titles, categories, levels, and salaries within the job structure.
+2. Unclassified staff: These are employees appointed with holistic fixed monthly salaries in specific jobs within the job structure. [gju_payroll_laws.pdf]",8.433777571,2,2,TRUE,0.201812148,1768145121,TRUE,Employee Attributes,Easy
+2,34,Can part-time lecturers be assigned to teach at the University?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, part-time lecturers can be assigned to teach at the University. According to the documents, part-time lecturers may be assigned to teach or train at the University for one semester or more, based on the recommendation of the competent dean/director and the decision of the President [gju_payroll_laws.pdf]. Additionally, the President may invite people from outside the University to give lectures or do timely tasks, pursuant to bases determined by him [gju_payroll_laws.pdf].",4.058323622,10,10,TRUE,0.396452649,1768145125,TRUE,Employee Attributes,Easy
+2,35,What are the three main types of employees at GJU?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The three main types of employees at GJU are:
+
+1. Classified staff: These are individuals appointed in classified and permanent jobs with outlined titles, categories, levels, and salaries within the job structure.
+2. Unclassified staff: These are individuals appointed with holistic fixed monthly salaries in specific jobs within the job structure.
+3. Staff with contracts: These are individuals appointed for a fixed term under contracts concluded between them and the University, under the conditions set forth in their contracts in all matters relating to salaries, allowances, vacations, transfer, end of their services, and others. [gju_payroll_laws.pdf]",5.014775276,10,10,TRUE,0.152526411,1768145131,TRUE,Employee Attributes,Medium
+2,36,Are temporary assignments considered permanent University employment?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"No, temporary assignments are not considered permanent University employment. According to the provided documents, temporary assignments are specifically noted to be for a limited period and are not considered permanent employment [gju_payroll_laws.pdf]. For example, Article (5) states that ""Assignment for the purpose of training and employment shall be temporary for a period not exceeding six months,"" and Article (7) mentions that ""The assigned graduate shall not be considered as an employee of the university staff.""",4.064438581,10,10,TRUE,0.26906669,1768145135,TRUE,Employee Attributes,Easy
+2,37,What is the main matter the Personnel Affairs Committee deals with for administrative employees?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The main matter the Personnel Affairs Committee deals with for administrative employees includes appointments, promotions, transfers, tenure, and other employment conditions as outlined in the context provided [BM25_Doc_1].",5.356184483,10,10,TRUE,0.19583594,1768145139,TRUE,Employee Attributes,Medium
+2,38,What is the personal exemption for a resident natural person from 2020 onwards?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,The personal exemption for a resident natural person from 2020 onwards is nine thousand dinars [BM25_Doc_1].,7.314884186,10,10,TRUE,0.416033352,1768145141,TRUE,Income Tax,Easy
+2,39,"What is the tax rate on the first 5,000 JOD of taxable income for a natural person?",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The tax rate on the first 5,000 JOD of taxable income for a natural person is 5% [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].",4.447479725,10,10,TRUE,0.236877522,1768145146,TRUE,Income Tax,Easy
+2,40,"Explain the additional exemptions for medical, educational, and housing expenses for resident individuals",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Resident individuals are granted specific exemptions for medical, educational, and housing expenses as outlined in the provided documents. These exemptions are detailed as follows:
+
+1. **Medical Expenses**:
+   - A maximum of 1,000 dinars for the taxpayer for the tax period 2020 and thereafter.
+   - A maximum of 1,000 dinars for the taxpayer’s spouse for the tax period 2020 and thereafter.
+   - A maximum of 1,000 dinars for each of the taxpayer’s dependent children for the tax period 2019 and thereafter, with a maximum of 3 children.
+   - These expenses must be related to treatment or surgical operations at hospitals or doctors, as well as expenses of staying in a hospital, whether inside or outside the Kingdom, for the taxpayer, spouse, or dependents [kta_document_(50).pdf].
+
+2. **Educational Expenses**:
+   - A maximum of 1,000 dinars for the taxpayer for the tax period 2020 and thereafter.
+   - A maximum of 1,000 dinars for the taxpayer’s spouse for the tax period 2020 and thereafter.
+   - A maximum of 1,000 dinars for each of the taxpayer’s dependent children for the tax period 2019 and thereafter, with a maximum of 3 children.
+   - These expenses must be for educational purposes starting from kindergarten and beyond, paid by the taxpayer or dependents inside or outside the Kingdom [kta_document_(50).pdf].
+
+3. **Housing Expenses**:
+   - A maximum of 1,000 dinars for the taxpayer for the tax period 2020 and thereafter.
+   - A maximum of 1,000 dinars for the taxpayer’s spouse for the tax period 2020 and thereafter.
+   - A maximum of 1,000 dinars for each of the taxpayer’s dependent children for the tax period 2019 and thereafter, with a maximum of 3 children.
+   - These expenses must be for rental expenses for a residential home inside the Kingdom, paid by the taxpayer, spouse, or dependents, or for murabaha or interest on a housing loan paid by the taxpayer, spouse, or dependents to any bank or company in the Kingdom or abroad in exchange for establishing or purchasing a residence in the Kingdom [kta_document_(50).pdf].
+
+To claim these exemptions, the taxpayer must submit invoices and documents that include the serial number of the invoice or document and its date, the name, address, stamp, and tax number of the service provider, the name of the service beneficiary, and, for rental expenses, a rental contract for housing within the Kingdom certified by the Greater Amman Municipality or the municipality in whose area the rented property is located [BM25_Doc_2].",7.88556743,10,10,TRUE,0.261174673,1768145164,TRUE,Income Tax,Medium
+2,41,How are joint tax return exemptions divided between spouses?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"In the case of filing joint tax returns or separate tax returns by the spouses, or in the case of joint assessment decisions or separate assessment decisions for the spouses, the exemption for the taxpayer and his dependents, in accordance with the provisions of Paragraph (a) of this Article, shall not exceed (23,000) dinars [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]. 
+
+Additionally, it is not permitted to submit the joint tax return or issue the joint assessment decision without the consent of the spouses [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]. 
+
+The taxpayer or the taxpayer’s spouse may benefit from the exemption granted in accordance with the provisions of Paragraph (a) of this Article, provided that the exemption granted does not exceed (23,000) dinars [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].",8.143428802,10,10,TRUE,0.266921903,1768145172,TRUE,Income Tax,Medium
+2,42,"How is taxable income for a resident natural person calculated in Jordan, and what exemptions reduce it?",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"To calculate the taxable income for a resident natural person in Jordan, the following amounts are deducted from the gross income to determine the taxable income:
+
+1. **Personal Exemption**: 
+   - For the year 2019, a personal exemption of 10,000 dinars is allowed.
+   - For the year 2020 and subsequent years, a personal exemption of 9,000 dinars is allowed. [BM25_Doc_8]
+
+2. **Exemptions for Dependents**:
+   - One thousand dinars for the taxpayer starting from the year 2020 onwards.
+   - One thousand dinars for the taxpayer’s spouse starting from the year 2020 onwards.
+   - One thousand dinars for each son/daughter, up to a maximum of three thousand dinars. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+3. **Other Exemptions**:
+   - Exemptions for medical expenses, educational expenses, rent, home loan interest, and murabaha, provided that invoices and documents are submitted to support these expenses:
+     - A maximum of 1,000 dinars for the taxpayer for the tax period 2020 and thereafter.
+     - A maximum of 1,000 dinars for the taxpayer’s spouse for the tax period 2020 and thereafter. [BM25_Doc_12]
+
+After applying these deductions, the remaining net income is considered the taxable income. This taxable income is then subject to the progressive tax rates specified in the law.",9.33649921,10,10,TRUE,0.366010729,1768145184,TRUE,Income Tax,Difficult
+2,43,Are end-of-service benefits fully taxable?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"No, end-of-service benefits are not fully taxable. According to the provided documents, the taxation of end-of-service benefits is structured as follows:
+
+1. The full end-of-service gratuity due for the employee’s services prior to 1/1/2010 is exempt from tax [kta_document_(50)].
+2. 50% of the end-of-service gratuity due to the employee for his services from 1/1/2010 until 12/31/2014 is exempt from tax [kta_document_(50)].
+3. 15,000 dinars from the end-of-service gratuity due to the employee for his services from 1/1/2015 and thereafter is exempt from tax [kta_document_(50)].
+
+Any remaining amount of the end-of-service gratuity after these deductions is subject to a tax rate of 9% [kta_document_(50)].",4.54103947,10,10,FALSE,0.294724371,1768145198,TRUE,Income Tax,Medium
+2,44,"What is the maximum exemption for children’s medical, educational, or housing expenses?",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The maximum exemption for each of the taxpayer's dependent children for medical, educational, or housing expenses is 1,000 dinars for the tax period 2019 and thereafter, with a maximum of 3 children, totaling 3,000 dinars [kta_document_(50).pdf].",3.215084314,10,10,TRUE,0.338134523,1768145202,TRUE,Income Tax,Easy
+2,45,"How much is the exemption for the taxpayer himself/herself for medical, educational, and housing expenses?",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The exemption for the taxpayer himself/herself for medical, educational, and housing expenses is a maximum of 1,000 dinars for the tax period 2020 and thereafter [kta_document_(50).pdf].",9.711689472,10,10,TRUE,0.296648582,1768145205,TRUE,Income Tax,Easy
+2,46,What is the tax rate on income exceeding 1 million JOD for individuals?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,The tax rate on income exceeding 1 million JOD for individuals is 30% [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].,8.793771505,10,10,TRUE,0.272073735,1768145208,TRUE,Income Tax,Medium
+2,47,Are donations to public institutions or approved charities deductible?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, donations to public institutions or approved charities are deductible. According to the provided context, ""Any person may deduct the subscriptions and donations paid in the Kingdom without any personal interest for religious, charitable, humanitarian, scientific, environmental, sport, or professional purposes if the Council of Ministers approves such capacity"" [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018].",3.634338617,10,10,FALSE,0.409067236,1768145211,TRUE,Income Tax,Medium
+2,48,What is income tax?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Income tax is the tax imposed by law on the income of individuals or organizations, which includes salaries, wages, bonuses, rewards, allowances, and any other cash or in-kind privileges generated by the employee from employment in the public or private sector [kta_document_(50).pdf], [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].",6.556309938,10,10,TRUE,0.337773961,1768145215,TRUE,Income Tax,Medium
+2,49,How is the transportation bonus determined for faculty members on contracts?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Faculty members assigned with contracts are granted a transportation bonus that is equal to staff receiving the same salary, pursuant to Paragraph (A) of the relevant Article [gju_payroll_laws.pdf].",3.359384775,10,10,TRUE,0.508076266,1768145218,FALSE,Regular Allowance,Medium
+2,50,"What is the salary range for Fourth Class B staff, and what is their annual increase?",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The salary range for Fourth Class B staff is from 87 to 111 Dinar, and their annual increase is 6 Dinar [gju_payroll_laws.pdf].",5.490484476,10,10,TRUE,0.242660089,1768145221,TRUE,Regular Allowance,Medium
+3,1,Basic salary,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff at the University is defined as follows:
+
+- **Professor**: 
+  - Class A: 401 - 851 JOD
+
+  - Annual Increase: 15 JOD for Class A, 12 JOD for Class B [gju_payroll_laws.pdf]
+
+- **Associate Professor**:
+  - Class A: 391 - 439 JOD
+  - Class B: 248 - 288 JOD
+  - Annual Increase: 12 JOD for both classes [gju_payroll_laws.pdf]
+
+- **Assistant Professor**:
+  - Class A: 301 - 341 JOD
+  - Class B: 228 - 268 JOD
+  - Annual Increase: 10 JOD for both classes [gju_payroll_laws.pdf]
+
+- **Practicing Professor**:
+  - Class A: 300 - 340 JOD
+  - Annual Increase: 10 JOD [gju_payroll_laws.pdf]
+
+- **Lecturer**:
+  - Class A: 222 - 264 JOD
+  - Class B: 163 - 205 JOD
+  - Annual Increase: 7 JOD for both classes [gju_payroll_laws.pdf]
+
+- **Assistant Lecturer**:
+  - Class A: 95 - 191 JOD
+  - Annual Increase: 6 JOD [gju_payroll_laws.pdf]
+
+For administrative staff, the basic salary scale is defined as follows:
+
+- **First Category**:
+  - Class A: 359 - 494 JOD
+  - Class B: 279 - 315 JOD
+  - Annual Increase: 9 JOD for both classes [gju_payroll_laws.pdf]
+
+- **Second Category**:
+  - Class A: 230 - 258 JOD
+  - Class B: 186 - 214 JOD
+  - Annual Increase: 7 JOD for both classes [gju_payroll_laws.pdf]
+
+- **Third Category**:
+  - Class A: 165 - 189 JOD
+  - Class B: 133 - 157 JOD
+  - Annual Increase: 6 JOD for both classes [gju_payroll_laws.pdf]
+
+- **Fourth Category**:
+  - Class A: 121 - 145 JOD
+  - Class B: 87 - 111 JOD
+  - Annual Increase: 6 JOD for both classes [gju_payroll_laws.pdf]
+
+- **Fifth Category**:
+  - 65 - 85 JOD
+  - Annual Increase: 5 JOD [gju_payroll_laws.pdf]
+
+- **Sixth Category**:
+  - 46 - 62 JOD
+  - Annual Increase: 4 JOD [gju_payroll_laws.pdf]
+
+- **Seventh Category**:
+  - 34 - 46 JOD
+  - Annual Increase: 3 JOD [gju_payroll_laws.pdf]
+
+For students, there is no mention of a basic salary in the provided documents. [gju_payroll_laws.pdf]",7.95415235,10,10,TRUE,0.313339485,1768145230,TRUE,Regular Allowance,Difficult
+3,2,Basic salary?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff and administrative staff at the University is defined according to specific scales and ranks. For academic staff, the basic salary ranges are as follows:
+
+- **Professor**: 401 - 851 JOD
+- **Associate Professor**: 306 - 354 JOD
+- **Assistant Professor**: 248 - 288 JOD
+- **Practicing Professor**: 228 - 268 JOD
+- **Lecturer**: 163 - 205 JOD
+- **Assistant Lecturer**: 95 - 191 JOD
+
+For administrative staff, the basic salary ranges are as follows:
+
+- **First Class**:
+  - A: 359 - 494 JOD
+  - B: 279 - 315 JOD
+- **Second Class**:
+  - A: 230 - 258 JOD
+  - B: 186 - 214 JOD
+- **Third Class**:
+  - A: 165 - 189 JOD
+  - B: 133 - 157 JOD
+- **Fourth Class**:
+  - A: 121 - 145 JOD
+  - B: 87 - 111 JOD
+- **Fifth Class**: 65 - 85 JOD
+- **Sixth Class**: 46 - 62 JOD
+- **Seventh Class**: 34 - 46 JOD",8.51586175,10,10,10,0.308272125,1768145252,TRUE,Regular Allowance,Difficult
+3,3,What is the basic salary?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff and administrative staff at the University is defined according to specific scales and ranks. For academic staff, the basic salary ranges are as follows:
+
+- **Professor**: 401 - 851 JOD
+- **Associate Professor**: 306 - 354 JOD
+- **Assistant Professor**: 248 - 288 JOD
+- **Practicing Professor**: 228 - 268 JOD
+- **Lecturer**: 163 - 205 JOD
+- **Assistant Lecturer**: 95 - 191 JOD
+
+For administrative staff, the basic salary ranges are as follows:
+
+- **First Class**:
+  - A: 359 - 494 JOD
+  - B: 279 - 315 JOD
+- **Second Class**:
+  - A: 230 - 258 JOD
+  - B: 186 - 214 JOD
+- **Third Class**:
+  - A: 165 - 189 JOD
+  - B: 133 - 157 JOD
+- **Fourth Class**:
+  - A: 121 - 145 JOD
+  - B: 87 - 111 JOD
+- **Fifth Class**: 65 - 85 JOD
+- **Sixth Class**: 46 - 62 JOD
+- **Seventh Class**: 34 - 46 JOD",7.55247235,10,10,TRUE,0.22501378,1768145270,TRUE,Regular Allowance,Difficult
+3,4,What is the basic salary definition?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff and administrative staff at the University is defined according to specific scales and ranks. For academic staff, the basic salary ranges are as follows:
+
+- **Professor**: 401 - 851 JOD
+- **Associate Professor**: 306 - 354 JOD
+- **Assistant Professor**: 248 - 288 JOD
+- **Practicing Professor**: 228 - 268 JOD
+- **Lecturer**: 163 - 205 JOD
+- **Assistant Lecturer**: 95 - 191 JOD
+
+For administrative staff, the basic salary ranges are as follows:
+
+- **First Class**:
+  - A: 359 - 494 JOD
+  - B: 279 - 315 JOD
+- **Second Class**:
+  - A: 230 - 258 JOD
+  - B: 186 - 214 JOD
+- **Third Class**:
+  - A: 165 - 189 JOD
+  - B: 133 - 157 JOD
+- **Fourth Class**:
+  - A: 121 - 145 JOD
+  - B: 87 - 111 JOD
+- **Fifth Class**: 65 - 85 JOD
+- **Sixth Class**: 46 - 62 JOD
+- **Seventh Class**: 34 - 46 JOD
+
+- **Students:**
+  - The basic salary is not applicable to students as they are not employees of the university. However, students may receive scholarships or other financial aid, but this is not considered a basic salary [BM25_Doc_7].
+
+Additionally, faculty members and administrative staff may receive various bonuses and rewards, but these are not part of the basic salary [gju_payroll_laws.pdf].",8.67460489,10,10,TRUE,0.290442367,1768145275,TRUE,Regular Allowance,Medium
+3,5,Transportation allowance,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance for academic staff is as follows:
+
+1. President: 170 JOD
+2. Vice President and Dean: 100 JOD
+3. Vice Dean and President Assistant of the Faculty Members: 90 JOD
+4. Faculty Member: 80 JOD [gju_payroll_laws.pdf]
+
+For administrative staff, the transportation allowance is as follows:
+
+1. Third or Fourth Category Employees: 60 JOD
+2. Fifth or Sixth Category Employees: 40 JOD
+3. Seventh Category Employees: 24 JOD [gju_payroll_laws.pdf]
+
+For students, there is no specific transportation allowance mentioned in the provided documents.
+
+Additionally, it is noted that:
+- Faculty members and staff with contracts receive transportation bonuses equal to those of their equivalents in terms of rank and salary [gju_payroll_laws.pdf].
+- No individual may receive more than one of the bonuses stipulated [gju_payroll_laws.pdf].
+- The bonus is not granted to those who have a vehicle dedicated to them from the University or are provided with regular transportation [gju_payroll_laws.pdf].",8.272961855,8,8,TRUE,0.296946488,1768145281,TRUE,Regular Allowance,Difficult
+3,6,Transportation allowance?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance for academic staff is as follows:
+
+- President: 170 JOD
+- Vice President and Dean: 100 JOD
+- Vice Dean and President Assistant of the Faculty Members: 90 JOD
+- Faculty Member: 80 JOD [gju_payroll_laws.pdf]
+
+For administrative staff, the transportation allowance is:
+
+- Employee of third or fourth categories: 60 dinars
+- Employee of fifth or sixth categories: 40 dinars
+- Employee of seventh category: 24 dinars [gju_payroll_laws.pdf]
+
+For students, there is no specific transportation allowance mentioned in the provided documents.
+
+Additionally, it is not allowed for one faculty member or employee to receive more than one bonus stipulated in the respective articles, and the bonus is not granted to those who have a vehicle dedicated to them from the University or are provided with transportation on a regular basis [gju_payroll_laws.pdf].",7.363303185,8,8,TRUE,0.274702244,1768145287,TRUE,Regular Allowance,Difficult
+3,7,List the transportation allowance values for all,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for academic staff, administrative staff, and students, as applicable, are as follows:
+
+### Academic Staff:
+1. President: 170 JOD [gju_payroll_laws.pdf]
+2. Vice President and Dean: 100 JOD [gju_payroll_laws.pdf]
+3. Vice Dean and President Assistant of the Faculty Members: 90 JOD [gju_payroll_laws.pdf]
+4. Faculty Member: 80 JOD [gju_payroll_laws.pdf]
+
+### Administrative Staff:
+1. Unit, Department, and Center Director: 90 JOD [gju_payroll_laws.pdf]
+2. Employee of the First or Second Categories: 70 JOD [gju_payroll_laws.pdf]
+3. Employee of the Third or Fourth Categories: 60 JOD [gju_payroll_laws.pdf]
+4. Employee of the Fifth or Sixth Categories: 40 JOD [gju_payroll_laws.pdf]
+5. Employee of the Seventh Category: 24 JOD [gju_payroll_laws.pdf]
+
+### Students:
+- No specific transportation allowance values are mentioned for students in the provided documents. [gju_payroll_laws.pdf]
+
+### Additional Notes:
+- Faculty members assigned with contracts are granted transportation bonuses equal to staff receiving the same salary. [gju_payroll_laws.pdf]
+- No person may receive more than one of the bonuses stipulated in the respective paragraphs. [gju_payroll_laws.pdf]
+- The bonus is not granted to those who have a vehicle dedicated to them from the University or are provided with transportation on a regular basis. [gju_payroll_laws.pdf]",4.89875555,10,10,TRUE,0.245092178,1768145294,TRUE,Regular Allowance,Mediun
+3,8,"List the transportation allowance values for all, including dean",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The transportation allowance values for different roles at the University are as follows:
+
+### For Faculty Members:
+1. **President**: 170 JOD [gju_payroll_laws.pdf]
+2. **Vice President and Dean**: 100 JOD [gju_payroll_laws.pdf]
+3. **Vice Dean and President Assistant of the Faculty Members**: 90 JOD [gju_payroll_laws.pdf]
+4. **Faculty Member**: 80 JOD [gju_payroll_laws.pdf]
+
+### For Administrative Staff:
+1. **Unit, Department, or Center Director**: 90 JOD [gju_payroll_laws.pdf]
+2. **Employee of the First or Second Categories**: 70 JOD [gju_payroll_laws.pdf]
+3. **Employee of the Third or Fourth Categories**: 60 JOD [gju_payroll_laws.pdf]
+4. **Employee of the Fifth or Sixth Categories**: 40 JOD [gju_payroll_laws.pdf]
+5. **Employee of the Seventh Category**: 24 JOD [gju_payroll_laws.pdf]
+
+### For Students:
+- **Student Entry Permit**: Not specified for transportation allowance [gju_payroll_laws.pdf]
+- **Student Vehicle Entry Permit**: Not specified for transportation allowance [gju_payroll_laws.pdf]
+
+### Additional Notes:
+- **Dean (as an Academic Staff)**: If the Dean is also a faculty member, they would receive the transportation allowance as specified for faculty members (100 JOD).
+- **Dean (as an Administrative Staff)**: If the Dean is also an administrative staff member, they would receive the transportation allowance as specified for administrative staff (90 JOD).
+
+It is important to note that no specific transportation allowance is mentioned for students in the provided documents.",9.11687899,10,10,TRUE,0.292155686,1768145303,TRUE,Regular Allowance,Medium
+3,9,Family allowance?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic and administrative staff at the University, the family allowance is structured as follows:
+
+- **Wife**: 7 JOD per month.
+- **Children**:
+  - First child: 2 JOD per month.
+  - Second child: 2 JOD per month.
+  - Third child: 2 JOD per month.
+  - Fourth child: 2 JOD per month.
+
+This allowance is provided for up to four children. If the employee has more than one wife, the bonus is given for only one wife if there are four children. If there are fewer than four children, the remaining child bonuses can be granted to other wives, as long as the total number of wives and children does not exceed four [gju_payroll_laws.pdf].
+
+For students, the context does not provide specific information about a family allowance. However, there is a discount for the children of university employees at the university and in other public universities, which is 50% of the credit hours tuition fees for the undergraduate degree only [gju_payroll_laws.pdf].",7.32924819,10,10,TRUE,0.576976806,1768145314,FALSE,Regular Allowance,Difficult
+3,10,Family bonus?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The family bonus for academic and administrative staff at the University is as follows:
+
+- **For the wife:** 7 JOD
+- **For each of the first four children:** 2 JOD each
+
+This bonus is granted under the following conditions:
+
+1. **Children older than eighteen years of age:** The bonus is not granted unless they are still in secondary school, undergraduate programs, or have special needs.
+2. **Wife working at or getting paid monthly by a public or private institution:** The bonus is not granted for such a wife.
+
+For polygamous marriages, the bonus is given for only one wife if the employee has four children. If the employee has fewer than four children, the remaining child bonuses can be granted to other wives, as long as the total number of wives and children does not exceed four [gju_payroll_laws.pdf].
+
+There is no mention of a family bonus for students in the provided documents.",9.479513884,10,10,TRUE,0.65869163,1768145326,FALSE,Regular Allowance,Difficult
+3,11,What is the family bonus?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The family bonus for academic staff at the University is as follows:
+
+- **Wife**: 7 JOD
+- **First Child**: 2 JOD
+- **Second Child**: 2 JOD
+- **Third Child**: 2 JOD
+- **Fourth Child**: 2 JOD
+
+For administrative staff, the family bonus is not explicitly detailed in the provided documents. 
+
+For students, there is no mention of a family bonus; instead, there is a discount for children of university employees. The discount for students from the children of employees of the university and in other public universities who are accepted in the full-time study on the regular program at the university is at a rate of 50%, and it shall be applied to the fees of credit hours for the undergraduate degree only [gju_payroll_laws.pdf].",10.50258207,8,8,TRUE,0.284465146,1768145331,TRUE,Regular Allowance,Difficult
+3,12,What is the family bonus for wife?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The family bonus for the wife is 7 dinars for university staff, which includes academic and administrative staff [gju_payroll_laws.pdf]. There is no mention of a family bonus for students in the provided documents.",7.023797989,8,8,TRUE,0.417549016,1768145333,TRUE,Regular Allowance,Easy
+3,13,Tax exemption?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Based on the provided documents, there is no explicit mention of a blanket tax exemption for academic staff, administrative staff, and students. However, specific exemptions and deductions are outlined for certain categories and expenses:
+
+1. **Exemptions for Individuals and Dependents**:
+   - Natural persons and their dependents are granted exemptions against various expenses, including medical, educational, rent, home loan interest, and murabaha. The exemptions are as follows:
+     - One thousand dinars for the taxpayer starting from the year 2020 onwards.
+     - One thousand dinars for the taxpayer’s spouse starting from the year 2020 onwards.
+     - One thousand dinars for each son/daughter up to a maximum of three thousand dinars. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+2. **Deductions for Donations and Subscriptions**:
+   - Any person may deduct donations and subscriptions paid in the Kingdom without any personal interest for religious, charitable, humanitarian, scientific, environmental, sport, or professional purposes, if the Council of Ministers approves such capacity. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+3. **Taxable Income and Deductions**:
+   - When an employer pays a monthly salary or wage subject to tax to an employee, in addition to any non-monthly amount as an annual bonus, housing allowance, or similar job benefits, that exceeds 1/12 of the total exemptions due to the employee, the employer shall deduct the tax from that increase. [kta_document_(50).pdf]
+
+4. **Specific University Expenses**:
+   - The German Jordanian University has specific regulations for various expenses, including overtime allowances, travel and moving allowances, and other job-related benefits. These expenses are detailed and may be subject to specific rules and approvals. [gju_payroll_laws.pdf]
+
+5. **Non-Taxable Benefits**:
+   - Some benefits provided by employers, such as medical treatment, meals at the workplace, traveling, transportation, life insurance against work injuries, and health insurance paid by the employer on behalf of the employees and their dependents, are not explicitly mentioned as taxable. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+Given the above points, while there is no overarching tax exemption for academic staff, administrative staff, and students, there are specific exemptions and deductions available for certain types of income and expenses. For a comprehensive understanding, it would be best to consult the specific sections of the tax law and university regulations.",9.39262748,8,8,TRUE,0.128610432,1768145351,TRUE,Income Tax,Difficult
+3,14,Health insurance?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Health insurance at the German Jordanian University is regulated differently for academic staff, administrative staff, and students. Here are the key points:
+
+### For Academic and Administrative Staff:
+1. **Membership and Beneficiaries:**
+   - Health insurance is optional for all employers at the University [gju_payroll_laws.pdf].
+   - Members can include the following beneficiaries:
+     - Spouse and parents
+     - Children under the age of 18
+     - Children enrolled in educational institutions, until the end of their study or until they reach the age of 25, whichever comes first
+     - Single females and unemployed divorced females [gju_payroll_laws.pdf].
+
+2. **Exclusions:**
+   - The insurance does not cover:
+     - Suicide, suicidal attempts, voluntary self-injury on purpose or attempt of it regardless of the mental health of the member
+     - Injuries caused by participation in a declared or undeclared war, civil disturbance, riots, civil war, revolutions, or anything that is semi-war
+     - All cases related to hazardous activities such as motor racing
+     - Atomic radiation, radioactive contamination, or chemical contamination
+     - Plastic surgeries, unless caused by an accident that the insurance covers and occurred while the insurance is still active
+     - Recovery, spa treatments, mineral springs, or any relaxation spots
+     - Artificial limbs
+     - Auxiliary external medical and artificial devices unless approved by the president upon the recommendation of the committee
+     - Dental treatment, except dental extraction, mouth and gum diseases, any case that results from accidents
+     - Vitamins and mineral salts, except in case of pregnancy and osteoporosis
+     - All kinds of sexual stimulators
+     - All kinds of infertility
+     - Food outside of the hospital
+     - All cosmetics, serums, and vaccinations, soap and shampoo, toothpaste, sun-block, and acne treatments with the exception of vaccinations for employees in the University
+     - Home visits for patients (including medical examination bill)
+     - Medical procedures which are not scientifically identified as a treatment
+     - Psychiatric sessions [gju_payroll_laws.pdf].
+
+3. **Continuation of Membership:**
+   - Members on sabbatical leave, unpaid vacation, or secondment may continue their membership by paying the full annual premium [gju_payroll_laws.pdf].
+
+### For Students:
+1. **Participation:**
+   - Health insurance is compulsory for all university students who are enrolled to obtain any degree or scientific certificate, and for private study students [gju_payroll_laws.pdf].
+
+2. **Exclusions:**
+   - The insurance does not cover:
+     - Suicide, suicidal attempts, voluntary self-injury on purpose or attempt of it regardless of the mental health of the member
+     - Injuries caused by participation in a declared or undeclared war, civil disturbance, riots, civil war, revolutions, or anything that is semi-war
+     - All cases related to hazardous activities such as motor racing
+     - Atomic radiation, radioactive contamination, or chemical contamination
+     - Plastic surgeries, unless caused by an accident that the insurance covers and occurred while the insurance is still active
+     - Recovery, spa treatments, mineral springs, or any relaxation spots
+     - Artificial limbs
+     - Auxiliary external medical and artificial devices unless approved by the president upon the recommendation of the committee
+     - Dental treatment, except dental extraction, mouth and gum diseases, any case that results from accidents
+     - Vitamins and mineral salts, except in case of pregnancy and osteoporosis
+     - All kinds of sexual stimulators
+     - All kinds of infertility
+     - Food outside of the hospital
+     - All cosmetics, serums, and vaccinations, soap and shampoo, toothpaste, sun-block, and acne treatments with the exception of vaccinations for employees in the University
+     - Home visits for patients (including medical examination bill)
+     - Medical procedures which are not scientifically identified as a treatment
+     - Psychiatric sessions [gju_payroll_laws.pdf].
+
+3. **Payment:**
+   - Health insurance takes effect upon payment of university fees [gju_payroll_laws.pdf].
+
+### General Provisions:
+- **Committee:**
+  - The Students Health Insurance Committee at the University is responsible for health insurance matters [gju_payroll_laws.pdf].
+
+- **Treatment:**
+  - Treatment is personal and it is not permissible to give the university card or health insurance card to anyone else [gju_payroll_laws.pdf].
+
+- **Claims:**
+  - The department of human resources is in charge of receiving the financial claims regarding the treatment expenses and sends it to the approved company to be spent as duly required [gju_payroll_laws.pdf].
+
+For any cases not explicitly mentioned, the president of the University has the authority to make a decision [gju_payroll_laws.pdf].",8.5074966,10,10,TRUE,0.215892061,1768145355,TRUE,Health Insurance,Difficult
+3,15,University contribution to health insurance?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"For academic staff and administrative staff, the University contributes to the health insurance costs, but the exact amount and the contribution percentage are determined by the University Council upon the recommendation of the Health Insurance Committee [gju_payroll_laws.pdf].
+
+For students, the University does not contribute to the health insurance costs; the participation in health insurance is compulsory for all university students, and the health insurance takes effect upon payment of university fees [gju_payroll_laws.pdf].",9.038769484,10,10,TRUE,0.400498158,1768145360,TRUE,Health Insurance,Difficult
+3,16,Academic staff ranks?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The academic staff ranks at the University are as follows:
+
+1. Professor
+2. Associate Professor
+3. Assistant Professor
+4. Instructor
+5. Assistant Instructor
+6. Practicing Professor",10.08265114,10,10,TRUE,0.181868056,1768145378,TRUE,Employee Attributes,Difficult
+3,17,Academic staff categories?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The academic staff categories at the University are as follows:
+
+1. Professor
+2. Associate Professor
+3. Assistant Professor
+4. Instructor
+5. Assistant Instructor
+6. Practicing Professor
+
+These categories are defined in [gju_payroll_laws.pdf] under Article 22.",3.460665464,10,10,TRUE,0.230568508,1768145381,TRUE,Employee Attributes,Medium
+3,18,Administrative staff categories?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The administrative staff categories at the University are as follows:
+
+1. **Category One**: Includes leading administrative positions or highly specialized positions. Only employees with a bachelor's degree minimum, in addition to the qualifications and experience, shall be appointed in or promoted to this category positions. The tasks of this category include:
+   - Proposing the general policy for their units, centers, or departments.
+   - Preparing plans for the programs, projects, and services for their units, centers, or departments, and following up and supervising their execution. [gju_payroll_laws.pdf]
+
+2. **Category Two**: Includes job positions that conduct specialized work in the field of applied, natural, and human sciences, such as medical, engineering, economic, agricultural, administrative, legal, educational, and financial, and accounting professions, or the like, and supervise such works. Only employees with a bachelor's degree minimum shall be appointed in this category. [gju_payroll_laws.pdf]
+
+3. **Category Three**: Includes job positions that conduct basic work in the administrative clerical, accounting, training, and warehouses affairs, procurement, libraries, technical works, crafts, vocational fields, or the like, and supervise such works. Only employees with a minimum of diplomas from community colleges or an equivalent shall be appointed in this category. [gju_payroll_laws.pdf]
+
+4. **Category Four**: Includes job positions whose tasks shall be to conduct assistant vocational craftwork and supervising their execution or performing certain services. [gju_payroll_laws.pdf]",7.88742805,10,10,TRUE,0.241522849,1768145390,TRUE,Employee Attributes,Medium
+3,19,Is membership in health insurance optional for all employees at GJU?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, membership in health insurance is optional for all employees at GJU [gju_payroll_laws.pdf].",2.025319099,10,10,TRUE,0.325550123,1768145392,TRUE,Health Insurance,Easy
+3,20,Are children under the age of 18 eligible for inclusion in the health insurance?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, children under the age of 18 are eligible for inclusion in the health insurance [gju_payroll_laws.pdf].",8.838437796,10,10,TRUE,0.274562176,1768145394,TRUE,Health Insurance,Easy
+3,21,Can single females and unemployed divorced females be included as health insurance beneficiaries?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, single females and unemployed divorced females can be included as health insurance beneficiaries [gju_payroll_laws.pdf].",6.110231876,10,10,TRUE,0.393385313,1768145396,TRUE,Health Insurance,Easy
+3,22,Who can a member include as beneficiaries in the health insurance plan?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"According to the provided documents, a member may include the following beneficiaries in the health insurance plan:
+
+1. Spouse and parents
+2. Children under the age of 18
+3. Children enrolled in educational institutions, until the end of their study or until they reach the age of 25, whichever comes first
+4. Single females and unemployed divorced females [gju_payroll_laws.pdf]",8.65048337,10,10,TRUE,0.259198777,1768145400,TRUE,Health Insurance,Medium
+3,23,Are cosmetic treatments and vaccinations covered under the health insurance regulation?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Cosmetic treatments are not covered under the health insurance regulation. Vaccinations are generally not covered, except for vaccinations for employees in the University [gju_payroll_laws.pdf].",8.372820139,10,10,TRUE,0.339522461,1768145403,TRUE,Health Insurance,Easy
+3,24,What dental treatments are included under the health insurance according to this regulation?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"According to the regulation, the health insurance covers dental treatment except for dental extraction, mouth and gum diseases, and any case that results from accidents [gju_payroll_laws.pdf].",2.611676216,2,2,TRUE,0.414789628,1768145405,TRUE,Health Insurance,Medium
+3,25,Who recommends instructions to the University Council for executing the health insurance regulation?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,The President recommends instructions to the University Council for executing the health insurance regulation [gju_payroll_laws.pdf].,6.176572084,10,10,TRUE,0.315899943,1768145408,TRUE,Health Insurance,Easy
+3,26,What are the main tasks and authorities of the health insurance committee?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The main tasks and authorities of the health insurance committee include:
+
+1. **Implementation of Provisions**: Implementing the provisions of the regulation and the instructions issued by it to ensure the achievement of the goals of the health insurance [gju_payroll_laws.pdf].
+2. **Establishing Agreements**: Establishing agreements with hospitals, health centers, and health insurance companies in the kingdom [gju_payroll_laws.pdf].
+3. **Administrative Actions**: Deciding on administrative actions to become a member in the health insurance or to withdraw from it [gju_payroll_laws.pdf].
+4. **Auditing Financial Requests**: Auditing the financial requests regarding treatments as required by the President [gju_payroll_laws.pdf].
+5. **Studying Matters**: Studying any other matter related to the health insurance [gju_payroll_laws.pdf].",5.911411285,10,10,TRUE,0.333038914,1768145414,TRUE,Health Insurance,Medium
+3,27,Can a member who resigned due to health problems continue their health insurance membership?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, a member who resigned from the University due to health problems can continue their health insurance membership along with his/her spouse and children, provided that the duration of the membership was no less than 10 continuous years as set by the provisions of the regulation [gju_payroll_laws.pdf].",4.593677044,10,10,TRUE,0.332970673,1768145419,TRUE,Health Insurance,Medium
+3,28,Does the University contribute to health insurance expenses?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, the University contributes to health insurance expenses. Specifically, the University contributes to the health insurance expenses of a faculty member enrolled in a training course and covers up to 85% of the health insurance expenses, with the condition that the contribution does not exceed 250 JD per month [gju_payroll_laws.pdf]. Additionally, the University allocates part of its budget to contribute to covering the health insurance expenses as determined by the University Council, upon the recommendation of the Health Insurance Committee [gju_payroll_laws.pdf].",4.586410761,10,10,TRUE,0.314741327,1768145423,TRUE,Health Insurance,Easy
+3,29,Does the category 'Practicing Professor' exist among the University’s academic staff?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, the category 'Practicing Professor' exists among the University’s academic staff [gju_payroll_laws.pdf].",8.221254826,10,10,TRUE,0.216703961,1768145426,TRUE,Employee Attributes,Easy
+3,30,What are the categories of academic staff at the University?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The categories of academic staff at the University are as follows:
+
+- Professor
+- Associate Professor
+- Assistant Professor
+- Professor (Note: This appears to be a duplicate entry, possibly intended to denote a different rank or a typographical error)
+- Instructor
+- Assistant Instructor
+- Practicing Professor
+
+[Source: gju_payroll_laws.pdf, Article 22]",5.197105646,10,10,FALSE,0.221127585,1768145431,TRUE,Employee Attributes,Medium
+3,31,Is a Teaching Assistant considered part of the academic staff?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Based on the provided documents, a Teaching Assistant is not explicitly listed as part of the academic staff. The academic staff ranks include Professor, Associate Professor, Assistant Professor, Practicing Professor, Lecturer, and Teaching Assistant, but the role of a Teaching Assistant is described separately and is more of a student position rather than a full member of the academic staff [gju_payroll_laws.pdf].",3.532010555,5,5,TRUE,0.239671313,1768145435,TRUE,Employee Attributes,Easy
+3,32,What are the four Administrative Job Categories at the University?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The four Administrative Job Categories at the University are:
+
+1. **Category One**: Includes leading administrative positions or highly specialized positions. Only employees with a bachelor's degree minimum, in addition to the qualifications and experience, shall be appointed in or promoted to this category of positions. [BM25_Doc_1]
+2. **Category Two**: Not explicitly detailed in the provided documents.
+3. **Category Three**: Workers in the fields of administration, clerking, accounting, and training, warehouse and supply affairs, libraries, technical, crafts, and vocational works or the like, and supervising such works. [gju_payroll_laws.pdf]
+4. **Category Four**: Technical, craft, and vocational assistants, or the like, and those supervising their execution and the performance of specific services. [gju_payroll_laws.pdf]",6.29061532,10,10,TRUE,0.359810601,1768145441,TRUE,Employee Attributes,Medium
+3,33,Which two main employee groups exist at GJU?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The two main employee groups at GJU are:
+
+1. Classified staff: These are employees appointed in classified and permanent jobs with outlined titles, categories, levels, and salaries within the job structure.
+2. Unclassified staff: These are employees appointed with holistic fixed monthly salaries in specific jobs within the job structure [gju_payroll_laws.pdf].",8.584305048,2,2,TRUE,0.201812148,1768145445,TRUE,Employee Attributes,Easy
+3,34,Can part-time lecturers be assigned to teach at the University?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, part-time lecturers can be assigned to teach at the University. According to the documents, part-time lecturers may be assigned to teach or train at the University for one semester or more, based on the decision of the President and the recommendation of the competent dean/director [gju_payroll_laws.pdf]. Additionally, the President may invite people from outside the University to give lectures or do timely tasks, pursuant to bases determined by him [gju_payroll_laws.pdf].",6.725744009,10,10,TRUE,0.396452649,1768145452,TRUE,Employee Attributes,Easy
+3,35,What are the three main types of employees at GJU?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The three main types of employees at GJU are:
+
+1. Classified staff: These are individuals appointed in classified and permanent jobs with outlined titles, categories, levels, and salaries within the job structure.
+2. Unclassified staff: These are individuals appointed with holistic fixed monthly salaries in specific jobs within the job structure.
+3. Staff with contracts: These are individuals appointed for a fixed term under contracts concluded between them and the University, under the conditions set forth in their contracts in all matters relating to salaries, allowances, vacations, transfer, end of their services, and others. [gju_payroll_laws.pdf]",4.834208727,10,10,TRUE,0.152526411,1768145457,TRUE,Employee Attributes,Medium
+3,36,Are temporary assignments considered permanent University employment?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"No, temporary assignments are not considered permanent University employment. According to the provided documents, temporary assignments are specifically noted to be for a limited period and are distinct from permanent employment. For example, Article (5) states that ""Assignment for the purpose of training and employment shall be temporary for a period not exceeding six months"" [gju_payroll_laws.pdf]. Additionally, Article (7) mentions that ""The assigned graduate shall not be considered as an employee of the university staff"" [gju_payroll_laws.pdf].",4.299736023,10,10,TRUE,0.26906669,1768145461,TRUE,Employee Attributes,Easy
+3,37,What is the main matter the Personnel Affairs Committee deals with for administrative employees?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The main matter the Personnel Affairs Committee deals with for administrative employees includes appointments, promotions, transfers, tenure, and other employment conditions as outlined in the context provided [BM25_Doc_1].",7.440683603,10,10,TRUE,0.19583594,1768145464,TRUE,Employee Attributes,Medium
+3,38,What is the personal exemption for a resident natural person from 2020 onwards?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,The personal exemption for a resident natural person from 2020 onwards is nine thousand dinars [BM25_Doc_1].,8.150323153,10,10,TRUE,0.416033352,1768145466,TRUE,Income Tax,Easy
+3,39,"What is the tax rate on the first 5,000 JOD of taxable income for a natural person?",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The tax rate on the first 5,000 JOD of taxable income for a natural person is (5%) Five percent [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].",9.864201784,10,10,TRUE,0.236877522,1768145469,TRUE,Income Tax,Easy
+3,40,"Explain the additional exemptions for medical, educational, and housing expenses for resident individuals",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Resident individuals are granted specific exemptions for medical, educational, and housing expenses as outlined in the provided documents. These exemptions are as follows:
+
+1. **Medical Expenses**:
+   - A maximum of 1,000 dinars for the taxpayer for the tax period 2020 and thereafter.
+   - A maximum of 1,000 dinars for the taxpayer’s spouse for the tax period 2020 and thereafter.
+   - A maximum of 1,000 dinars for each of the taxpayer’s dependent children for the tax period 2019 and thereafter, with a maximum of 3 children.
+   - These expenses must be related to treatment or surgical operations at hospitals or doctors, as well as expenses of staying in a hospital, whether inside or outside the Kingdom, for the taxpayer, spouse, or dependents [kta_document_(50).pdf, BM25_Doc_4].
+
+2. **Educational Expenses**:
+   - A maximum of 1,000 dinars for the taxpayer for the tax period 2020 and thereafter.
+   - A maximum of 1,000 dinars for the taxpayer’s spouse for the tax period 2020 and thereafter.
+   - A maximum of 1,000 dinars for each of the taxpayer’s dependent children for the tax period 2019 and thereafter, with a maximum of 3 children.
+   - These expenses must be for educational purposes, including expenses for kindergarten and beyond, paid by the taxpayer or dependents inside or outside the Kingdom [kta_document_(50).pdf, BM25_Doc_9].
+
+3. **Housing Expenses**:
+   - A maximum of 1,000 dinars for the taxpayer for the tax period 2020 and thereafter.
+   - A maximum of 1,000 dinars for the taxpayer’s spouse for the tax period 2020 and thereafter.
+   - A maximum of 1,000 dinars for each of the taxpayer’s dependent children for the tax period 2019 and thereafter, with a maximum of 3 children.
+   - These expenses must be for rental expenses for a residential home inside the Kingdom, paid by the taxpayer, spouse, or dependents, or for murabaha or interest on a housing loan paid by the taxpayer, spouse, or dependents to any bank or company in the Kingdom or abroad in exchange for establishing or purchasing a residence in the Kingdom [kta_document_(50).pdf, BM25_Doc_9].
+
+To claim these exemptions, the taxpayer must submit invoices and documents that include the following details:
+- The serial number of the invoice or document and its date.
+- The name, address, stamp, and tax number of the service provider, if any.
+- The name of the service beneficiary.
+- For rental expenses, a rental contract for housing within the Kingdom, certified by the Greater Amman Municipality or the municipality in whose area the rented property is located [BM25_Doc_2].",9.9545362,10,10,TRUE,0.261174673,1768145505,TRUE,Income Tax,Medium
+3,41,How are joint tax return exemptions divided between spouses?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"In the case of filing joint tax returns or separate tax returns by the spouses, or in the case of joint assessment decisions or separate assessment decisions for the spouses, the exemption for the taxpayer and his dependents, in accordance with the provisions of Paragraph (a) of this Article, shall not exceed 23,000 dinars [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]. It is not permitted to submit the joint tax return or issue the joint assessment decision without the consent of the spouses [gju_payroll_laws.pdf]. 
+
+Additionally, the female breadwinner taxpayer shall have the right to receive the exemption of the dependents stated in Paragraph (a) of this Article, and in the case where multiple breadwinner-taxpayers apply to benefit from this exemption, it shall be divided depending on the percentage of support, provided that receipts and supporting documents are submitted; otherwise, it is divided equally between the breadwinners [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].",11.55269337,10,10,TRUE,0.266921903,1768145517,TRUE,Income Tax,Medium
+3,42,"How is taxable income for a resident natural person calculated in Jordan, and what exemptions reduce it?",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"To calculate the taxable income for a resident natural person in Jordan, the following amounts are deducted from the gross income:
+
+1. **Personal Exemption**: 
+   - For the year 2019: 10,000 dinars.
+   - For the year 2020 and subsequent years: 9,000 dinars. [BM25_Doc_8]
+
+2. **Exemptions for Dependents**:
+   - One thousand dinars for the taxpayer starting from the year 2020 onwards.
+   - One thousand dinars for the taxpayer’s spouse starting from the year 2020 onwards.
+   - One thousand dinars for each son/daughter, up to a maximum of three thousand dinars. [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf]
+
+3. **Other Exemptions**:
+   - Medical expenses, educational expenses, rent, home loan interest, and murabaha, provided that invoices and documents are submitted to support these claims:
+     - A maximum of 1,000 dinars for the taxpayer for the tax period 2020 and thereafter.
+     - A maximum of 1,000 dinars for the taxpayer’s spouse for the tax period 2020 and thereafter. [BM25_Doc_12]
+
+After applying these deductions, the remaining net income is considered the taxable income. This taxable income is then subject to the progressive tax rates specified in the law.",13.41474438,10,10,TRUE,0.366010729,1768145531,TRUE,Income Tax,Difficult
+3,43,Are end-of-service benefits fully taxable?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"No, end-of-service benefits are not fully taxable. According to the provided documents, the taxation of end-of-service benefits is structured as follows:
+
+1. The full end-of-service gratuity due for the employee’s services prior to 1/1/2010 is exempt from tax [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].
+2. 50% of the end-of-service gratuity due to the employee for services from 1/1/2010 to 12/31/2014 is exempt from tax [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].
+3. The first 15,000 dinars of the end-of-service gratuity due to the employee for services from 1/1/2015 and thereafter is exempt from tax [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].
+
+Any amounts exceeding these thresholds are subject to a tax rate of 9% [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].",8.864459276,10,10,TRUE,0.294724371,1768145540,TRUE,Income Tax,Medium
+3,44,"What is the maximum exemption for children’s medical, educational, or housing expenses?",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The maximum exemption for each of the taxpayer's dependent children for medical, educational, or housing expenses is 1,000 dinars for the tax period 2019 and thereafter, with a maximum of 3 children [kta_document_(50).pdf].",9.819129944,10,10,TRUE,0.338134523,1768145542,TRUE,Income Tax,Easy
+3,45,"How much is the exemption for the taxpayer himself/herself for medical, educational, and housing expenses?",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The exemption for the taxpayer himself/herself for medical, educational, and housing expenses is a maximum of 1,000 dinars for the tax period 2020 and thereafter [kta_document_(50).pdf].",7.05751729,10,10,TRUE,0.296648582,1768145546,TRUE,Income Tax,Easy
+3,46,What is the tax rate on income exceeding 1 million JOD for individuals?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,The tax rate on income exceeding 1 million JOD for individuals is 30% [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].,9.362072945,10,10,TRUE,0.272073735,1768145548,TRUE,Income Tax,Medium
+3,47,Are donations to public institutions or approved charities deductible?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Yes, donations to public institutions or approved charities are deductible. According to the provided documents, a person may deduct any amount paid during the tax period as a donation without any personal interest to any public corporation, department, municipality, or approved charitable organizations from their gross income during the period in which the payment took place [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].",8.414879322,10,10,TRUE,0.409067236,1768145553,TRUE,Income Tax,Medium
+3,48,What is income tax?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Income tax is the tax imposed by law on the income of individuals or organizations, which includes salaries, wages, bonuses, rewards, allowances, and any other cash or in-kind privileges generated by the employee from employment in the public or private sector [kta_document_(50).pdf], [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].",6.572779894,10,10,TRUE,0.337773961,1768145556,TRUE,Income Tax,Medium
+3,49,How is the transportation bonus determined for faculty members on contracts?,hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Faculty members assigned with contracts are granted a transportation bonus that is equal to staff receiving the same salary, pursuant to Paragraph (A) of the relevant Article [gju_payroll_laws.pdf].",10.88754582,10,10,TRUE,0.508076266,1768145560,FALSE,Regular Allowance,Medium
+3,50,"What is the salary range for Fourth Class B staff, and what is their annual increase?",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The salary range for Fourth Class B staff is from 87 to 111 Dinar, and their annual increase is 6 Dinar [gju_payroll_laws.pdf].",7.942219019,10,10,TRUE,0.242660089,1768145563,TRUE,Regular Allowance,Medium

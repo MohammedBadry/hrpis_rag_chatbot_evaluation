@@ -1,0 +1,6 @@
+run_id,subrun_id,question,context_type,chunk_size,top_k,model,embedding_model,answer,latency_sec,reviewer1_score,reviewer2_score,citation_present,confidence_score,timestamp,faq_fallback_used
+1,1,"What is the salary of the Vice President of GJU? (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"Based on the provided documents, the specific salary for the Vice President of GJU is not explicitly stated. However, it is mentioned that the University President’s basic salary is determined according to the highest salary of a professor [gju_payroll_laws.pdf]. Since the Vice President is not explicitly listed, we can infer that their salary might be similar to or slightly lower than that of the President, but without a specific figure, I cannot provide an exact amount.
+
+For more precise information, you would need to refer to the specific salary scales or additional regulations that detail the compensation for vice presidents [gju_payroll_laws.pdf]. 
+
+I don't know based on the documents.",6.1513354778289795,,,True,0.5836979707325096,1767997332.406841,False

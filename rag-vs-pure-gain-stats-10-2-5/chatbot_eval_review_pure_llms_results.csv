@@ -1,0 +1,1559 @@
+run_id,subrun_id,question,context_type,chunk_size,top_k,model,embedding_model,answer,latency_sec,reviewer1_score,reviewer2_score,citation_present,confidence_score,timestamp,faq_fallback_used
+1,1,Basic salary for German Jordanian University,pure,,,Mistral-7B-Instruct-v0.3,,"The term ""basic salary"" refers to the base amount of pay an employee receives for their work, excluding any additional allowances, bonuses, or deductions. It is the minimum amount that an employee is guaranteed to earn in a given pay period. The specific amount of the basic salary can vary greatly depending on the industry, job role, and location. For more specific information, I would recommend consulting with a payroll specialist or checking the employment contract of the individual in question.",1.21950388,5,5,,,1762287084,FALSE
+1,12,Basic salary for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The term ""basic salary"" can vary greatly depending on the company, industry, and the specific job role. However, in general, it refers to the minimum salary that an employee is guaranteed to receive for their work, excluding any bonuses, allowances, or deductions. If you need more specific information, I would recommend referring to your employment contract or reaching out to your HR department.",1.042093754,5,5,,,1762287109,FALSE
+1,23,What is the basic salary for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The basic salary is the regular, fixed amount of money an employee is paid for their work, excluding any additional allowances, bonuses, or deductions. The specific amount can vary greatly depending on the job, industry, and location. For a more accurate figure, you would need to refer to the employment contract or consult with the HR department.",1.428310633,8,8,,,1762287131,FALSE
+1,34,What is the basic salary definition for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The basic salary definition refers to the regular, fixed amount of remuneration that an employee receives for their work, excluding any additional allowances, bonuses, overtime pay, or other forms of compensation. It is the minimum wage or base pay that an employee earns for their services, and it is usually paid on a monthly, weekly, or bi-weekly basis, as per the employment contract or company policy.",1.140077829,8,8,,,1762287152,FALSE
+1,45,Transportation allowance for German Jordanian University,pure,,,Mistral-7B-Instruct-v0.3,,"Transportation allowance is a type of compensation provided to employees to cover the costs associated with commuting to and from work, especially when public transportation is not readily available or the costs are significantly high. The amount of transportation allowance can vary based on company policies, location, and the specific job role. Some companies may provide a fixed amount, while others may offer a reimbursement for actual expenses incurred. It's essential to check with your employer for their specific policies regarding transportation allowances.",1.055179596,5,5,,,1762287169,FALSE
+1,56,Transportation allowance for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Transportation allowance can vary greatly depending on the company's policies and the specific job role. Some companies provide a transportation allowance to cover costs related to commuting to and from work, while others may offer a company vehicle or public transportation passes. If you are unsure about your company's policy, I would recommend checking with your HR department for more information.",0.937381744,5,5,,,1762287197,FALSE
+1,67,List transportation allowance values for all for German Jordanian University,pure,,,Mistral-7B-Instruct-v0.3,,"I'm an assistant, not a database. I don't have specific transportation allowance values stored. Transportation allowances can vary greatly depending on the company's policies, location, and employee's job role. It's best to refer to your company's HR department or payroll policies for accurate information.",0.874985695,2,2,,,1762287219,FALSE
+1,78,"List transportation allowance values for all, including dean for German Jordanian University",pure,,,Mistral-7B-Instruct-v0.3,,"To provide an accurate answer, I would need specific details about the company's transportation allowance policy, including the rates for different positions or levels within the organization. However, I can give you a general idea of how transportation allowances might be structured.
+
+Typically, transportation allowances are provided to cover the costs of commuting to and from work. The amount can vary depending on factors such as the distance between the employee's home and workplace, the mode of transportation, and the company's policy.
+
+For example, a company might provide a flat rate for public transportation, such as a monthly pass for bus or train. For those who drive, the company might reimburse a certain amount per mile driven for commuting.
+
+In the case of the dean, if the company follows a standard policy, the transportation allowance would likely be the same as for other employees in similar positions. However, it's essential to consult the company's specific policy for accurate information.
+
+If the company provides transportation allowances, they should have a policy document outlining the details, including the rates for different modes of transportation. This document should be accessible to all employees. If you cannot find the policy or have questions about it, you should reach out to your HR department for clarification.",1.86859417,5,5,,,1762287246,FALSE
+1,89,Family allowance for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Family allowance, also known as child support or child maintenance, is a payment made by one parent to another for the financial support of their children. This is not typically a payroll-related matter, as it is not a part of an employee's regular salary or wages. Instead, it is a separate arrangement made between the parents. However, in some cases, family allowance may be included in a divorce or separation agreement, and in such cases, it might be handled through payroll if the employer is involved in the distribution process. Always consult with a legal or financial professional for specific advice regarding family allowance.",1.307735443,2,2,,,1762287271,FALSE
+1,100,Family bonus for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"A family bonus, also known as a family allowance or family premium, is a financial benefit given to families to help with the costs of raising children. This is typically a policy implemented by governments, not employers. However, some companies may offer family-related incentives as part of their employee benefits package. If you're referring to a possible company policy, I would recommend checking your company's human resources department for more information.",1.437644005,5,5,,,1762287295,FALSE
+1,111,What is the family bonus for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The family bonus, also known as family allowance or child benefit, is a monetary benefit paid by some governments to families to help offset the cost of raising children. It is typically a regular payment made monthly or yearly, and the amount received often depends on the number of children in the family and their ages. The purpose of the family bonus is to support families with the expenses associated with child-rearing, such as food, clothing, and education. However, the specifics can vary greatly depending on the country and the government's policies.",1.050448895,2,2,,,1762287315,FALSE
+1,122,What is the family bonus for wife for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The family bonus for a wife, in terms of payroll, can vary greatly depending on the country, company, and specific employment contract. In some countries, there are laws that provide for a family allowance or family bonus, but these are not typically given to the spouse directly as a part of the payroll. Instead, they are often paid to the employee to help cover the costs of raising a family. It's essential to consult the specific employment contract or local labor laws for accurate information. I would recommend reaching out to your HR department or a legal expert for the most precise answer.",1.180090189,2,2,,,1762287330,FALSE
+1,133,Tax exemption for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Tax exemption refers to a reduction or elimination of taxes that an individual or entity would otherwise be required to pay. In the context of payroll, tax exemptions are often related to certain income, deductions, or benefits that are not subject to taxation.
+
+For example, in many countries, there are tax exemptions for certain types of income, such as child support payments, disability benefits, or educational expenses. Some countries also have personal allowances or standard deductions that exempt a certain amount of income from taxation.
+
+It's important to note that tax laws and regulations can vary greatly from one country to another, and the specifics of tax exemptions can depend on a variety of factors, such as the individual's income level, marital status, and other circumstances. It's always a good idea to consult with a tax professional or the relevant tax authority to understand the tax exemptions that may apply in a specific situation.",1.548738241,5,5,,,1762287341,FALSE
+1,144,Health insurance for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"As a payroll assistant, I don't directly handle health insurance matters. However, I can tell you that many companies offer health insurance as part of their benefits package. The specifics, such as the types of plans available, premium costs, and coverage details, can vary greatly from one company to another. It's best to consult your HR department or benefits administrator for accurate and detailed information about your company's health insurance offerings.",1.148749352,2,2,,,1762287379,FALSE
+1,155,University contribution to health insurance for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The contribution of a university to health insurance can vary greatly depending on the specific university, country, and the type of health insurance plan. Some universities may offer a partial or full contribution to health insurance for their employees as part of their benefits package. However, it's essential to consult the human resources department of the specific university for accurate and up-to-date information regarding their health insurance policies.",1.027321339,5,5,,,1762287406,FALSE
+1,166,Academic staff grades for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Academic staff grades can vary depending on the institution and the specific role. However, in many universities, academic staff are typically classified into the following categories:
+
+1. Assistant Professor (or Lecturer)
+2. Associate Professor
+3. Professor
+
+Each of these positions usually has specific requirements in terms of education, research, and teaching experience. Additionally, some institutions may have additional categories such as Senior Lecturer, Reader, or Distinguished Professor.
+
+It's important to note that pay and benefits for academic staff can also depend on factors such as years of service, research grants, and the specific policies of the institution. For the most accurate and detailed information, it's best to consult the specific guidelines of the institution in question.",1.358631849,5,5,,,1762287423,FALSE
+1,177,Academic staff categories for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Academic staff categories can vary depending on the institution, but here are some common ones:
+
+1. Tenured/Tenure-Track Faculty: These are permanent faculty members who have achieved tenure, which provides them with job security. Tenure-track faculty are those who are on a path to tenure.
+
+2. Non-Tenure-Track Faculty: These faculty members do not have the possibility of achieving tenure. Their contracts are usually renewed on a yearly or multi-year basis.
+
+3. Adjunct Faculty: These are part-time or temporary faculty members who teach courses on an as-needed basis. They often do not have the benefits that full-time faculty members have.
+
+4. Lecturers: Lecturers are usually full-time faculty members who teach undergraduate courses. They may or may not have research responsibilities.
+
+5. Professors: Professors are typically full-time faculty members who have achieved a high level of academic distinction. They may teach undergraduate and graduate courses, conduct research, and mentor students.
+
+6. Research Faculty: These faculty members focus primarily on research and may not teach as many courses.
+
+7. Administrative Faculty: These faculty members have administrative roles, such as department chairs, deans, and provosts.
+
+8. Postdoctoral Fellows: These are researchers who have completed their doctoral degrees and are working on a temporary basis to gain additional research experience.
+
+9. Graduate Assistants: These are graduate students who work as teaching assistants or research assistants in exchange for a tuition waiver and a stipend.
+
+10. Visiting Faculty: These are faculty members who are at the institution for a specific period of time to teach a course or conduct research.",2.699412346,5,5,,,1762287456,FALSE
+1,188,Administrative staff categories for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Administrative staff categories can vary depending on the organization, but some common ones include:
+
+1. Administrative Assistants: They perform a variety of administrative tasks such as managing schedules, preparing reports, and coordinating activities.
+
+2. Office Managers: They oversee the daily operations of an office, including managing staff, maintaining office supplies, and ensuring the office runs smoothly.
+
+3. Receptionists: They are the first point of contact for visitors and callers, handling inquiries, scheduling appointments, and managing incoming and outgoing mail.
+
+4. Data Entry Clerks: They input data into computer systems, ensuring accuracy and maintaining databases.
+
+5. Executive Assistants: They provide support to high-level executives, managing their schedules, preparing reports, and coordinating meetings.
+
+6. Human Resources Assistants: They assist with recruitment, onboarding, benefits administration, and other HR-related tasks.
+
+7. Legal Secretaries: They provide support to lawyers and other legal professionals, managing schedules, drafting correspondence, and organizing legal documents.
+
+8. Marketing Assistants: They support marketing and communications teams, managing social media accounts, creating content, and coordinating events.
+
+9. Financial Clerks: They perform tasks related to accounting and bookkeeping, such as processing invoices, maintaining financial records, and preparing financial reports.
+
+10. Customer Service Representatives: They handle customer inquiries and complaints, providing information about products or services, and resolving issues.",2.15812397,2,2,,,1762287475,FALSE
+1,1,Basic salary for German Jordanian University,pure,,,Qwen2.5-72B-Instruct,,"The basic salary for employees at the German Jordanian University (GJU) can vary based on several factors, including the position, level of education, experience, and the specific department. The university typically follows a structured salary scale that aligns with Jordanian labor laws and academic standards.
+
+For more precise information, you would need to refer to the official salary scales provided by the German Jordanian University or contact the Human Resources department directly. They can provide detailed information about the specific salary ranges for different positions and any recent updates to the salary structure.
+
+If you have a specific position in mind, I can try to give you a more tailored response based on general academic and administrative salary ranges in Jordanian universities.",4.881460667,5,5,,,1762631577,FALSE
+1,2,Basic salary for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The basic salary for employees at the German Jordanian University (GJU) can vary significantly based on several factors, including the position, level of education, experience, and specific department. The university typically follows a structured salary scale that aligns with Jordanian labor laws and academic standards.
+
+For specific and accurate information regarding the basic salary for a particular position at GJU, it is best to:
+
+1. **Check the University's Official Website:** GJU may have a section on their website that outlines salary ranges for different positions.
+2. **Contact the Human Resources Department:** The HR department can provide detailed information about salary scales and any recent updates.
+3. **Review Job Postings:** If you are looking for a specific position, job postings often include salary ranges or instructions on how to inquire about compensation.
+
+If you have a specific position in mind, I can help guide you on how to find more detailed information.",5.426088333,5,5,,,1762631582,FALSE
+1,3,What is the basic salary for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The basic salary for positions at the German Jordanian University (GJU) can vary significantly depending on the specific role, level of experience, qualifications, and the department. Salaries are typically structured according to the university's pay scale, which is often aligned with national standards and the higher education sector in Jordan.
+
+For precise and up-to-date information on basic salaries for specific positions at GJU, it is best to:
+
+1. **Check the University's Official Website:** GJU may have a section on their website that outlines salary ranges for different roles.
+2. **Contact the Human Resources Department:** The HR department can provide detailed and accurate information about salary structures and any recent updates.
+3. **Review Job Postings:** If you are looking for a specific position, job postings often include salary ranges or indicate that the salary is negotiable.
+
+If you have a specific role in mind, I can help guide you on how to find more detailed information.",5.555671692,5,5,,,1762631588,FALSE
+1,4,What is the basic salary definition for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The term ""basic salary"" generally refers to the fixed amount of money paid to an employee by their employer, before any deductions or additions such as taxes, benefits, bonuses, or overtime pay. However, the specific definition and components of the basic salary can vary depending on the institution or organization.
+
+For the German Jordanian University (GJU), the basic salary would typically be the core component of an employee's compensation package, representing the minimum amount they are entitled to receive for their work. This amount is usually specified in the employment contract and is based on factors such as the employee's position, experience, and qualifications.
+
+To get the most accurate and detailed information about the basic salary at the German Jordanian University, you should refer to the university's official payroll guidelines, employee handbook, or contact the Human Resources department directly. They can provide you with the specific policies and definitions relevant to GJU.",5.114330053,5,5,,,1762631593,FALSE
+1,5,Transportation allowance for German Jordanian University,pure,,,Qwen2.5-72B-Instruct,,"For employees of the German Jordanian University (GJU), the transportation allowance can vary based on the specific policies and collective agreements in place. Typically, universities in Jordan may provide a transportation allowance to help cover the costs associated with commuting to and from work. However, the exact amount and conditions for receiving this allowance can differ.
+
+To get the most accurate and up-to-date information, you should:
+
+1. **Check Your Employment Contract:** Your contract might specify the transportation allowance or refer to the university's policy.
+2. **Review the University's Policy Manual:** The GJU may have a policy manual or handbook that outlines the details of the transportation allowance.
+3. **Contact the Human Resources Department:** The HR department can provide you with the most current and detailed information regarding transportation allowances and any other benefits.
+
+If you have specific questions or need more detailed information, reaching out to the HR department is the best course of action.",6.458349943,5,5,,,1762631599,FALSE
+1,6,Transportation allowance for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The Transportation Allowance for employees at the German Jordanian University (GJU) is not a standardized amount that is publicly disclosed for all employees. Transportation allowances can vary based on several factors, including the employee's position, department, and specific employment contract. 
+
+If you are an employee of GJU and are seeking information about your transportation allowance, it would be best to consult your employment contract or contact the Human Resources (HR) department directly. They will be able to provide you with the most accurate and up-to-date information regarding your specific situation.",3.410426855,2,2,,,1762631603,FALSE
+1,7,List transportation allowance values for all for German Jordanian University,pure,,,Qwen2.5-72B-Instruct,,"I'm sorry, but I don't have specific information about the transportation allowance values for all employees at the German Jordanian University. Transportation allowances can vary based on several factors, including the employee's position, department, and the specific policies of the university.
+
+To get accurate and up-to-date information, you should:
+
+1. **Check the University's HR Handbook or Employee Manual:** This document often contains detailed information about various allowances, including transportation.
+2. **Contact the HR Department:** The HR department at the German Jordanian University can provide you with the most accurate and current information.
+3. **Review Your Employment Contract:** If you are an employee, your employment contract may specify the transportation allowance.
+
+If you need a general idea, transportation allowances in Jordan can range from JD 50 to JD 150 per month, but this can vary widely depending on the specific circumstances and policies of the institution.",5.8861444,2,2,,,1762631608,FALSE
+1,8,"List transportation allowance values for all, including dean for German Jordanian University",pure,,,Qwen2.5-72B-Instruct,,"Certainly! The transportation allowance values can vary based on the institution's policies and the specific roles within the German Jordanian University. However, I can provide a general example of what these allowances might look like. Please note that these values are hypothetical and should be verified with the university's official payroll or HR department for accurate figures.
+
+### Transportation Allowance Values for German Jordanian University
+
+1. **Dean:**
+   - **Transportation Allowance:** 150 JD per month
+
+2. **Department Heads:**
+   - **Transportation Allowance:** 100 JD per month
+
+3. **Professors:**
+   - **Transportation Allowance:** 80 JD per month
+
+4. **Lecturers:**
+   - **Transportation Allowance:** 60 JD per month
+
+5. **Administrative Staff:**
+   - **Transportation Allowance:** 50 JD per month
+
+6. **Support Staff:**
+   - **Transportation Allowance:** 40 JD per month
+
+7. **Research Assistants:**
+   - **Transportation Allowance:** 30 JD per month
+
+8. **Graduate Assistants:**
+   - **Transportation Allowance:** 20 JD per month
+
+### Notes:
+- These values are subject to change and can vary based on the university's budget and policies.
+- Some positions may not receive a transportation allowance, or the allowance may be provided in a different form (e.g., a company car or public transportation pass).
+
+For the most accurate and up-to-date information, please consult the German Jordanian University's HR department or payroll office.",13.13557172,5,2,,,1762631622,FALSE
+1,9,Family allowance for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"It seems there might be some confusion in your question, as ""Family allowance"" typically refers to a government benefit provided to families with children or dependents, and it's not usually associated directly with a specific university like the German Jordanian University (GJU).
+
+However, if you're asking about financial assistance or benefits that students or employees at the German Jordanian University might receive, here are a few possibilities:
+
+1. **Scholarships and Financial Aid**: GJU may offer scholarships or financial aid to students based on academic merit, need, or other criteria. These can help cover tuition, living expenses, and other costs.
+
+2. **Employee Benefits**: If you are an employee of the university, there might be family-related benefits such as health insurance, dependent care, or other allowances. You should check the university's HR policies or employee handbook for detailed information.
+
+3. **Government Benefits**: If you are a student or employee and have dependents, you might be eligible for family allowances from the Jordanian government. These benefits are typically managed by the Ministry of Social Development or a similar agency.
+
+If you could provide more context or specify what you mean by ""family allowance,"" I can give you a more precise answer.",7.148984671,2,2,,,1762631629,FALSE
+1,10,Family bonus for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"It seems there might be some confusion in your question, as the ""Family Bonus"" is not a standard term used in payroll or benefits for the German Jordanian University (GJU) or universities in general. However, I can provide some information that might be relevant:
+
+1. **Employee Benefits**: Universities, including GJU, often offer a range of benefits to their employees, which can include family-related benefits such as:
+   - **Childcare Support**: Some institutions provide subsidies or access to childcare facilities.
+   - **Family Health Insurance**: Coverage for employees and their families.
+   - **Maternity/Paternity Leave**: Extended leave periods for new parents.
+   - **Dependent Allowances**: Additional allowances for employees with dependents.
+
+2. **Specific Policies**: To get accurate information about any specific benefits, including those that might be referred to as a ""Family Bonus,"" you should refer to the official employee handbook or contact the Human Resources (HR) department at GJU directly.
+
+3. **Local Regulations**: In Jordan, labor laws and regulations also play a role in determining what benefits are provided to employees, including those related to family support.
+
+If you have a more specific context or need detailed information about a particular benefit, please provide additional details, and I can try to give you a more precise answer.",13.11865044,2,2,,,1762631642,FALSE
+1,11,What is the family bonus for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"I'm sorry, but I don't have specific information about a ""family bonus"" for the German Jordanian University. Typically, such bonuses or benefits would be part of the employment contract or the university's HR policies. To get accurate and up-to-date information, you should:
+
+1. Check the official website of the German Jordanian University.
+2. Contact the Human Resources (HR) department directly.
+3. Refer to your employment contract or employee handbook if you are a staff member.
+
+If you provide more context or details, I might be able to offer more specific guidance.",2.828499556,2,2,,,1762631645,FALSE
+1,12,What is the family bonus for wife for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"I don't have specific information about a ""family bonus for wife"" for the German Jordanian University. Typically, such benefits are detailed in the university's employment policies or in the employment contract. I recommend checking the university's official HR documentation or contacting the Human Resources department directly for accurate and up-to-date information regarding this specific benefit.",2.769595623,2,2,,,1762631647,FALSE
+1,13,Tax exemption for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The German Jordanian University (GJU) is a public university in Jordan, and as such, it generally enjoys certain tax exemptions under Jordanian law. These exemptions can vary and typically include:
+
+1. **Exemption from Income Tax:** The university, as a public educational institution, is usually exempt from paying income tax on its revenues.
+2. **Exemption from Sales Tax:** The university may be exempt from paying sales tax on goods and services it purchases for educational purposes.
+3. **Exemption from Property Tax:** The university's property, including its buildings and land, may be exempt from property tax.
+
+However, specific exemptions and their applicability can depend on the current laws and regulations in Jordan. For the most accurate and up-to-date information, it is advisable to consult the official website of the Jordanian Ministry of Finance or the German Jordanian University itself.
+
+If you need more detailed information or have specific questions, feel free to ask!",5.145859241,2,2,,,1762631653,FALSE
+1,14,Health insurance for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"It seems like you're asking about health insurance for students or employees at the German Jordanian University (GJU). Here’s what you need to know:
+
+1. **Student Health Insurance**:
+   - **Mandatory Insurance**: In Jordan, it is mandatory for all international students to have health insurance. GJU may have specific requirements or partnerships with insurance providers.
+   - **University-Provided Insurance**: Some universities offer their own health insurance plans to students. GJU might have a similar arrangement, so it’s best to check with the university’s student affairs or international office for details.
+   - **Private Insurance**: Students can also opt for private health insurance, but it should meet the university’s and the Jordanian government’s requirements.
+
+2. **Employee Health Insurance**:
+   - **Employer-Provided Insurance**: GJU, like many institutions, may provide health insurance as part of the employment benefits. This can vary depending on the employment contract and the specific policies of the university.
+   - **National Health Insurance**: In Jordan, there is a national health insurance system. Employees might be covered under this system, depending on their employment status and the terms of their contract.
+
+3. **Where to Find Information**:
+   - **University Website**: The GJU website often has a section dedicated to health insurance for both students and employees. This is a good starting point for detailed information.
+   - **Student Affairs Office**: For students, the student affairs office can provide specific details and guidance.
+   - **Human Resources Department**: For employees, the human resources department can provide information about the health insurance benefits and how to enroll.
+
+If you have specific questions or need more detailed information, it’s always best to contact the relevant office at GJU directly.",9.918048143,5,5,,,1762631662,FALSE
+1,15,University contribution to health insurance for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"I don't have specific information about the University contribution to health insurance for German Jordanian University (GJU). However, typically, universities in Jordan, including GJU, may offer health insurance contributions as part of their employee benefits package. The exact contribution can vary and is usually outlined in the employment contract or the university's employee handbook.
+
+To get the most accurate and up-to-date information, you should:
+
+1. **Check Your Employment Contract:** This document often specifies the details of health insurance coverage and the university's contribution.
+2. **Review the Employee Handbook:** The handbook usually contains comprehensive information about benefits, including health insurance.
+3. **Contact the Human Resources (HR) Department:** HR can provide detailed information and answer any specific questions you might have.
+
+If you are a student, the university might also offer health insurance options, and the contribution details would be available through the student services or financial aid office.",5.33882308,2,2,,,1762631668,FALSE
+1,16,Academic staff grades for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The grading system for academic staff at German Jordanian University (GJU) typically follows a structured hierarchy that reflects the qualifications, experience, and responsibilities of the staff. While the exact titles and criteria can vary, a common grading system for academic staff might include the following ranks:
+
+1. **Professor (Full Professor)**
+   - Highest academic rank, typically awarded to experienced and highly accomplished faculty members.
+   - Requires a significant body of research, publications, and teaching experience.
+
+2. **Associate Professor**
+   - A senior academic rank, often a step below Professor.
+   - Requires a strong record of research, publications, and teaching.
+
+3. **Assistant Professor**
+   - An entry-level academic rank for those with a Ph.D. and some postdoctoral experience.
+   - Focuses on building a research and teaching career.
+
+4. **Lecturer**
+   - Typically a non-tenure track position, often for those with a Ph.D. or equivalent.
+   - Primarily focused on teaching, with less emphasis on research.
+
+5. **Instructor**
+   - A position often held by those with a master's degree or equivalent.
+   - Primarily focused on teaching, with limited research responsibilities.
+
+6. **Teaching Assistant (TA)**
+   - Usually a graduate student position, providing support in teaching and grading.
+   - Often part of a graduate program and a stepping stone to higher academic positions.
+
+These grades are generally used to determine salary, benefits, and career progression within the university. For the most accurate and detailed information, you should refer to the official GJU faculty handbook or contact the Human Resources department at the university.",10.94177079,8,8,,,1762631679,FALSE
+1,17,Academic staff categories for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The German Jordanian University (GJU) categorizes its academic staff into several positions, similar to many other academic institutions. Here are the typical categories:
+
+1. **Professor (Full Professor)**: The highest academic rank, typically held by experienced and highly accomplished scholars.
+2. **Associate Professor**: A senior academic position, often held by those who have achieved significant academic and research accomplishments.
+3. **Assistant Professor**: An entry-level or mid-level academic position, often held by those who have recently completed their doctoral degrees and are building their academic careers.
+4. **Lecturer**: A teaching-focused position, often held by individuals who may not be actively engaged in research but are responsible for delivering courses.
+5. **Instructor**: A position often held by individuals who are primarily responsible for teaching specific courses, sometimes on a part-time or temporary basis.
+6. **Research Assistant/Postdoctoral Researcher**: Positions for individuals who are engaged in research activities, often under the supervision of a more senior academic.
+7. **Teaching Assistant**: Positions for graduate students who assist in teaching and grading, often as part of their academic program.
+
+These categories can vary slightly depending on the specific policies and structures of the university, but they generally align with these descriptions. If you need more detailed information, you can refer to the GJU's official faculty handbook or website.",8.629256248,8,8,,,1762631687,FALSE
+1,18,Administrative staff categories for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The German Jordanian University (GJU) is a unique institution that combines German and Jordanian educational systems. The administrative staff at GJU can be categorized into several roles, each with specific responsibilities to ensure the smooth operation of the university. Here are some common categories of administrative staff at GJU:
+
+1. **Senior Management:**
+   - President/Chancellor
+   - Vice President for Academic Affairs
+   - Vice President for Administrative Affairs
+   - Vice President for Financial Affairs
+
+2. **Academic Administration:**
+   - Deans of Faculties
+   - Heads of Departments
+   - Academic Advisors
+   - Registrars
+
+3. **Financial Administration:**
+   - Chief Financial Officer (CFO)
+   - Accountants
+   - Financial Analysts
+   - Budget Officers
+
+4. **Human Resources:**
+   - Human Resources Director
+   - Recruitment Officers
+   - Training and Development Specialists
+   - Employee Relations Specialists
+
+5. **Student Services:**
+   - Student Affairs Director
+   - Admissions Officers
+   - Career Services Officers
+   - Student Counselors
+
+6. **Facilities Management:**
+   - Facilities Director
+   - Maintenance Staff
+   - Custodial Staff
+   - Groundskeepers
+
+7. **Information Technology:**
+   - Chief Information Officer (CIO)
+   - IT Managers
+   - Network Administrators
+   - Help Desk Technicians
+
+8. **Public Relations and Communications:**
+   - Public Relations Director
+   - Communications Officers
+   - Marketing Specialists
+
+9. **Research and Development:**
+   - Research Directors
+   - Research Coordinators
+   - Grant Writers
+
+10. **Library Services:**
+    - Librarian
+    - Library Technicians
+    - Archivists
+
+11. **Health and Safety:**
+    - Health Services Director
+    - Safety Officers
+    - Medical Staff
+
+12. **Legal Affairs:**
+    - General Counsel
+    - Compliance Officers
+
+These categories are typical for a well-structured university administration and can vary slightly depending on the specific needs and organizational structure of GJU. Each category plays a crucial role in supporting the educational mission and operational efficiency of the university.",14.20413113,2,2,,,1762631702,FALSE
+1,1,Basic salary for German Jordanian University,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including salary details for specific organizations like the German Jordanian University. 
+
+To find information about basic salaries at GJU, I recommend checking the following resources:
+
+* **GJU's official website:** Look for a careers or human resources section.
+* **Job boards and websites:** Websites like Glassdoor, Indeed, or LinkedIn might have salary information provided by current or former employees.
+* **Networking:** Connect with people who work or have worked at GJU to inquire about salary ranges.
+* **Contact GJU's human resources department directly:** They can provide you with the most accurate and up-to-date information. 
+
+
+Good luck with your research!",1.760142326,2,2,,,1762631703,FALSE
+1,2,Basic salary for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including salary details for specific organizations like the German Jordanian University. 
+
+To find this information, I recommend checking:
+
+* **The German Jordanian University's official website:** They may have a careers page or information about compensation and benefits.
+* **Job boards and websites:** Websites like Glassdoor, Indeed, or LinkedIn often have salary information provided by employees or employers.
+* **Contacting the university directly:** You can reach out to their human resources department for specific salary inquiries. 
+
+
+Good luck with your research!",1.424452782,2,2,,,1762631705,FALSE
+1,3,What is the basic salary for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including salary details for specific organizations like the German Jordanian University.  
+
+To find this information, I recommend checking:
+
+* **The German Jordanian University's official website:** They may have a careers page or information about compensation.
+* **Job boards and websites:** Sites like Glassdoor or Indeed often have salary information submitted by employees.
+* **Contacting the university's Human Resources department:** They would be the best source of accurate and up-to-date salary information. 
+
+
+Good luck with your research!",1.136733532,2,2,,,1762631706,FALSE
+1,4,What is the basic salary definition for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific information like salary details for particular organizations, including the German Jordanian University. 
+
+To find the basic salary definition for the German Jordanian University, I recommend checking the following resources:
+
+* **The University's Website:** Look for a section on careers, employment, or human resources.
+* **Job Advertisements:** Review current job postings on the university's website or job boards for relevant salary information.
+* **Contact the Human Resources Department:** Reach out to the university's HR department directly for accurate and up-to-date information.
+
+
+Good luck with your research!",1.336720467,2,2,,,1762631707,FALSE
+1,5,Transportation allowance for German Jordanian University,pure,,,gemma-2-9b-it,,"I do not have access to specific company policies like transportation allowance details for the German Jordanian University. 
+
+To find this information, I recommend checking:
+
+* **The GJU employee handbook:** This should outline all relevant policies, including transportation allowances.
+* **Your employment contract:** Your individual contract may specify details about your transportation allowance.
+* **The GJU HR department:** They will be able to provide you with the most accurate and up-to-date information. 
+
+
+Good luck!",1.520567417,2,2,,,1762631709,FALSE
+1,6,Transportation allowance for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific company policies like transportation allowances for the German Jordanian University.  
+
+To find this information, I recommend:
+
+* **Checking the employee handbook:** This is usually the best source for details about benefits and allowances.
+* **Contacting the HR department:** They can provide you with accurate and up-to-date information.
+* **Looking at your employment contract:** Your contract may outline details about your transportation allowance. 
+
+
+I hope this helps!",1.131192923,2,2,,,1762631710,FALSE
+1,7,List transportation allowance values for all for German Jordanian University,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including specific company policies like transportation allowance values for the German Jordanian University. 
+
+To get this information, I recommend you:
+
+* **Check the GJU employee handbook or intranet:** These resources usually contain details about compensation and benefits.
+* **Contact the GJU HR department:** They will be able to provide you with the most accurate and up-to-date information. 
+
+
+I hope this helps!",1.517992496,2,2,,,1762631711,FALSE
+1,8,"List transportation allowance values for all, including dean for German Jordanian University",pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including specific payroll data for German Jordanian University. 
+
+To get the accurate transportation allowance values for all employees, including the dean, you would need to consult:
+
+* **The GJU Employee Handbook:** This document usually outlines compensation policies, including transportation allowances.
+* **The GJU Payroll Department:** They are the best source of information regarding specific employee allowances.
+* **GJU's Human Resources Department:** They can also provide details about compensation policies. 
+
+
+I hope this helps!",1.385401249,2,2,,,1762631713,FALSE
+1,9,Family allowance for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific details about company policies like family allowance for the German Jordanian University. 
+
+To get accurate information about family allowance at GJU, I recommend checking these resources:
+
+* **GJU's Human Resources Department:** They are the best source for information about employee benefits.
+* **GJU's Employee Handbook:** This document usually outlines all employee benefits and policies.
+* **GJU's intranet or online portal:**  Internal company websites often have information about benefits.
+
+
+I hope this helps!",1.485068321,2,2,,,1762631714,FALSE
+1,10,Family bonus for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific company policies like family bonuses for the German Jordanian University.  
+
+To find this information, I recommend:
+
+* **Checking the GJU employee handbook:** This should outline all benefits and bonuses offered to employees.
+* **Contacting the GJU Human Resources department:** They will be able to provide you with accurate and up-to-date information about family bonuses.
+* **Speaking with current GJU employees:** They may be able to share their knowledge about the family bonus program. 
+
+
+I hope this helps!",1.327528954,2,2,,,1762631716,FALSE
+1,11,What is the family bonus for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific company policies like family bonuses for German Jordanian University. 
+
+To find this information, I recommend checking:
+
+* **Your employee handbook:** This should outline all benefits and bonuses offered.
+* **The GJU intranet or HR portal:** These platforms often have detailed information about employee benefits.
+* **Speaking to your HR representative:** They will be able to provide you with the most accurate and up-to-date information. 
+
+
+Good luck!",1.229286194,2,2,,,1762631717,FALSE
+1,12,What is the family bonus for wife for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific details like family bonuses for employees of particular organizations, including the German Jordanian University. 
+
+To find this information, I recommend checking:
+
+* **The GJU employee handbook or benefits package:** This should outline all applicable bonuses and their eligibility criteria.
+* **The GJU HR department:** They can provide you with the most accurate and up-to-date information about employee benefits.
+* **Your employment contract:** Your contract may specify details about any family bonuses you are entitled to. 
+
+
+Good luck with your search!",1.625203848,2,2,,,1762631718,FALSE
+1,13,Tax exemption for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including specific tax regulations for institutions like the German Jordanian University. 
+
+To get accurate information about tax exemptions for the German Jordanian University, I recommend you:
+
+* **Contact the university's finance or HR department directly.** They will have the most up-to-date and accurate information.
+* **Consult with a tax advisor specializing in Jordanian law.** They can provide expert guidance on tax exemptions for educational institutions.
+* **Research the Jordanian tax code and relevant regulations.** You may find information online or through official government publications. 
+
+
+Remember, tax laws can be complex and subject to change. It's always best to seek professional advice for specific situations.",1.704009771,2,2,,,1762631720,FALSE
+1,14,Health insurance for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific information about employee benefits like health insurance for German Jordanian University.  
+
+To find this information, I recommend:
+
+* **Checking the GJU employee handbook:** This should outline all benefits offered to employees.
+* **Contacting the GJU Human Resources department:** They will be able to provide you with the most accurate and up-to-date information about health insurance options.
+* **Looking at GJU's website:** Some universities post details about employee benefits on their websites. 
+
+
+I hope this helps!",1.49001193,2,2,,,1762631722,FALSE
+1,15,University contribution to health insurance for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including specific details about company benefits like health insurance contributions for German Jordanian University. 
+
+To get this information, I recommend you:
+
+* **Check your employee handbook or benefits package:** These documents usually outline the details of your university's contribution to health insurance.
+* **Contact the Human Resources department at German Jordanian University:** They will be able to provide you with the most accurate and up-to-date information. 
+
+
+I hope this helps!",1.403910637,2,2,,,1762631723,FALSE
+1,16,Academic staff grades for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific information about internal structures of organizations like German Jordanian University, including their academic staff grades. 
+
+To find this information, I would recommend checking the following:
+
+* **The German Jordanian University's official website:** Look for sections on ""Faculty,"" ""About Us,"" or ""Careers.""
+* **Contact the Human Resources department:** They would be the best source of information about staff grades and academic positions. 
+
+
+Good luck with your research!",1.366828918,2,2,,,1762631724,FALSE
+1,17,Academic staff categories for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific information like internal organizational structures of universities, including academic staff categories at the German Jordanian University. 
+
+To find this information, I recommend checking the following resources:
+
+* **German Jordanian University's official website:** Look for sections like ""About Us,"" ""Faculty,"" or ""Careers.""
+* **The university's internal intranet or employee portal:** If you are a current employee, these platforms often contain detailed information about staff categories.
+* **Contact the university's Human Resources department:** They would be the best source of information about academic staff categories. 
+
+
+Good luck with your research!",1.303351164,2,2,,,1762631726,FALSE
+1,18,Administrative staff categories for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific internal information like staff categories for German Jordanian University.  
+
+To find this information, I recommend checking:
+
+* **The GJU website:** Look for an ""About Us"" or ""Careers"" section.
+* **GJU's internal HR portal:** If you are a GJU employee, this would be the best source.
+* **Contacting GJU's Human Resources department directly:** They can provide you with the most accurate and up-to-date information. 
+
+
+Good luck with your research!",1.541591883,2,2,,,1762631727,FALSE
+2,1,Basic salary for German Jordanian University,pure,,,Mistral-7B-Instruct-v0.3,,"The term ""basic salary"" refers to the base amount of pay an employee receives for their work, excluding any additional allowances, bonuses, or deductions. The specific amount can vary greatly depending on the industry, job role, and location. To find out the exact basic salary for a specific position, it's best to consult the company's payroll department or a reliable salary survey for the relevant industry.",0.876691818,5,5,,,1762288920,FALSE
+2,2,Basic salary for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The term ""basic salary"" refers to the base amount of pay an employee receives for their work. It is the minimum amount an employee is guaranteed to earn in a given pay period, before any deductions for taxes, benefits, or other withholdings. The specific amount of basic salary can vary greatly depending on the job, industry, location, and individual's qualifications and experience. For more specific information, I would recommend consulting the employee's contract or reaching out to the HR department.",0.859784365,5,5,,,1762288947,FALSE
+2,3,What is the basic salary for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The term ""basic salary"" can vary greatly depending on the company, industry, and the specific job role. As a payroll assistant, I don't have specific information about individual salaries. However, the basic salary is typically the base amount an employee earns before any additional allowances, bonuses, or deductions are applied. For more detailed information, I would recommend checking the employment contract or reaching out to the HR department of the relevant company.",1.007091999,5,5,,,1762288967,FALSE
+2,4,What is the basic salary definition for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The basic salary definition refers to the fixed amount of remuneration an employee receives for their regular hours of work, excluding any additional allowances, bonuses, or overtime payments. It is the minimum amount an employer is obligated to pay an employee for their services, as per the employment contract or applicable labor laws.",0.949119568,5,5,,,1762288983,FALSE
+2,5,Transportation allowance for German Jordanian University,pure,,,Mistral-7B-Instruct-v0.3,,"Transportation allowance is a form of compensation provided to employees to cover the cost of commuting to and from work, especially when the travel expenses are significant or public transportation is not readily available. The amount of transportation allowance can vary greatly depending on the company's policy, the employee's job role, and the location of the workplace. Some companies may provide a fixed monthly allowance, while others might reimburse actual expenses based on receipts. It's always best to check with your specific employer for their transportation allowance policy.",1.031947136,5,5,,,1762288998,FALSE
+2,6,Transportation allowance for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Transportation allowance can vary greatly depending on the company's policies and the specific job role. Some companies provide a fixed amount each month, while others may offer transportation reimbursement based on actual expenses. It's best to check with your HR department or payroll team for the specific details regarding your company's transportation allowance policy.",0.741025209,5,5,,,1762289021,FALSE
+2,7,List transportation allowance values for all for German Jordanian University,pure,,,Mistral-7B-Instruct-v0.3,,"I'm sorry for any inconvenience, but as a payroll assistant, I don't have the ability to provide specific transportation allowance values without access to the company's payroll system or policy. Transportation allowances can vary greatly depending on the company, the employee's job role, and the location. It's best to refer to your company's payroll policy or HR department for accurate information.",0.853466511,2,2,,,1762289041,FALSE
+2,8,"List transportation allowance values for all, including dean for German Jordanian University",pure,,,Mistral-7B-Instruct-v0.3,,"To provide accurate information, I would need access to the specific company's payroll policies. However, I can give you a general idea of what transportation allowances might look like.
+
+1. Employee (Non-Management): $100 per month
+2. Manager: $150 per month
+3. Dean (Assuming they are a high-level manager): $200 per month
+
+Please note that these are hypothetical numbers and may not reflect the actual transportation allowances in your company. For the most accurate information, I would recommend referring to your company's payroll policies or HR department.",1.082068205,2,2,,,1762289065,FALSE
+2,9,Family allowance for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Family allowance, also known as Child Benefit in some countries, is a monetary benefit provided by the government to help families with the costs associated with raising children. The specifics can vary greatly depending on the country and the individual's income and family situation. For accurate and personalized information, I would recommend checking the official government websites or consulting a tax professional in your area.",0.734032154,2,2,,,1762289090,FALSE
+2,10,Family bonus for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"A family bonus, also known as a family allowance or family premium, is a monetary benefit given to families to help cover the costs associated with raising children. This benefit is not typically included in payroll as it is a government or company policy-based benefit. However, the specifics can vary greatly depending on the country, state, or company's policies. For a detailed explanation or to understand if it applies to your specific situation, I would recommend reaching out to your HR department or local government resources.",0.951806784,2,2,,,1762289111,FALSE
+2,11,What is the family bonus for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The family bonus, also known as family allowance or child benefit, is a monetary benefit provided by some governments to families with children. The purpose is to help families with the costs associated with raising children. The amount and eligibility criteria may vary depending on the country and specific government policies. It's important to note that I'm an AI and my information might not be up-to-date or specific to your location, so it's always best to check with your local government or tax authority for accurate information.",1.428699017,2,2,,,1762289130,FALSE
+2,12,What is the family bonus for wife for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The family bonus for a wife, also known as a family allowance or child allowance, varies greatly depending on the country and specific employment laws. In some countries, there may be no family bonus specifically for a wife. Instead, the allowance is given for each child. It's important to consult the specific employment laws and regulations of the country in question for accurate information. I recommend checking with a local payroll expert or government resources for the most accurate and up-to-date information.",1.021237373,2,2,,,1762289146,FALSE
+2,13,Tax exemption for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Tax exemption refers to a reduction or elimination of taxes on certain income, benefits, or assets. In the context of payroll, it often refers to the amount of income that is not subject to taxation. For example, in many countries, there is a standard tax-free allowance that employees can earn before they start paying income tax. Additionally, some types of income or expenses, such as certain types of employee benefits or charitable donations, may also be tax-exempt. It's important to note that tax laws and exemptions can vary greatly depending on the country and jurisdiction, so it's always a good idea to consult with a tax professional for specific advice.",1.114628553,5,5,,,1762289157,FALSE
+2,14,Health insurance for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"As a payroll assistant, I don't directly handle health insurance matters. However, I can tell you that many employers offer health insurance benefits as part of their compensation packages. The specifics of the health insurance plan, such as the types of coverage, premiums, and deductibles, can vary greatly from one employer to another. It's best to consult with your HR department or benefits administrator for detailed information about your employer's health insurance offerings.",0.79451251,2,2,,,1762289204,FALSE
+2,15,University contribution to health insurance for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The contribution of a university to health insurance can vary greatly depending on the specific university, location, and the type of insurance plan. Some universities may offer group health insurance plans and contribute a portion of the premiums, while others may not offer insurance at all and instead provide information on how to obtain insurance through other means. It's best to check with your university's human resources department or benefits office for the most accurate information regarding your specific situation.",0.901241541,2,2,,,1762289231,FALSE
+2,16,Academic staff grades for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Academic staff grades can vary depending on the institution and the specific role. However, in many educational institutions, academic staff are typically categorized into the following grades:
+
+1. Lecturer (or Assistant Professor): This is an entry-level position for academics. They are responsible for teaching, research, and service activities.
+
+2. Associate Professor: This is a mid-career level position. Associate Professors have a higher level of teaching and research responsibilities compared to Lecturers.
+
+3. Professor: This is the highest rank for academics. Professors are expected to have a significant record of teaching, research, and service.
+
+4. Emeritus Professor: This is an honorary title given to professors who have retired but continue to be affiliated with the institution in some capacity.
+
+5. Adjunct Professor: These are part-time or visiting faculty members who teach courses but do not have a full-time position.
+
+6. Assistant Professor (tenure track): This is a position for academics who are on a path to achieve tenure. They are expected to demonstrate excellence in teaching, research, and service.
+
+7. Full Professor (tenured): This is a permanent position that has been earned through a rigorous review process. Tenured professors have job security and cannot be dismissed without cause.
+
+Each of these positions may have different salary ranges and benefits. It's important to note that the specific titles and their meanings can vary between institutions.",2.998397112,5,5,,,1762289249,FALSE
+2,17,Academic staff categories for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Academic staff categories can vary depending on the institution, but here are some common ones:
+
+1. Tenured Faculty: These are permanent faculty members who have been granted long-term employment and are typically protected by academic freedom.
+
+2. Tenure-Track Faculty: These are faculty members who are on a path to becoming tenured. They have a contract for a specific number of years and are evaluated periodically to determine if they should be granted tenure.
+
+3. Non-Tenure-Track Faculty: These faculty members do not have the possibility of achieving tenure. They may have contracts for a specific number of years, semesters, or on a course-by-course basis.
+
+4. Adjunct Faculty: These are part-time or temporary faculty members who teach courses but do not have the same benefits or job security as tenured or tenure-track faculty.
+
+5. Lecturers: These are faculty members who primarily teach courses and may or may not have research responsibilities.
+
+6. Professors: This is a general term for academic staff members who hold a high rank in the faculty hierarchy. There are typically several levels of professors, including associate professor and full professor.
+
+7. Research Faculty: These faculty members focus primarily on research and may or may not teach courses.
+
+8. Administrative Faculty: These faculty members have administrative responsibilities in addition to their teaching or research duties.
+
+Again, these categories can vary depending on the institution and the specific job duties of the faculty member.",2.050728559,5,5,,,1762289277,FALSE
+2,18,Administrative staff categories for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Administrative staff can be categorized into several roles, including:
+
+1. Administrative Assistants: They perform a variety of administrative tasks such as scheduling appointments, managing emails, and organizing files.
+
+2. Office Managers: They oversee the day-to-day operations of an office, including managing staff, budgeting, and ensuring the office runs smoothly.
+
+3. Receptionists: They are the first point of contact for visitors and callers, handling inquiries, scheduling appointments, and maintaining office records.
+
+4. Human Resources (HR) Specialists: They handle employee relations, recruitment, and benefits administration.
+
+5. Executive Assistants: They provide high-level administrative support to executives, including scheduling meetings, preparing reports, and managing correspondence.
+
+6. Data Entry Clerks: They input data into computer systems, maintaining accurate and up-to-date records.
+
+7. Customer Service Representatives: They handle inquiries and complaints from customers, providing information and resolving issues.
+
+8. Clerks: They perform a variety of administrative tasks such as filing, answering phones, and maintaining records.
+
+9. Bookkeepers: They record financial transactions, prepare financial reports, and maintain financial records.
+
+10. Accounting Clerks: They perform routine accounting tasks, such as posting journal entries, preparing financial statements, and maintaining general ledgers.",2.105196714,2,2,,,1762289293,FALSE
+2,1,Basic salary for German Jordanian University,pure,,,Qwen2.5-72B-Instruct,,"The basic salary for employees at the German Jordanian University (GJU) can vary significantly based on several factors, including the position, level of education, experience, and specific department. The university typically follows a structured salary scale that aligns with both Jordanian labor laws and international standards for higher education institutions.
+
+For specific positions, such as faculty members, administrative staff, and support staff, the salary ranges can be as follows:
+
+1. **Faculty Members:**
+   - **Assistant Professor:** JD 800 - JD 1,200 per month
+   - **Associate Professor:** JD 1,000 - JD 1,500 per month
+   - **Full Professor:** JD 1,200 - JD 2,000 per month
+
+2. **Administrative Staff:**
+   - **Entry-Level Positions:** JD 500 - JD 800 per month
+   - **Mid-Level Positions:** JD 800 - JD 1,200 per month
+   - **Senior-Level Positions:** JD 1,200 - JD 1,800 per month
+
+3. **Support Staff:**
+   - **Technical and Clerical Positions:** JD 400 - JD 700 per month
+
+These figures are approximate and can vary based on the specific role, qualifications, and performance. Additionally, the university may offer additional benefits such as health insurance, housing allowances, and other perks that can affect the overall compensation package.
+
+For the most accurate and up-to-date information, it is recommended to consult the official GJU HR department or their official website.",9.769985437,5,2,,,1762631737,FALSE
+2,2,Basic salary for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The basic salary for employees at the German Jordanian University (GJU) can vary significantly depending on the position, level of experience, and qualifications. The university, like many other institutions, typically follows a structured pay scale that aligns with the Jordanian Ministry of Higher Education and Scientific Research guidelines.
+
+For specific positions, such as:
+
+1. **Academic Staff:**
+   - **Professors:** Salaries can range from JD 1,500 to JD 3,000 or more per month, depending on experience and academic achievements.
+   - **Associate Professors:** Salaries can range from JD 1,200 to JD 2,500 per month.
+   - **Assistant Professors:** Salaries can range from JD 1,000 to JD 2,000 per month.
+   - **Lecturers:** Salaries can range from JD 800 to JD 1,500 per month.
+
+2. **Administrative Staff:**
+   - **Senior Administrative Positions:** Salaries can range from JD 1,200 to JD 2,500 per month.
+   - **Mid-Level Administrative Positions:** Salaries can range from JD 800 to JD 1,500 per month.
+   - **Junior Administrative Positions:** Salaries can range from JD 500 to JD 1,000 per month.
+
+3. **Support Staff:**
+   - Salaries can range from JD 400 to JD 800 per month, depending on the role and responsibilities.
+
+These figures are approximate and can vary based on the specific job description, qualifications, and the university's budget. For the most accurate and up-to-date information, it is best to consult the GJU's official HR department or their official website.",13.30139637,2,2,,,1762631750,FALSE
+2,3,What is the basic salary for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"I don't have specific information about the basic salary for employees at the German Jordanian University. Salaries can vary significantly based on position, experience, and other factors. For accurate and detailed information, it would be best to contact the Human Resources department of the German Jordanian University directly or visit their official website for any publicly available salary scales or employment information.",2.248511791,2,2,,,1762631753,FALSE
+2,4,What is the basic salary definition for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The term ""basic salary"" generally refers to the fixed amount of money paid to an employee before any deductions or additions, such as taxes, benefits, bonuses, or overtime. However, the specific definition and components of the basic salary can vary depending on the institution or organization's policies and local labor laws.
+
+For the German Jordanian University (GJU), the basic salary would typically be defined in the employment contract and the university's payroll policies. It usually includes the core compensation for the work performed and excludes any additional allowances, bonuses, or benefits.
+
+To get the most accurate and detailed information about the basic salary at the German Jordanian University, you should refer to the university's official employment guidelines, the specific employment contract, or contact the Human Resources (HR) department directly. They can provide you with the precise details and any specific terms used by the university.",5.399226189,5,5,,,1762631758,FALSE
+2,5,Transportation allowance for German Jordanian University,pure,,,Qwen2.5-72B-Instruct,,"For employees at the German Jordanian University (GJU), the transportation allowance can vary based on the university's specific policies and the employment contract. Typically, universities and institutions in Jordan may provide a transportation allowance to help cover the costs associated with commuting to and from work. However, the exact amount and conditions for receiving this allowance can differ.
+
+To get the most accurate and up-to-date information, you should:
+
+1. **Review Your Employment Contract:** Check your contract for any specific details about transportation allowances.
+2. **Consult the University's HR Department:** The Human Resources (HR) department at GJU can provide detailed information about the current policies and any changes that may have been implemented.
+3. **Check the University's Employee Handbook:** The handbook often contains comprehensive information about benefits, including transportation allowances.
+
+If you have specific questions or need further clarification, reaching out to the HR department is the best course of action.",5.560784101,2,2,,,1762631764,FALSE
+2,6,Transportation allowance for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The transportation allowance for employees at the German Jordanian University (GJU) can vary based on the specific policies and collective agreements in place. Typically, such allowances are designed to help employees cover the costs associated with commuting to and from work. 
+
+To get the most accurate and up-to-date information regarding the transportation allowance at GJU, you should:
+
+1. **Check the Employee Handbook:** The university's employee handbook or staff manual often contains detailed information about benefits, including transportation allowances.
+2. **Contact HR:** The Human Resources (HR) department at GJU can provide you with the most current and specific details about the transportation allowance.
+3. **Review Your Contract:** If you have a specific employment contract, it may outline the transportation allowance or other benefits you are entitled to.
+
+If you need more detailed information, I recommend reaching out to the HR department at GJU directly. They will be able to provide you with the exact amount and any conditions or requirements for receiving the allowance.",10.34281301,2,2,,,1762631774,FALSE
+2,7,List transportation allowance values for all for German Jordanian University,pure,,,Qwen2.5-72B-Instruct,,"I'm sorry, but I don't have specific information about the transportation allowance values for all employees at the German Jordanian University. Transportation allowances can vary based on several factors such as job role, level of employment, and specific policies set by the university. 
+
+To get accurate and up-to-date information, you should:
+
+1. **Check the University's HR Policies:** The HR department of the German Jordanian University would have the most accurate and detailed information.
+2. **Contact the HR Department:** Reach out to the HR department directly to inquire about the transportation allowance values.
+3. **Review Employee Contracts:** If you have access to employee contracts, they may specify the transportation allowance for each individual.
+
+If you need further assistance or have any other questions, feel free to ask!",5.016531229,2,2,,,1762631779,FALSE
+2,8,"List transportation allowance values for all, including dean for German Jordanian University",pure,,,Qwen2.5-72B-Instruct,,"Certainly! The transportation allowance values can vary based on the institution's policies and the specific roles within the German Jordanian University. However, I can provide a general structure for transportation allowances. Please note that these values are hypothetical and should be verified with the university's official payroll or HR department for accurate figures.
+
+### Transportation Allowance Values for German Jordanian University
+
+1. **Dean of the University**
+   - **Transportation Allowance:** 150 JOD per month
+
+2. **Department Heads**
+   - **Transportation Allowance:** 100 JOD per month
+
+3. **Professors**
+   - **Transportation Allowance:** 75 JOD per month
+
+4. **Associate Professors**
+   - **Transportation Allowance:** 70 JOD per month
+
+5. **Assistant Professors**
+   - **Transportation Allowance:** 65 JOD per month
+
+6. **Lecturers**
+   - **Transportation Allowance:** 60 JOD per month
+
+7. **Administrative Staff (Senior)**
+   - **Transportation Allowance:** 50 JOD per month
+
+8. **Administrative Staff (Junior)**
+   - **Transportation Allowance:** 40 JOD per month
+
+9. **Technical Staff**
+   - **Transportation Allowance:** 45 JOD per month
+
+10. **Support Staff**
+    - **Transportation Allowance:** 35 JOD per month
+
+### Notes:
+- These values are subject to change and should be confirmed with the German Jordanian University's HR department.
+- The transportation allowance may also vary based on the distance from the employee's residence to the university and other specific conditions.
+
+If you need more detailed or updated information, please contact the HR department of German Jordanian University.",10.12939954,5,2,,,1762631789,FALSE
+2,9,Family allowance for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"I understand you're asking about the family allowance for the German Jordanian University (GJU). However, it's important to clarify that family allowances or benefits can vary based on the specific policies of the institution or the country's labor laws. 
+
+In Jordan, family allowances are typically part of the labor law and can be provided by employers, including universities. However, specific details such as the amount, eligibility criteria, and how to apply can vary. For the most accurate and up-to-date information, I recommend checking the official website of the German Jordanian University or contacting their Human Resources (HR) department directly.
+
+If you have any specific questions or need further assistance, feel free to ask!",4.82947731,2,2,,,1762631794,FALSE
+2,10,Family bonus for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"It seems there might be some confusion in your question. The term ""Family bonus"" is not a standard term used in payroll or benefits, especially not in the context of the German Jordanian University (GJU) or any other educational institution. However, I can provide some information that might be relevant:
+
+1. **Employee Benefits**: GJU, like many universities, may offer various benefits to its employees, which could include family-related benefits such as health insurance, educational assistance for children, or other family support programs. These benefits are typically outlined in the employee handbook or contract.
+
+2. **Government Benefits**: In Jordan, there are certain government benefits that employees might be eligible for, such as social security benefits, which can include family allowances. However, these are typically administered by the government and not the university itself.
+
+3. **University-Specific Programs**: GJU might have specific programs or policies that provide additional support to employees with families. For example, they might offer subsidized childcare, family leave, or other family-friendly policies.
+
+If you are looking for specific information about family-related benefits at GJU, the best course of action would be to consult the university's human resources department or review the employee handbook. They will have the most accurate and up-to-date information on what benefits are available to employees and their families.",7.661372662,2,2,,,1762631802,FALSE
+2,11,What is the family bonus for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"I'm sorry, but I don't have specific information about a ""family bonus"" for the German Jordanian University. This term is not commonly used in standard payroll or benefits terminology, and it's possible that it refers to a specific benefit or policy unique to the German Jordanian University or to a particular context in Jordan.
+
+If you are looking for information about family-related benefits or allowances provided by the German Jordanian University, such as a family support allowance, child care support, or other family-related perks, you would need to check the university's official employee handbook, benefits package, or contact the Human Resources department directly for accurate and up-to-date information.
+
+Can you provide more context or specify what you mean by ""family bonus""? This would help me give you a more accurate answer.",5.032372236,2,2,,,1762631807,FALSE
+2,12,What is the family bonus for wife for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"I'm sorry, but the term ""family bonus for wife"" is not a standard term used in payroll or benefits, especially in the context of the German Jordanian University (GJU). It's possible that you might be referring to a specific benefit or allowance provided by the university to its employees. 
+
+However, if you are looking for information on benefits or allowances provided to employees at GJU, such as a spousal allowance or family support, you would need to check the specific employee handbook or benefits package provided by the university. These documents typically outline all the benefits, including any family-related allowances.
+
+If you have access to the HR department or an employee portal, you can also reach out to them directly for the most accurate and up-to-date information.",4.524793386,2,2,,,1762631811,FALSE
+2,13,Tax exemption for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The German Jordanian University (GJU) in Jordan may benefit from certain tax exemptions, but the specifics can vary. Generally, educational institutions, especially those with a public or semi-public status, can be exempt from some taxes and fees. However, the exact nature and extent of these exemptions depend on the laws and regulations of Jordan.
+
+For precise and up-to-date information, it is best to consult the official website of the German Jordanian University or the Jordanian Ministry of Finance. They can provide detailed and current information regarding any tax exemptions applicable to the university.
+
+If you need more specific details, such as whether certain types of income or transactions are exempt, you might also consider contacting a local tax advisor or the university's finance department.",7.631330729,2,2,,,1762631819,FALSE
+2,14,Health insurance for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"It seems like you're asking about health insurance options for students or employees at the German Jordanian University (GJU). Here’s some general information that might be helpful:
+
+1. **University Health Insurance**: Many universities, including GJU, often provide their own health insurance plans for students and employees. You should check the GJU website or contact the university's administration or student affairs office to get specific details about the health insurance plan they offer.
+
+2. **Mandatory Health Insurance**: In Jordan, there are mandatory health insurance requirements. For example, the Social Security Corporation (SSC) provides health insurance coverage for employees. If you are an employee of GJU, you might be covered under this scheme.
+
+3. **Private Health Insurance**: Some students and employees might prefer to opt for private health insurance. There are several insurance providers in Jordan that offer comprehensive health insurance plans. You can explore options from companies like Jordan Insurance Company, Arab Insurance Group, and others.
+
+4. **International Students**: If you are an international student, you might need to purchase health insurance that meets the requirements of both Jordan and your home country. The university can provide guidance on what is required and recommended.
+
+5. **Cost and Coverage**: The cost and coverage of health insurance can vary. It's important to review the details of any plan to understand what is covered, any deductibles, and the process for filing claims.
+
+For the most accurate and up-to-date information, I recommend contacting the GJU directly or visiting their official website. They will be able to provide you with the specific details and options available to you.",9.325074911,5,5,,,1762631828,FALSE
+2,15,University contribution to health insurance for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"I don't have specific information about the University contribution to health insurance for German Jordanian University (GJU). However, typically, universities in Jordan, including GJU, may offer health insurance contributions as part of their employee benefits package. The exact contribution can vary and is often detailed in the employment contract or the university's employee handbook.
+
+To get the most accurate and up-to-date information, you should:
+
+1. **Check Your Employment Contract:** This document usually outlines the benefits provided, including health insurance.
+2. **Review the Employee Handbook:** The handbook often contains detailed information about benefits and contributions.
+3. **Contact the Human Resources Department:** HR can provide you with the most current and specific information regarding health insurance contributions.
+
+If you need more detailed information, I recommend reaching out to the HR department at GJU.",6.672859907,2,2,,,1762631835,FALSE
+2,16,Academic staff grades for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The grading system for academic staff at German Jordanian University (GJU) typically follows a structured scale that is used to evaluate and classify the positions and performance of faculty members. While the exact grading system can vary and may be subject to updates or changes, a common structure often includes the following grades:
+
+1. **Professor (Full Professor)**
+2. **Associate Professor**
+3. **Assistant Professor**
+4. **Lecturer**
+5. **Instructor**
+
+Each grade typically has specific criteria for appointment and promotion, including academic qualifications, research output, teaching experience, and service contributions. For more detailed information, including the specific criteria and requirements for each grade, you should refer to the official GJU faculty handbook or contact the Human Resources department at the university.
+
+If you have any specific questions or need more detailed information, feel free to ask!",4.713061571,8,8,,,1762631839,FALSE
+2,17,Academic staff categories for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The German Jordanian University (GJU) categorizes its academic staff into several positions, similar to many other higher education institutions. Here are the typical categories for academic staff at GJU:
+
+1. **Professor (Full Professor)**: The highest academic rank, typically held by experienced and highly accomplished scholars.
+2. **Associate Professor**: A senior academic position, often held by those who have achieved significant research and teaching experience.
+3. **Assistant Professor**: An entry-level faculty position for those who have recently completed their Ph.D. and are building their academic careers.
+4. **Lecturer**: A teaching-focused position, often held by individuals who may not have a Ph.D. but have significant practical experience or are working towards a higher degree.
+5. **Instructor**: A position often held by individuals who are responsible for teaching specific courses, usually with a focus on practical skills or vocational training.
+6. **Research Assistant/Teaching Assistant (TA)**: Typically held by graduate students who assist in research or teaching activities under the supervision of a faculty member.
+
+These categories can vary slightly depending on the specific policies and structures of the university, but they generally align with the standard academic hierarchy. If you need more detailed information, you can refer to the GJU's official faculty handbook or website.",8.563797712,8,8,,,1762631848,FALSE
+2,18,Administrative staff categories for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The German Jordanian University (GJU) is a public university that operates with a structured administrative framework to support its academic and operational functions. While specific job titles and categories can vary, here are some common administrative staff categories you might find at GJU:
+
+1. **Human Resources (HR) Department**
+   - HR Manager
+   - Recruitment Officer
+   - Employee Relations Specialist
+   - Training and Development Coordinator
+
+2. **Finance and Accounting Department**
+   - Financial Director
+   - Accountant
+   - Budget Analyst
+   - Payroll Specialist
+
+3. **Academic Affairs**
+   - Dean of Academic Affairs
+   - Registrar
+   - Academic Advisor
+   - Course Coordinator
+
+4. **Student Services**
+   - Student Affairs Director
+   - Admissions Officer
+   - Career Services Coordinator
+   - Student Support Specialist
+
+5. **Facilities Management**
+   - Facilities Manager
+   - Maintenance Supervisor
+   - Custodial Staff
+   - Groundskeeper
+
+6. **Information Technology (IT) Department**
+   - IT Director
+   - Systems Administrator
+   - Network Engineer
+   - Help Desk Technician
+
+7. **Research and Development**
+   - Research Director
+   - Grants Manager
+   - Research Coordinator
+   - Data Analyst
+
+8. **Public Relations and Communications**
+   - Communications Director
+   - Marketing Coordinator
+   - Public Relations Officer
+   - Content Writer
+
+9. **Library Services**
+   - Librarian
+   - Library Assistant
+   - Archivist
+
+10. **Security and Safety**
+    - Security Manager
+    - Security Guard
+    - Safety Officer
+
+11. **General Administration**
+    - Administrative Director
+    - Office Manager
+    - Secretary
+    - Receptionist
+
+These categories provide a broad overview of the administrative roles that support the operations of the German Jordanian University. The exact titles and responsibilities may vary depending on the university's specific organizational structure and needs.",11.83543801,2,2,,,1762631860,FALSE
+2,1,Basic salary for German Jordanian University,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including salary details for specific organizations like the German Jordanian University. 
+
+To find this information, I recommend checking:
+
+* **The German Jordanian University's official website:** They may have a careers page or information about compensation and benefits.
+* **Job boards and websites:** Sites like Glassdoor, Indeed, or LinkedIn often have salary information provided by current or former employees.
+* **Contacting the university's Human Resources department:** They would be the best source of accurate and up-to-date information about salaries. 
+
+
+Good luck with your research!",1.503103256,2,2,,,1762631861,FALSE
+2,2,Basic salary for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including salary details for specific organizations like the German Jordanian University. 
+
+To find this information, I recommend checking:
+
+* **The German Jordanian University's official website:** They may have a careers or employment section that lists salary ranges.
+* **Job boards and websites:** Sites like Glassdoor, Indeed, or LinkedIn often have salary information provided by current or former employees.
+* **Contacting the university's Human Resources department:** They would be the best source of information about salary ranges for different positions. 
+
+
+Good luck with your research!",1.472266674,2,2,,,1762631863,FALSE
+2,3,What is the basic salary for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including salary details for specific organizations like the German Jordanian University. 
+
+To find the basic salary information you're looking for, I recommend checking the following resources:
+
+* **German Jordanian University's official website:** Look for a careers or employment section. They may publish salary ranges or information about their compensation policies.
+* **Job boards and recruitment websites:** Websites like Indeed, LinkedIn, or Glassdoor often have salary information provided by employees or employers for specific companies and positions.
+* **Local recruitment agencies:** Agencies specializing in the Jordanian market may have insights into salary trends for different institutions, including GJU.
+* **Networking:** Connect with people who work or have worked at German Jordanian University to inquire about salary ranges.
+
+
+Good luck with your research!",1.905586958,2,2,,,1762631865,FALSE
+2,4,What is the basic salary definition for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific information like salary structures for individual organizations, including the German Jordanian University.  
+
+To find the basic salary definition for the German Jordanian University, I recommend checking these resources:
+
+* **The German Jordanian University's official website:** Look for a section on careers, employment, or human resources. They may publish salary information or have a contact for inquiries.
+* **Job postings:** Review current job openings on the university's website or on job boards. Salary ranges are often included in the job descriptions.
+* **Contact the university's HR department:** Reach out to the human resources department directly and ask about their basic salary definition. 
+
+
+Good luck with your research!",1.752114773,2,2,,,1762631866,FALSE
+2,5,Transportation allowance for German Jordanian University,pure,,,gemma-2-9b-it,,"I do not have access to specific company policies like transportation allowance details for the German Jordanian University.  
+
+To find this information, I recommend checking:
+
+* **The GJU employee handbook:** This is the best source for official policies.
+* **Your employment contract:** Your contract may outline your transportation allowance.
+* **The GJU HR department:** They can provide you with the most up-to-date information. 
+
+
+I hope this helps!",1.103384018,2,2,,,1762631868,FALSE
+2,6,Transportation allowance for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific policies or details about individual organizations like the German Jordanian University.  
+
+To find information about their transportation allowance, I recommend checking these resources:
+
+* **The GJU Employee Handbook:** This should outline all employee benefits and policies, including transportation allowances.
+* **GJU HR Department:** Contacting the Human Resources department directly is the best way to get accurate and up-to-date information.
+* **GJU Intranet:** If you are a GJU employee, their internal website may have details about benefits. 
+
+
+Good luck!",1.188393116,2,2,,,1762631869,FALSE
+2,7,List transportation allowance values for all for German Jordanian University,pure,,,gemma-2-9b-it,,"I do not have access to specific company information like payroll details or transportation allowance values for the German Jordanian University. 
+
+To get this information, you would need to:
+
+* **Contact the GJU Human Resources department directly.** They are the best source for accurate and up-to-date payroll information.
+* **Consult your employee handbook or contract.** These documents often outline details about allowances and benefits. 
+
+
+I hope this helps!",1.090212107,2,2,,,1762631870,FALSE
+2,8,"List transportation allowance values for all, including dean for German Jordanian University",pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including specific payroll data for German Jordanian University. 
+
+To get the accurate transportation allowance values for all employees, including the dean, you would need to consult:
+
+* **The GJU Employee Handbook:** This document usually outlines compensation policies, including transportation allowances.
+* **GJU Human Resources Department:** They are the best source of information regarding payroll details and benefits.
+* **GJU Payroll System:** If you have access to the internal payroll system, you may be able to find this information there. 
+
+
+Please remember that sharing confidential payroll information publicly is a breach of privacy and potentially illegal.",1.517756224,2,2,,,1762631871,FALSE
+2,9,Family allowance for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific information like payroll policies for individual institutions like the German Jordanian University. 
+
+To find out about family allowance at GJU, I recommend checking these resources:
+
+* **GJU's Human Resources Department:** They are the best source of information about employee benefits.
+* **GJU's Employee Handbook:** This document often outlines details about compensation and benefits.
+* **GJU's intranet or online employee portal:**  Internal resources may provide information about family allowance.
+
+
+Good luck with your search!",1.401474714,2,2,,,1762631873,FALSE
+2,10,Family bonus for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific company policies like family bonuses for German Jordanian University.  
+
+To find this information, I recommend:
+
+* **Checking your employee handbook:** This is usually the best source for details about benefits and bonuses.
+* **Speaking to your HR department:** They can provide you with accurate and up-to-date information about family bonuses.
+* **Looking for information on the GJU intranet:** Some universities have internal websites with details about employee benefits. 
+
+
+Good luck!",1.033901215,2,2,,,1762631874,FALSE
+2,11,What is the family bonus for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific information like company policies, including family bonuses for German Jordanian University. 
+
+To find this information, I recommend checking:
+
+* **Your employee handbook:** This should outline all benefits and bonuses offered by the university.
+* **Your HR department:** They will be able to provide you with the most accurate and up-to-date information.
+* **The university's intranet or website:** Some universities publish details about employee benefits online. 
+
+
+Good luck!",1.44841218,2,2,,,1762631875,FALSE
+2,12,What is the family bonus for wife for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific details like employee benefits or bonus structures for particular organizations like the German Jordanian University. 
+
+To find out about the family bonus for a wife at GJU, I recommend checking these resources:
+
+* **GJU's Human Resources Department:** They are the best source of information about employee benefits.
+* **GJU's Employee Handbook:** This document often outlines details about compensation and benefits.
+* **GJU's Internal Intranet:** If you are an employee, the intranet may have information about benefits. 
+
+
+Good luck with your search!",1.280964851,2,2,,,1762631877,FALSE
+2,13,Tax exemption for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including specific tax regulations or exemptions for institutions like the German Jordanian University. 
+
+To get accurate information about tax exemptions for the German Jordanian University, I recommend you consult the following resources:
+
+* **The German Jordanian University's Human Resources department:** They will have the most up-to-date information on tax regulations applicable to their employees.
+* **The Jordanian tax authority:** Their website or office can provide details on tax exemptions for educational institutions in Jordan.
+* **A qualified tax advisor:** A professional can offer personalized advice based on your specific circumstances. 
+
+
+Please remember that tax laws are complex and subject to change. Always rely on official sources and professional advice for accurate information.",1.766234875,2,2,,,1762631878,FALSE
+2,14,Health insurance for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific details about employee benefits like health insurance plans for particular organizations, including German Jordanian University. 
+
+To get accurate information about health insurance at GJU, I recommend checking:
+
+* **GJU's official website:** Look for an ""Employee Benefits"" or ""Human Resources"" section.
+* **Your employment contract:** Your contract should outline your benefits package.
+* **Contact GJU's Human Resources department:** They will be able to provide you with the most up-to-date information. 
+
+
+I hope this helps!",1.662305593,2,2,,,1762631880,FALSE
+2,15,University contribution to health insurance for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific company policies like the University contribution to health insurance for German Jordanian University.  
+
+To find this information, I recommend:
+
+* **Checking the employee handbook:** This should outline benefits and contributions.
+* **Contacting the Human Resources department:** They will be able to provide you with accurate and up-to-date information.
+* **Looking at your payslip:** Your health insurance contribution breakdown might be listed there. 
+
+
+I hope this helps!",1.449320316,2,2,,,1762631881,FALSE
+2,16,Academic staff grades for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific information like academic staff grades for German Jordanian University. 
+
+My knowledge is based on general information and I am not connected to any specific institution's internal data. 
+
+To find this information, I recommend checking the German Jordanian University's official website, their employee handbook, or contacting their human resources department directly.",1.217421532,2,2,,,1762631883,FALSE
+2,17,Academic staff categories for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific information about internal structures of organizations like the German Jordanian University.  
+
+To find the academic staff categories for GJU, I recommend checking their:
+
+* **Official website:** Look for an ""About Us"" or ""Faculty & Staff"" section.
+* **Human Resources department:** Contact them directly via email or phone.
+* **Internal employee handbook or policies:** If you are a current employee, these documents should outline staff categories. 
+
+
+Good luck with your research!",1.303035975,2,2,,,1762631884,FALSE
+2,18,Administrative staff categories for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including specific internal organizational structures of institutions like the German Jordanian University.  
+
+To find the administrative staff categories at GJU, I recommend checking the following:
+
+* **GJU's official website:** Look for an ""About Us"" or ""Careers"" section which may list staff categories.
+* **GJU's internal job portal:** If you are a current employee or have access, this would be the most accurate source.
+* **Contact GJU's Human Resources department:** They would be able to provide you with the most up-to-date information on staff categories. 
+
+
+Good luck with your research!",1.440704346,2,2,,,1762631885,FALSE
+3,1,Basic salary for German Jordanian University,pure,,,Mistral-7B-Instruct-v0.3,,"The term ""basic salary"" typically refers to the base amount of remuneration an employee receives for their work, before any deductions such as taxes, benefits, or bonuses. The exact amount can vary widely depending on the industry, job role, location, and the specific terms of the employment contract. To find out the specific basic salary for a particular position, you would need to refer to the employment contract or consult with the HR department of the company in question.",1.799802303,5,5,,,1762290927,FALSE
+3,2,Basic salary for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The term ""basic salary"" refers to the fixed amount of pay an employee receives on a regular basis, typically monthly, for their work. However, I don't have specific information about any individual's salary. For exact details, you should refer to the employment contract or consult with your HR department.",0.835154772,5,5,,,1762290949,FALSE
+3,3,What is the basic salary for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The basic salary is the fixed amount of money an employee earns for their work, excluding any additional allowances, bonuses, or deductions. It's the base amount upon which other pay components like overtime, benefits, and taxes are calculated. The specific amount can vary greatly depending on the employee's job role, industry, and location. For a more accurate and specific answer, please refer to the employee's employment contract or consult with a payroll specialist.",1.025944471,5,5,,,1762290970,FALSE
+3,4,What is the basic salary definition for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The basic salary definition refers to the regular, fixed amount of remuneration an employee receives for their work, excluding any additional allowances, bonuses, or deductions. It is the base amount upon which other payments, such as overtime, commissions, or benefits, may be calculated. The basic salary is usually paid on a regular basis, such as monthly or weekly.",1.216144562,5,5,,,1762290991,FALSE
+3,5,Transportation allowance for German Jordanian University,pure,,,Mistral-7B-Instruct-v0.3,,"Transportation allowance is a type of compensation provided to employees to cover the cost of commuting to and from work, especially when public transportation is not readily available or the cost of commuting is significantly high. The amount of transportation allowance can vary greatly depending on the company's policy, the employee's job role, and the location of the workplace. Some companies may provide a fixed amount, while others may offer a reimbursement for actual expenses incurred. It's always best to check with your HR department for specific details regarding your company's transportation allowance policy.",1.204796314,2,2,,,1762291009,FALSE
+3,6,Transportation allowance for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Transportation allowance can vary greatly depending on the company's policies and the location of the employee. Some companies provide a fixed amount each month, while others might reimburse actual expenses. To get the specific details for a particular company, I would recommend checking the employee handbook or reaching out to the HR department.",1.156312943,2,2,,,1762291036,FALSE
+3,7,List transportation allowance values for all for German Jordanian University,pure,,,Mistral-7B-Instruct-v0.3,,"I'm sorry for any inconvenience, but as a payroll assistant, I don't have the ability to provide specific transportation allowance values without access to your company's payroll system or policies. Transportation allowances can vary greatly depending on the company, location, and specific job role.
+
+Generally, transportation allowances are provided to cover the costs associated with commuting to and from work. They can be fixed amounts or calculated based on distance, and may be tax-deductible.
+
+For more accurate information, I would recommend reaching out to your HR department or payroll manager. They will be able to provide the most accurate and up-to-date information regarding transportation allowances within your company.",1.343954563,2,2,,,1762291060,FALSE
+3,8,"List transportation allowance values for all, including dean for German Jordanian University",pure,,,Mistral-7B-Instruct-v0.3,,"To provide an accurate answer, I would need specific information about the company's transportation allowance policy, including the rates for different positions or levels within the organization. However, I can give you an example of how the information might be structured:
+
+1. Employee (General): $100 per month
+2. Manager: $120 per month
+3. Dean: $150 per month (Assuming the Dean is a senior-level position)
+
+Please note that this is just an example and the actual values may vary depending on the company's policies. For the most accurate information, please refer to your company's payroll or HR department.",2.10047245,2,2,,,1762291086,FALSE
+3,9,Family allowance for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Family allowance, also known as child support or child benefits, is a financial assistance given to parents or guardians to help cover the costs associated with raising a child. This allowance is typically provided by the government and varies depending on the country and the specific circumstances of the family. It is not a part of the payroll system, as it is not a payment made in exchange for work or services rendered. Instead, it is a social welfare benefit. For specific information about family allowance in your location, I recommend consulting your local government's website or reaching out to a local family services organization.",1.234048843,2,2,,,1762291114,FALSE
+3,10,Family bonus for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"A family bonus, also known as a family allowance or family premium, is a financial benefit given to families to help them cover the costs associated with raising children. This bonus is not typically a part of payroll for individual employees, but rather a government or employer-provided benefit. The specifics can vary greatly depending on the country, region, and employer's policies. For detailed information about family bonuses, I would recommend checking with your local government or human resources department.",1.230261326,2,2,,,1762291140,FALSE
+3,11,What is the family bonus for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The family bonus, also known as family allowance or child benefit, is a financial support provided by some governments to families with children. It's intended to help offset the costs associated with raising a family. The amount and eligibility criteria can vary greatly depending on the country and specific circumstances. It's important to check with local authorities or a tax professional for accurate and up-to-date information about family bonuses in a specific location.",1.221431255,2,2,,,1762291161,FALSE
+3,12,What is the family bonus for wife for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The family bonus for a wife, also known as the family allowance or child allowance, varies greatly depending on the country's laws and regulations. In some countries, there is no specific family bonus for a wife. Instead, the allowance is given for each child. I recommend checking the specific laws and regulations in your country for accurate information. If you need help finding this information, I can guide you to resources that might be helpful.",1.046769381,2,2,,,1762291176,FALSE
+3,13,Tax exemption for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Tax exemption refers to a reduction or elimination of taxes on certain income or assets. In the context of payroll, it often refers to the amount of income that is exempt from taxation. For example, in the United States, the first few thousand dollars of income are typically exempt from federal income tax due to the standard deduction and personal exemptions. However, tax exemptions can vary greatly depending on the country, state, or region, as well as the type of income. For specific information, it's best to consult with a tax professional or the relevant tax authority.",1.182363033,2,2,,,1762291186,FALSE
+3,14,Health insurance for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"As a payroll assistant, I don't directly handle health insurance matters. However, I can tell you that many employers offer health insurance as part of their benefits package. The specifics, such as the types of plans available, premium costs, and coverage details, can vary greatly from one employer to another. It's important to review the health insurance options provided by your employer during the benefits enrollment period. If you have questions about your employer's health insurance offerings, I would recommend reaching out to your HR department for more information.",0.915476561,2,2,,,1762291225,FALSE
+3,15,University contribution to health insurance for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"The contribution of a university to health insurance can vary greatly depending on the specific university, country, and the type of health insurance plan. Some universities may offer partial or full coverage for their employees as part of their benefits package. It's best to check the university's human resources department or employee benefits website for the most accurate information.",0.980528355,2,2,,,1762291251,FALSE
+3,16,Academic staff grades for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Academic staff grades can vary depending on the institution and the specific role. However, in many educational institutions, academic staff can be divided into several categories such as:
+
+1. Instructor: This is an entry-level position, often for adjunct or part-time faculty.
+
+2. Assistant Professor: This is a mid-level position, often requiring a Ph.D. and some teaching experience.
+
+3. Associate Professor: This is a more senior position, often requiring a higher level of teaching, research, and service contributions.
+
+4. Professor: This is the highest academic rank, often requiring significant research contributions, teaching experience, and leadership in the academic community.
+
+5. Full Professor or Professor Emeritus: These are the most senior positions, often held by those who have made significant contributions to their field and are recognized as leaders in their academic community.
+
+6. Other titles may include Research Professor, Adjunct Professor, Lecturer, etc., depending on the specific role and responsibilities.",1.42936635,8,8,,,1762291268,FALSE
+3,17,Academic staff categories for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Academic staff categories can vary depending on the institution, but here are some common ones:
+
+1. Tenured/Tenure-Track Faculty: These are permanent positions with a high level of job security. Tenure-track positions are those where the faculty member is being evaluated for tenure, typically after a certain number of years.
+
+2. Non-Tenure-Track Faculty: These positions are usually temporary or contract-based. They may include lecturers, adjunct professors, or visiting faculty.
+
+3. Research Faculty: These positions focus primarily on research and scholarly activities. They may have teaching responsibilities but these are usually limited.
+
+4. Clinical Faculty: In medical schools, clinical faculty are practitioners who also teach students. They may be employed by the university or by a hospital.
+
+5. Instructors: These are usually temporary positions for teaching specific courses. They may have a master's degree or higher.
+
+6. Postdoctoral Fellows: These are researchers who have completed their doctoral degree and are conducting additional research to further specialize in their field. They are typically temporary positions.
+
+7. Professor Ranks: These include Assistant Professor, Associate Professor, and Professor. These positions are typically tenure-track and require a doctoral degree. The rank indicates the level of experience and achievement in research, teaching, and service.
+
+8. Librarian Faculty: These are faculty members who work in the university library. They may be responsible for research, teaching, and providing resources to students and faculty.",2.440150499,5,5,,,1762291299,FALSE
+3,18,Administrative staff categories for German Jordanian University?,pure,,,Mistral-7B-Instruct-v0.3,,"Administrative staff categories can vary depending on the organization, but some common ones include:
+
+1. Administrative Assistants: They perform a variety of administrative tasks such as managing schedules, answering phones, organizing files, and coordinating meetings.
+
+2. Office Managers: They oversee the day-to-day operations of an office, including managing staff, ordering supplies, and ensuring the office runs smoothly.
+
+3. Receptionists: They are the first point of contact for visitors and callers, handling inquiries, scheduling appointments, and providing general information.
+
+4. Executive Assistants: They provide administrative support to high-level executives, often handling complex tasks such as scheduling, travel arrangements, and managing correspondence.
+
+5. Data Entry Clerks: They input data into computer systems, ensuring its accuracy and completeness.
+
+6. Human Resources Assistants: They support the HR department with tasks such as recruiting, onboarding, benefits administration, and employee relations.
+
+7. Accounting Clerks: They perform routine accounting tasks such as recording transactions, preparing reports, and maintaining financial records.
+
+8. Customer Service Representatives: They handle inquiries and complaints from customers, providing information and resolving issues.
+
+9. Marketing Assistants: They support the marketing department with tasks such as research, event planning, and social media management.
+
+10. Legal Assistants: They support lawyers and legal teams with tasks such as drafting documents, conducting research, and managing case files.",2.498391628,2,2,,,1762291317,FALSE
+3,1,Basic salary for German Jordanian University,pure,,,Qwen2.5-72B-Instruct,,"I don't have specific information about the basic salary for employees at the German Jordanian University (GJU). Salaries at universities can vary widely depending on the position, level of experience, and qualifications of the individual. For accurate and up-to-date information, it would be best to contact the Human Resources department at the German Jordanian University directly or visit their official website for more details.
+
+If you need general guidance on what factors might influence salaries at GJU, these could include:
+
+1. **Position**: Whether the role is academic (e.g., professor, lecturer) or administrative (e.g., staff, management).
+2. **Qualifications**: Higher degrees (PhD, Master's) often command higher salaries.
+3. **Experience**: More experienced individuals may receive higher pay.
+4. **Rank**: Academic ranks (assistant professor, associate professor, full professor) typically come with different salary scales.
+5. **Department**: Different departments may have different budget allocations, affecting salary levels.
+
+For precise figures, reaching out to the university directly is your best bet.",5.061161518,5,5,,,1762631890,FALSE
+3,2,Basic salary for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"I don't have specific information about the basic salary for employees at the German Jordanian University (GJU). Salaries at universities can vary based on several factors, including the position, level of experience, qualifications, and the specific department. For accurate and up-to-date information, it would be best to contact the Human Resources department at the German Jordanian University directly or visit their official website for more details.",2.74126482,5,5,,,1762631893,FALSE
+3,3,What is the basic salary for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"I don't have specific information about the basic salary for positions at the German Jordanian University (GJU). Salaries at educational institutions like GJU can vary based on several factors, including the position, level of experience, qualifications, and the specific department. For accurate and up-to-date information, it would be best to contact the Human Resources department at the German Jordanian University directly or visit their official website for any published salary scales or job postings.",2.874544859,5,5,,,1762631896,FALSE
+3,4,What is the basic salary definition for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The basic salary for employees at the German Jordanian University (GJU) refers to the fixed amount of money paid to an employee on a regular basis, typically monthly, before any deductions or additions such as taxes, benefits, or bonuses. This amount is usually specified in the employment contract and is the core component of an employee's compensation package. The exact amount of the basic salary can vary based on the position, experience, and qualifications of the employee, as well as the specific policies of the university.",5.414004326,5,5,,,1762631901,FALSE
+3,5,Transportation allowance for German Jordanian University,pure,,,Qwen2.5-72B-Instruct,,"For employees of the German Jordanian University (GJU), the transportation allowance can vary based on the specific policies and agreements in place. Typically, such allowances are designed to help cover the costs associated with commuting to and from work. Here are a few points to consider:
+
+1. **University Policy**: The exact amount and conditions of the transportation allowance are usually outlined in the university's employee handbook or in the employment contract. It's important to refer to these documents for the most accurate and up-to-date information.
+
+2. **Local Regulations**: The allowance may also be influenced by local labor laws and regulations in Jordan, which can set minimum standards for such benefits.
+
+3. **Employee Category**: The allowance can differ based on the employee's position, rank, or department. For example, full-time faculty members might receive a different allowance compared to administrative staff.
+
+4. **Mode of Transportation**: Some universities may offer a fixed monthly allowance, while others might provide reimbursement for actual expenses incurred. The mode of transportation (e.g., public transport, personal vehicle) can also affect the amount.
+
+5. **Tax Implications**: It's also important to consider any tax implications of the transportation allowance, as this can vary by country and specific circumstances.
+
+To get the most accurate and detailed information, you should:
+
+- **Check the Employee Handbook**: This document often contains detailed information about all benefits, including transportation allowances.
+- **Contact HR**: The Human Resources department at GJU can provide specific details and answer any questions you might have.
+- **Review Your Contract**: If you have an employment contract, it should specify the terms of your transportation allowance.
+
+If you need more specific information, feel free to ask, and I can try to provide more detailed guidance based on the context you provide.",10.31008172,2,2,,,1762631912,FALSE
+3,6,Transportation allowance for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The Transportation Allowance for employees at the German Jordanian University (GJU) is not a standardized amount that is publicly disclosed for all employees. Transportation allowances can vary based on several factors such as the employee's position, department, and specific employment contract. 
+
+If you are a GJU employee and need to know your specific transportation allowance, you should:
+
+1. **Check Your Employment Contract:** Your contract may specify the amount of the transportation allowance.
+2. **Contact HR:** The Human Resources (HR) department can provide you with the most accurate and up-to-date information regarding your transportation allowance.
+3. **Review the Employee Handbook:** The university's employee handbook may also contain relevant information about transportation allowances and other benefits.
+
+If you are a student or have a different inquiry, please clarify, and I can provide more relevant information.",5.074043989,2,2,,,1762631917,FALSE
+3,7,List transportation allowance values for all for German Jordanian University,pure,,,Qwen2.5-72B-Instruct,,"I'm sorry, but I don't have specific information about the transportation allowance values for all employees at the German Jordanian University. Transportation allowances can vary based on several factors, including the employee's position, department, and the specific policies of the university.
+
+To get accurate and up-to-date information, you should:
+
+1. **Check the University's HR Handbook or Employee Manual**: This document usually contains detailed information about benefits, including transportation allowances.
+2. **Contact the HR Department**: The HR department at the German Jordanian University can provide you with the most accurate and current information.
+3. **Review Your Employment Contract**: If you are an employee, your employment contract may specify the transportation allowance you are entitled to.
+
+If you have a specific role or department in mind, providing that information might help me give you a more tailored response.",8.171913862,2,2,,,1762631925,FALSE
+3,8,"List transportation allowance values for all, including dean for German Jordanian University",pure,,,Qwen2.5-72B-Instruct,,"Certainly! The transportation allowance values can vary based on the institution's policies and the specific roles within the German Jordanian University. However, I can provide a general example of what these values might look like. Please note that these are hypothetical values and should be verified with the university's official payroll or HR department for accuracy.
+
+### Transportation Allowance Values for German Jordanian University
+
+1. **Dean**
+   - **Amount:** 150 JD per month
+
+2. **Department Heads**
+   - **Amount:** 120 JD per month
+
+3. **Professors**
+   - **Amount:** 100 JD per month
+
+4. **Lecturers**
+   - **Amount:** 80 JD per month
+
+5. **Administrative Staff**
+   - **Amount:** 70 JD per month
+
+6. **Technical Staff**
+   - **Amount:** 60 JD per month
+
+7. **Support Staff**
+   - **Amount:** 50 JD per month
+
+8. **Research Assistants**
+   - **Amount:** 40 JD per month
+
+9. **Graduate Assistants**
+   - **Amount:** 30 JD per month
+
+10. **Part-time Employees**
+    - **Amount:** 20 JD per month
+
+For the most accurate and up-to-date information, please consult the German Jordanian University's HR department or the official payroll guidelines.",9.951440096,5,2,,,1762631935,FALSE
+3,9,Family allowance for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"It seems there might be some confusion in your question. The term ""Family allowance"" typically refers to a government benefit provided to families, often to help with the cost of raising children. However, the German Jordanian University (GJU) is an educational institution, and it's not clear how a family allowance would directly relate to it.
+
+If you are asking about financial assistance or benefits available to students or employees of the German Jordanian University, there are a few possibilities:
+
+1. **Scholarships and Financial Aid**: GJU may offer scholarships or financial aid to students to help cover tuition and other expenses.
+2. **Employee Benefits**: If you are an employee of GJU, the university might offer certain benefits, such as family allowances, health insurance, or other support.
+
+To get accurate and specific information, you should:
+
+- **Check the GJU Website**: The university's official website often has detailed information about financial aid, scholarships, and employee benefits.
+- **Contact the Financial Aid Office**: If you are a student, the financial aid office can provide detailed information about available assistance.
+- **Contact the Human Resources Department**: If you are an employee, the HR department can provide information about any family allowances or benefits.
+
+If you can provide more context or clarify your question, I can offer more specific guidance!",9.307116508,2,2,,,1762631944,FALSE
+3,10,Family bonus for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"It seems there might be some confusion in your question. The term ""Family bonus"" is not a standard term used in payroll or employment benefits, especially in the context of the German Jordanian University (GJU) or any other institution. 
+
+However, if you are referring to a specific benefit or allowance provided to employees of the German Jordanian University, such as a family allowance or a benefit for having dependents, you would need to check the university's employee handbook or contact the Human Resources (HR) department for accurate and detailed information.
+
+Typically, such benefits can include:
+
+1. **Family Allowance**: A monthly or annual payment provided to employees who have dependents (e.g., children or spouses).
+2. **Dependent Care Benefits**: Assistance or subsidies for childcare or other dependent care expenses.
+3. **Housing Allowance**: Additional support for employees who need to provide housing for their families.
+
+If you have a specific benefit in mind, the HR department at GJU would be the best resource to provide you with the most accurate and up-to-date information.",9.259045124,2,2,,,1762631954,FALSE
+3,11,What is the family bonus for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"I don't have specific information about a ""family bonus"" for the German Jordanian University. This term is not commonly used in standard payroll or benefits terminology, especially in an international context. It's possible that this could be a specific benefit or allowance offered by the German Jordanian University to its employees, but without more context or official information from the university, I cannot provide a definitive answer.
+
+If you are looking for specific details about employee benefits at the German Jordanian University, I recommend checking the university's official HR documentation or contacting their human resources department directly. They will be able to provide you with the most accurate and up-to-date information.",4.20977211,2,2,,,1762631958,FALSE
+3,12,What is the family bonus for wife for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"I don't have specific information about a ""family bonus for wife"" for the German Jordanian University. Typically, such benefits are detailed in the university's employment policies or employee handbook. It's best to check the official documents or contact the Human Resources department of the German Jordanian University directly for accurate and up-to-date information. They will be able to provide you with the specific details regarding any family or spousal benefits offered.",3.170607328,2,2,,,1762631961,FALSE
+3,13,Tax exemption for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The German Jordanian University (GJU) is a public university in Jordan, and as such, it generally enjoys certain tax exemptions under Jordanian law. However, the specific tax exemptions can vary and typically include:
+
+1. **Exemption from Income Tax:** As a public educational institution, GJU is usually exempt from paying income tax on its revenues.
+2. **Exemption from Property Tax:** The university's property, including its buildings and land, is often exempt from property tax.
+3. **Exemption from Sales Tax:** GJU may be exempt from paying sales tax on goods and services it purchases for educational purposes.
+
+However, the exact details and extent of these exemptions can depend on the specific laws and regulations in Jordan. For the most accurate and up-to-date information, it is advisable to consult the official website of the German Jordanian University or the Jordanian Ministry of Finance.
+
+If you need more detailed information or have specific questions about tax exemptions for GJU, feel free to ask!",7.078197479,2,2,,,1762631968,FALSE
+3,14,Health insurance for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"It seems like you're asking about health insurance for students or employees at the German Jordanian University (GJU). Here’s what you need to know:
+
+1. **Student Health Insurance**:
+   - **Mandatory Insurance**: In Jordan, it is mandatory for all international students to have health insurance. GJU may have a specific insurance plan that students can purchase through the university.
+   - **University-Provided Insurance**: GJU might offer a health insurance plan to its students, which can be more convenient and tailored to the needs of the student population.
+   - **Private Insurance**: Students can also opt for private health insurance, but it must meet the minimum coverage requirements set by the university and the Jordanian government.
+
+2. **Employee Health Insurance**:
+   - **Employer-Provided Insurance**: GJU, like many other institutions, may provide health insurance as part of the employment benefits package. This can include coverage for medical, dental, and sometimes vision care.
+   - **National Health Insurance**: Employees may also be covered under the national health insurance system in Jordan, depending on their employment status and the policies of the university.
+
+3. **Coverage and Costs**:
+   - **Coverage Details**: The specific details of the health insurance, including what is covered and the cost, can vary. It’s important to review the insurance plan documents or contact the university’s health services or human resources department for detailed information.
+   - **Costs**: The cost of health insurance can depend on the type of plan, the level of coverage, and whether the insurance is provided by the university or purchased privately.
+
+4. **Enrollment and Renewal**:
+   - **Enrollment Process**: Students and employees should follow the enrollment process as outlined by the university. This may involve filling out forms, providing personal information, and paying any required premiums.
+   - **Renewal**: Health insurance plans typically need to be renewed annually. It’s important to stay informed about renewal deadlines and any changes to the plan.
+
+For the most accurate and up-to-date information, it’s best to contact the German Jordanian University directly or visit their official website. They can provide specific details about the health insurance options available and how to enroll.",14.1731894,2,2,,,1762631982,FALSE
+3,15,University contribution to health insurance for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"I don't have specific information about the University contribution to health insurance for German Jordanian University (GJU). However, I can provide a general overview of how such contributions typically work in a university setting, and you can check the specific details with GJU's HR or finance department.
+
+### General Overview:
+1. **Employee Health Insurance:**
+   - Many universities, including those in Jordan, often provide health insurance as part of their employee benefits package.
+   - The contribution to health insurance can vary, but it is common for the university to cover a significant portion of the premium, while the employee may contribute a smaller percentage.
+
+2. **Contribution Structure:**
+   - **University Contribution:** The university might cover a fixed percentage of the premium, such as 70% or 80%.
+   - **Employee Contribution:** The remaining percentage is typically paid by the employee through payroll deductions.
+
+3. **Coverage:**
+   - Health insurance coverage can include medical, dental, and vision care.
+   - Some plans may also cover dependents, such as spouses and children, though the contribution structure for dependent coverage may differ.
+
+4. **Policy Details:**
+   - The specific terms of the health insurance policy, including deductibles, copayments, and covered services, are usually outlined in the insurance plan document provided by the university.
+
+### Steps to Find Specific Information:
+1. **Check the Employee Handbook:** The employee handbook or benefits guide often contains detailed information about health insurance contributions and coverage.
+2. **Contact HR:** The Human Resources department at GJU can provide the most accurate and up-to-date information regarding health insurance contributions.
+3. **Review Pay Stubs:** Your pay stubs may also show the amount deducted for health insurance, which can give you an idea of your contribution.
+
+If you need the exact contribution amounts and details, I recommend reaching out to the HR department at German Jordanian University for the most accurate information.",10.74618506,2,2,,,1762631993,FALSE
+3,16,Academic staff grades for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"For the German Jordanian University (GJU), the academic staff grading system typically follows a structured hierarchy that categorizes faculty members based on their qualifications, experience, and responsibilities. While the exact grading system can vary, it generally includes the following ranks:
+
+1. **Professor (Full Professor)**
+   - The highest academic rank, typically awarded to highly experienced and accomplished faculty members who have made significant contributions to their field.
+
+2. **Associate Professor**
+   - A senior academic rank, usually held by faculty members who have demonstrated a high level of expertise and have been successful in research and teaching.
+
+3. **Assistant Professor**
+   - An intermediate rank, often held by faculty members who have recently completed their doctoral degrees and are building their research and teaching careers.
+
+4. **Lecturer**
+   - An entry-level academic rank, often held by individuals who are starting their careers in academia and may be working towards a higher degree or building their teaching experience.
+
+5. **Instructor**
+   - A position often held by individuals who are primarily focused on teaching and may not be required to engage in research.
+
+6. **Teaching Assistant (TA)**
+   - A position typically held by graduate students who assist in teaching and may be responsible for leading tutorials, grading, and providing support to faculty.
+
+These ranks can be further subdivided based on specific criteria such as years of service, research output, and teaching evaluations. The exact titles and criteria can vary slightly depending on the specific policies and regulations of GJU.
+
+If you need more detailed information or specific policies, it would be best to consult the official GJU faculty handbook or contact the Human Resources department at the university.",10.50968623,8,8,,,1762632003,FALSE
+3,17,Academic staff categories for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The German Jordanian University (GJU) categorizes its academic staff into several categories, which are similar to those found in many other higher education institutions. Here are the typical categories:
+
+1. **Professors (Professoren)**
+   - Full Professor (Professor)
+   - Associate Professor (Außerordentlicher Professor)
+   - Assistant Professor (Professor)
+
+2. **Lecturers (Dozenten)**
+   - Senior Lecturer (Oberassistent)
+   - Lecturer (Assistent)
+
+3. **Instructors (Lehrkräfte)**
+   - Teaching Assistant (Lehrkraft)
+   - Part-time Instructor (Teilzeit-Lehrkraft)
+
+4. **Research Staff (Forschungspersonal)**
+   - Postdoctoral Researchers (Postdoktoranden)
+   - PhD Students (Doktoranden)
+   - Research Assistants (Forschungsassistenten)
+
+5. **Administrative and Support Staff (Verwaltungspersonal und Unterstützungspersonal)**
+   - Administrative Officers (Verwaltungsangestellte)
+   - Technical Support Staff (Technisches Personal)
+   - Library Staff (Bibliothekspersonal)
+
+These categories may vary slightly depending on the specific policies and organizational structure of the German Jordanian University. For the most accurate and up-to-date information, it is best to refer to the official GJU staff handbook or contact the university's human resources department.",9.234427452,8,8,,,1762632013,FALSE
+3,18,Administrative staff categories for German Jordanian University?,pure,,,Qwen2.5-72B-Instruct,,"The German Jordanian University (GJU) is a unique institution that combines German and Jordanian educational systems. The administrative staff at GJU can be categorized into several roles and departments to ensure the smooth operation of the university. Here are some common administrative staff categories:
+
+1. **Human Resources (HR) Department:**
+   - HR Manager
+   - Recruitment Officer
+   - Employee Relations Specialist
+   - Training and Development Coordinator
+
+2. **Finance and Accounting Department:**
+   - Financial Director
+   - Accountant
+   - Financial Analyst
+   - Payroll Officer
+
+3. **Academic Affairs Department:**
+   - Dean of Academic Affairs
+   - Academic Coordinator
+   - Registrar
+   - Course Scheduler
+
+4. **Student Affairs Department:**
+   - Dean of Student Affairs
+   - Student Services Coordinator
+   - Admissions Officer
+   - Career Services Coordinator
+
+5. **Facilities Management Department:**
+   - Facilities Manager
+   - Maintenance Supervisor
+   - Custodial Staff
+   - Groundskeeper
+
+6. **Information Technology (IT) Department:**
+   - IT Director
+   - Systems Administrator
+   - Network Administrator
+   - Help Desk Technician
+
+7. **Public Relations and Communications Department:**
+   - Director of Public Relations
+   - Communications Officer
+   - Marketing Coordinator
+   - Social Media Manager
+
+8. **Research and Development Department:**
+   - Research Director
+   - Research Coordinator
+   - Grants Manager
+   - Intellectual Property Specialist
+
+9. **International Relations Department:**
+   - Director of International Relations
+   - International Programs Coordinator
+   - Study Abroad Advisor
+
+10. **Library and Information Services:**
+    - Librarian
+    - Library Technician
+    - Reference Librarian
+    - Cataloging Specialist
+
+11. **Health and Safety Department:**
+    - Health and Safety Officer
+    - Medical Staff (Nurses, Doctors)
+    - Safety Inspector
+
+12. **Legal Affairs Department:**
+    - Legal Counsel
+    - Compliance Officer
+    - Contract Manager
+
+These categories cover a broad range of administrative functions necessary for the effective operation of the German Jordanian University. Each department plays a crucial role in supporting the academic and administrative goals of the institution.",13.54153323,2,2,,,1762632026,FALSE
+3,1,Basic salary for German Jordanian University,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including salary details for specific organizations like the German Jordanian University. 
+
+To find this information, I recommend checking:
+
+* **The German Jordanian University's official website:** They may have a careers or employment section with salary information.
+* **Job boards and websites:** Websites like Glassdoor, Indeed, or LinkedIn often have salary data submitted by employees or employers.
+* **Contacting the university directly:** Reach out to their human resources department for specific salary inquiries. 
+
+
+Good luck with your research!",1.538974047,2,2,,,1762632028,FALSE
+3,2,Basic salary for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including salary details for specific organizations like the German Jordanian University. 
+
+To find this information, I recommend checking:
+
+* **The German Jordanian University's official website:** They may have a careers section or information about compensation and benefits.
+* **Job boards and websites:** Sites like Glassdoor, Indeed, or LinkedIn often have salary information provided by current or former employees.
+* **Contacting the university's human resources department:** They would be the best source of information about salary ranges for different positions. 
+
+
+Good luck with your research!",2.247130394,2,2,,,1762632030,FALSE
+3,3,What is the basic salary for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including salary details for specific organizations like the German Jordanian University. 
+
+To find this information, I would recommend:
+
+* **Checking the German Jordanian University's website:** Their website may have a careers section or information about employee benefits.
+* **Contacting the university's Human Resources department:** They would be the best source of information about salary ranges.
+* **Looking at job postings:** Websites that list job openings often include salary information. 
+
+
+Good luck with your research!",1.431353807,2,2,,,1762632031,FALSE
+3,4,What is the basic salary definition for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific information like salary details for individual organizations, including German Jordanian University. 
+
+To find the basic salary definition for German Jordanian University, I recommend checking these resources:
+
+* **The German Jordanian University's website:** Look for a section on careers, employment, or human resources. They may publish salary information or provide a link to their internal policies.
+* **Job postings:** Review current job openings at the university. Salary ranges are often included in the job descriptions.
+* **Contact the university's human resources department:** They can provide you with the most accurate and up-to-date information about salary definitions and structures. 
+
+
+Good luck with your research!",1.75050807,2,2,,,1762632033,FALSE
+3,5,Transportation allowance for German Jordanian University,pure,,,gemma-2-9b-it,,"I do not have access to specific company policies like transportation allowance details for the German Jordanian University.  
+
+To find this information, I recommend:
+
+* **Checking the GJU employee handbook:** This should outline all relevant policies, including transportation allowances.
+* **Contacting the GJU HR department:** They will be able to provide you with accurate and up-to-date information.
+* **Looking for information on the GJU intranet:**  Many universities have internal websites with employee resources. 
+
+
+Good luck!",1.338598251,2,2,,,1762632035,FALSE
+3,6,Transportation allowance for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific company policies like transportation allowance details for the German Jordanian University. 
+
+To get accurate information about their transportation allowance, I recommend checking:
+
+* **The GJU employee handbook:** This should outline all employee benefits, including transportation allowances.
+* **GJU's HR department:** They can provide you with the most up-to-date and specific information.
+* **Your employment contract:** Your contract may specify details about your transportation allowance. 
+
+
+Good luck!",1.228054523,2,2,,,1762632036,FALSE
+3,7,List transportation allowance values for all for German Jordanian University,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including specific payroll details for organizations like the German Jordanian University. 
+
+To get accurate information about transportation allowance values, you would need to:
+
+* **Consult the German Jordanian University's employee handbook or payroll policies.** These documents usually outline compensation details, including allowance amounts.
+* **Speak to the university's Human Resources department.** They are the best source of information regarding employee benefits and payroll practices. 
+
+
+I hope this helps!",1.211810827,2,2,,,1762632037,FALSE
+3,8,"List transportation allowance values for all, including dean for German Jordanian University",pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including specific payroll details for German Jordanian University. 
+
+To get the accurate transportation allowance values for all employees, including the dean, you would need to consult:
+
+* **The GJU Payroll Department:** They are the primary source of information regarding employee compensation and allowances.
+* **GJU's Employee Handbook:** This document often outlines policies and details about various benefits, including transportation allowances.
+* **GJU's Human Resources Department:** They can provide information about compensation structures and policies. 
+
+
+I hope this helps!",1.539980173,2,2,,,1762632039,FALSE
+3,9,Family allowance for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific details about company policies like family allowances for the German Jordanian University.  
+
+To get accurate information about family allowance policies, I recommend you:
+
+* **Check the GJU employee handbook:** This should outline all benefits and allowances offered to employees.
+* **Contact the GJU Human Resources department:** They will be able to provide you with the most up-to-date and accurate information. 
+* **Consult with your supervisor or a trusted colleague:** They may have insights into the family allowance policy. 
+
+
+I hope this helps!",1.308354139,2,2,,,1762632040,FALSE
+3,10,Family bonus for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific company policies like family bonuses for the German Jordanian University.  
+
+To find this information, I recommend checking:
+
+* **The GJU employee handbook:** This should outline all employee benefits, including any family bonuses.
+* **Your employment contract:** Your contract may specify details about any bonuses you are eligible for.
+* **Speaking to your HR department:** They will be able to provide you with the most accurate and up-to-date information about family bonuses. 
+
+
+Good luck!",1.298456907,2,2,,,1762632041,FALSE
+3,11,What is the family bonus for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific company policies like family bonuses for German Jordanian University.  
+
+To find this information, I recommend:
+
+* **Checking your employee handbook:** This should outline all benefits and bonuses offered.
+* **Speaking to your HR department:** They will be able to give you the most accurate and up-to-date information.
+* **Looking at your payslip:**  Sometimes bonus details are included on your payslip. 
+
+
+Good luck!",1.405644655,2,2,,,1762632043,FALSE
+3,12,What is the family bonus for wife for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific details about company policies like family bonuses for the German Jordanian University.  
+
+To get accurate information about this, I recommend:
+
+* **Checking the GJU employee handbook:** This should outline all benefits and compensation details.
+* **Contacting the GJU Human Resources department:** They will be able to provide you with the most up-to-date information. 
+
+
+I hope this helps!",1.104628325,2,2,,,1762632044,FALSE
+3,13,Tax exemption for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including specific tax regulations or exemptions for institutions like the German Jordanian University.  
+
+To get accurate information about tax exemptions for the German Jordanian University, I recommend you:
+
+* **Contact the German Jordanian University's finance or HR department directly.** They will be able to provide you with the most up-to-date and accurate information.
+* **Consult with a tax professional in Jordan.** They can advise you on the specific tax laws and regulations that apply.
+* **Refer to the official website of the Jordanian tax authority.** They may have published information about tax exemptions for educational institutions. 
+
+
+I hope this helps!",1.422001123,2,2,,,1762632045,FALSE
+3,14,Health insurance for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific details about employee benefits like health insurance for German Jordanian University.  
+
+To get accurate information about their health insurance plan, you would need to:
+
+* **Check your employee handbook or benefits package:** This should outline the details of the health insurance offered.
+* **Contact the Human Resources department at GJU:** They will be able to provide you with the most up-to-date information.
+* **Visit the GJU intranet or employee portal:**  Some universities post benefit information online for employees. 
+
+
+I hope this helps!",1.250756741,2,2,,,1762632046,FALSE
+3,15,University contribution to health insurance for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including specific details about company benefits like health insurance contributions for German Jordanian University.  
+
+To find this information, I recommend checking:
+
+* **Your employee handbook:** This should outline your benefits package, including health insurance details.
+* **Your university's HR department:** They can provide you with the most accurate and up-to-date information.
+* **Your payslip:** Your health insurance contribution may be listed on your payslip. 
+
+
+I hope this helps!",1.427312851,2,2,,,1762632048,FALSE
+3,16,Academic staff grades for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific information like academic staff grades for German Jordanian University.  
+
+To find this information, I recommend checking the following:
+
+* **The German Jordanian University's official website:** Look for a section on ""Faculty"" or ""Staff"" which may list academic ranks.
+* **Contact the university directly:** Reach out to their human resources department or general inquiries office. 
+* **Search for academic directories:** Some online directories list university faculty and their ranks. 
+
+
+Good luck with your research!",1.451766729,2,2,,,1762632049,FALSE
+3,17,Academic staff categories for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to specific information about internal structures of organizations like the German Jordanian University.  
+
+To find the academic staff categories for GJU, I recommend checking their:
+
+* **Official website:** Look for an ""About Us"" or ""Faculty & Staff"" section.
+* **Human Resources department:** They would be the most knowledgeable about staff classifications.
+* **Internal employee handbook or policy documents:** These often outline job titles and categories. 
+
+
+Good luck with your research!",1.405033588,2,2,,,1762632051,FALSE
+3,18,Administrative staff categories for German Jordanian University?,pure,,,gemma-2-9b-it,,"I do not have access to real-time information, including specific internal organizational structures of institutions like the German Jordanian University.  
+
+To find the administrative staff categories at GJU, I recommend checking these resources:
+
+* **GJU's official website:** Look for an ""About Us"" or ""Careers"" section. 
+* **GJU's internal employee handbook or intranet:** If you are a current employee, these resources should list staff categories.
+* **Contact GJU's Human Resources department directly:** They will be able to provide you with the most accurate and up-to-date information. 
+
+
+I hope this helps!",1.520093918,2,2,,,1762632052,FALSE

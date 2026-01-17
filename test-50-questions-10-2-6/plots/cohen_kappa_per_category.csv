@@ -1,0 +1,5 @@
+Category,num_questions,num_rows,cohen_kappa,cohen_CI95_lower,cohen_CI95_upper
+Regular Allowance,14,42,0.9239130434782609,0.8082008165067803,1
+Income Tax,12,36,1.0,1.0,1
+Health Insurance,12,36,1.0,1.0,1
+Employee Attributes,12,36,1.0,1.0,1

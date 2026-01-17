@@ -1,0 +1,2 @@
+context_type,chunk_size,top_k,embedding_model,model,avg_score_mean,avg_score_std,latency_mean,latency_std,rank
+hybrid,750,15,sentence-transformers/all-mpnet-base-v2,Qwen2.5-72B-Instruct,9.49,1.6833870459014244,6.7048092125466665,2.300177179189537,1

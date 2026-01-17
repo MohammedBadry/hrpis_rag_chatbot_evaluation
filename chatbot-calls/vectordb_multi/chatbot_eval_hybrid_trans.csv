@@ -1,0 +1,29 @@
+run_id,subrun_id,question,context_type,chunk_size,top_k,model,embedding_model,answer,latency_sec,reviewer1_score,reviewer2_score,citation_present,confidence_score,timestamp,faq_fallback_used
+1,1,"Basic salary (for academic staff, admin staff, and students, as applicable)",hybrid,750,15,Qwen2.5-72B-Instruct,sentence-transformers/all-mpnet-base-v2,"The basic salary for academic staff at the University is defined as follows:
+
+- **Professor**: 851 JOD to 401 JOD
+- **Associate Professor**: 439 JOD to 354 JOD
+- **Assistant Professor**: 341 JOD to 301 JOD
+- **Practicing Professor**: 340 JOD to 300 JOD
+- **Lecturer**: 205 JOD to 163 JOD
+- **Assistant Lecturer**: 191 JOD to 95 JOD
+
+For administrative staff, the basic salary scale is defined as follows:
+
+- **First Class**:
+  - A: 494 JOD to 359 JOD
+  - B: 315 JOD to 279 JOD
+- **Second Class**:
+  - A: 258 JOD to 230 JOD
+  - B: 214 JOD to 186 JOD
+- **Third Class**:
+  - A: 189 JOD to 165 JOD
+  - B: 157 JOD to 133 JOD
+- **Fourth Class**:
+  - A: 145 JOD to 121 JOD
+  - B: 111 JOD to 87 JOD
+- **Fifth Class**: 85 JOD to 65 JOD
+- **Sixth Class**: 62 JOD to 46 JOD
+- **Seventh Class**: 46 JOD to 34 JOD
+
+For students, there is no mention of a basic salary in the provided documents. [gju_payroll_laws.pdf]",12.53257441520691,,,True,0.5681316084526378,1767998170.5143912,False

@@ -1,0 +1,182 @@
+question,question_label,answer,mean_score,score_std,score_CI95,mean_latency,latency_std,citation_present,cohen_kappa,cohen_CI95_lower,cohen_CI95_upper
+Basic salary,Q1,"The basic salary is the fixed base remuneration an employee receives before any allowances, bonuses, or benefits. The context provided does not specify a single basic salary amount; it provides a range of basic salaries for different ranks and classes. For example, the basic salary for a Professor ranges from 401 to 851 JOD, and for an Associate Professor, it ranges from 391 to 439 JOD [gju_payroll_laws.pdf].  These salaries are subject to annual increases and other adjustments as specified in the regulations [gju_payroll_laws.pdf]. If you need a specific basic salary, please provide the rank and class.",9.333333333333334,1.0327955589886446,"(8.249480865004355, 10.417185801662313)",3.1880079109999997,1.013424696054936,True,1.0,1.0,1.0
+Basic salary?,Q2,"The basic salary is the fixed base remuneration an employee receives before any allowances, bonuses, or benefits. The basic salary for different positions at the University is defined in various sections of the provided document. Here are some examples:
+
+1. **Faculty Members:**
+   - Professor: 401 to 851 JOD [gju_payroll_laws.pdf]
+   - Associate Professor: 391 to 439 JOD (Class A) and 306 to 354 JOD (Class B) [gju_payroll_laws.pdf]
+   - Assistant Professor: 301 to 341 JOD (Class A) and 248 to 288 JOD (Class B) [gju_payroll_laws.pdf]
+   - Practicing Professor: 300 to 340 JOD (Class A) and 228 to 268 JOD (Class B) [gju_payroll_laws.pdf]
+   - Lecturer: 222 to 264 JOD (Class A) and 163 to 205 JOD (Class B) [gju_payroll_laws.pdf]
+   - Assistant Lecturer: 95 to 191 JOD [gju_payroll_laws.pdf]
+
+2. **Administrative Staff:**
+   - First Rank: 359 to 494 JOD (Class A) and 279 to 315 JOD (Class B) [gju_payroll_laws.pdf]
+   - Second Rank: 230 to 258 JOD (Class A) and 186 to 214 JOD (Class B) [gju_payroll_laws.pdf]
+   - Third Rank: 165 to 189 JOD (Class A) and 133 to 157 JOD (Class B) [gju_payroll_laws.pdf]
+   - Fourth Rank: 121 to 145 JOD (Class A) and 87 to 111 JOD (Class B) [gju_payroll_laws.pdf]
+   - Fifth Rank: 65 to 85 JOD [gju_payroll_laws.pdf]
+   - Sixth Rank: 46 to 62 JOD [gju_payroll_laws.pdf]
+   - Seventh Rank: 34 to 46 JOD [gju_payroll_laws.pdf]
+
+3. **Specific Positions:**
+   - Workers Supervisor: Daily wage of 9.550 Dinar [gju_payroll_laws.pdf]
+   - Guard: Daily wage of 9.550 Dinar [gju_payroll_laws.pdf]
+   - Worker as Office Boy/Photocopying: Daily wage of 8.340 Dinar [gju_payroll_laws.pdf]
+   - Craftsmen: Daily wage of 9.797 Dinar [gju_payroll_laws.pdf]
+
+For other job titles, the daily salary is calculated using the formula: (Monthly gross salary * 12) / 365 [gju_payroll_laws.pdf].
+
+If you need the basic salary for a specific position or rank, please provide more details.",9.0,1.0954451150103321,"(7.8504008547582025, 10.149599145241798)",16.29896688366667,12.119943385215585,True,0.3999999999999999,-0.6371345139373197,1.0
+What is the basic salary?,Q3,"The basic salary is the fixed base remuneration an employee receives before any allowances, bonuses, or benefits. The basic salary for different positions at the University is defined in various sections of the provided document.  Here are some examples:
+
+1. **Faculty Members:**
+   - Professor: 401 to 851 JOD [gju_payroll_laws.pdf]
+   - Associate Professor: 391 to 439 JOD (Class A) and 306 to 354 JOD (Class B) [gju_payroll_laws.pdf]
+   - Assistant Professor: 301 to 341 JOD (Class A) and 248 to 288 JOD (Class B) [gju_payroll_laws.pdf]
+   - Practicing Professor: 300 to 340 JOD (Class A) and 228 to 268 JOD (Class B) [gju_payroll_laws.pdf]
+   - Lecturer: 222 to 264 JOD (Class A) and 163 to 205 JOD (Class B) [gju_payroll_laws.pdf]
+   - Assistant Lecturer: 95 to 191 JOD [gju_payroll_laws.pdf]
+
+2. **Administrative Staff:**
+   - First Rank: 359 to 494 JOD (Class A) and 279 to 315 JOD (Class B) [gju_payroll_laws.pdf]
+   - Second Rank: 230 to 258 JOD (Class A) and 186 to 214 JOD (Class B) [gju_payroll_laws.pdf]
+   - Third Rank: 165 to 189 JOD (Class A) and 133 to 157 JOD (Class B) [gju_payroll_laws.pdf]
+   - Fourth Rank: 121 to 145 JOD (Class A) and 87 to 111 JOD (Class B) [gju_payroll_laws.pdf]
+   - Fifth Rank: 65 to 85 JOD [gju_payroll_laws.pdf]
+   - Sixth Rank: 46 to 62 JOD [gju_payroll_laws.pdf]
+   - Seventh Rank: 34 to 46 JOD [gju_payroll_laws.pdf]
+
+3. **Specific Positions:**
+   - Workers Supervisor: Daily wage of 9.550 Dinar [gju_payroll_laws.pdf]
+   - Guard: Daily wage of 9.550 Dinar [gju_payroll_laws.pdf]
+   - Worker as Office Boy/Photocopying: Daily wage of 8.340 Dinar [gju_payroll_laws.pdf]
+   - Craftsmen: Daily wage of 9.797 Dinar [gju_payroll_laws.pdf]",9.0,1.0954451150103321,"(7.8504008547582025, 10.149599145241798)",17.14121747333333,2.1853804675155635,True,0.3999999999999999,-0.6371345139373197,1.0
+What is the basic salary definition?,Q4,"The basic salary scale for staff at the University is defined in the document [gju_payroll_laws.pdf]. It outlines the annual salary ranges for different ranks and classes. For example, the First Rank Class A has an annual salary range from 359 to 494 dinars, and the Sixth Rank Class A has an annual salary range from 46 to 62 dinars. The basic salary is the foundational amount of pay before any bonuses, allowances, or other benefits are added.These salaries are subject to annual increases and other adjustments as specified in the regulations.",10.0,0.0,"(10.0, 10.0)",4.4745361013333325,0.3870260916011811,True,1.0,1.0,1.0
+Transportation allowance,Q5,"Transportation allowance is provided to faculty members and employees at the University as follows:
+
+- **Faculty Members:**
+  - President: 170 JOD
+  - Vice President and Dean: 100 JOD
+  - Vice Dean and President Assistant of the Faculty Members: 90 JOD
+  - Faculty Member: 80 JOD
+
+- **Employees:**
+  - Third or Fourth Categories: 60 dinars
+  - Fifth or Sixth Categories: 40 dinars
+  - Seventh Category: 24 dinars
+
+**Additional Notes:**
+- Faculty members assigned with contracts receive a transportation bonus equal to staff receiving the same salary (as per Paragraph B of the relevant Article).
+- Employees working with holistic salaries or contracts also receive transportation bonuses equal to those determined for their equivalents in terms of rank and salary (as per Paragraph B of the relevant Article).
+- No individual can receive more than one bonus stipulated in the Article (as per Paragraph C of the relevant Article).
+- The bonus is not disbursed to any individual for whom the University has allocated a car or provided regular transportation (as per Paragraph D of the relevant Article).
+
+[Source: gju_payroll_laws.pdf]",7.0,1.5491933384829668,"(5.374221297506532, 8.625778702493468)",5.113094965666666,0.809178271132612,True,1.0,1.0,1.0
+Transportation allowance?,Q6,"The transportation allowance varies based on the position of the faculty member at the University, as outlined in [gju_payroll_laws.pdf]:
+
+1. President: 170 JOD
+2. Vice President and Dean: 100 JOD
+3. Vice Dean and President Assistant of the Faculty Members: 90 JOD
+4. Faculty Member: 80 JOD
+
+Additionally, faculty members with contracts are granted a transportation bonus equal to staff receiving the same salary, as per Paragraph (B) of the Article [gju_payroll_laws.pdf]. However, no faculty member can receive more than one bonus as stipulated in Paragraph (C) of the Article [gju_payroll_laws.pdf]. Furthermore, those who have a vehicle dedicated to them from the University or are always provided with transportation are not eligible for these bonuses [gju_payroll_laws.pdf].",6.5,1.6431676725154984,"(4.775601282137303, 8.224398717862698)",4.6499462923333335,0.16696390918153245,True,0.3999999999999999,-0.6371345139373197,1.0
+List transportation allowance values for all,Q7,"The transportation allowance values for all categories are as follows:
+
+- President: 170 JOD [gju_payroll_laws.pdf]
+- Vice President and dean: 100 JOD [gju_payroll_laws.pdf]
+- Vice dean and President assistant of the faculty members: 90 JOD [gju_payroll_laws.pdf]
+- Faculty member: 80 JOD [gju_payroll_laws.pdf]
+- Employee of third or fourth categories: 60 dinars [gju_payroll_laws.pdf]
+- Employee of the fifth or sixth categories: 40 dinars [gju_payroll_laws.pdf]
+- Employee of seventh category: 24 dinars [gju_payroll_laws.pdf]",8.0,0.0,"(8.0, 8.0)",4.65342021,0.3008703402626424,True,1.0,1.0,1.0
+"List transportation allowance values for all, including dean",Q8,"Based on the provided context, the transportation allowance values for the positions listed are as follows:
+
+1. President: 170 JOD [gju_payroll_laws.pdf]
+2. Vice President and Dean: 100 JOD [gju_payroll_laws.pdf]
+3. Vice Dean and President Assistant of the Faculty Members: 90 JOD [gju_payroll_laws.pdf]
+4. Faculty Member: 80 JOD [gju_payroll_laws.pdf]
+5. Employee of Third or Fourth Categories: 60 JOD [gju_payroll_laws.pdf]
+6. Employee of Fifth or Sixth Categories: 40 JOD [gju_payroll_laws.pdf]
+7. Employee of Seventh Category: 24 JOD [gju_payroll_laws.pdf]
+
+Note that the specific allowance for a ""Dean"" is not explicitly listed, but it is included under ""Vice President and Dean"" with a value of 100 JOD.",8.0,0.0,"(8.0, 8.0)",6.670428355333333,1.2907164490812784,True,1.0,1.0,1.0
+Family allowance?,Q9,"The family allowance, as per the provided documents, is structured as follows:
+
+1. **University Staff Family Bonus**:
+   - A monthly family bonus of 7 dinars for the wife and 2 dinars for each of the first four children is given to University staff [gju_payroll_laws.pdf].
+
+2. **Conditions for Family Bonus**:
+   - The family bonus is not given for children who have completed 18 years of age, unless they are still in secondary school or undergraduate programs or have special needs [gju_payroll_laws.pdf].
+   - The family bonus is also not given for a wife who is working at or getting paid monthly by a public or private institution [gju_payroll_laws.pdf].
+
+3. **Polygamy and Family Bonus**:
+   - If the employee has more than one wife, the bonus is given for only one wife if he has four children. If his children are less than four, the other wives will get the bonus, as long as the total number of wives and children does not exceed four [gju_payroll_laws.pdf].
+
+4. **Additional Information**:
+   - Faculty members at the University receive a personal allowance of 45 JODs if their basic salary is 130 JODs or over, and 31 JODs if their basic salary is less than 130 JODs [gju_payroll_laws.pdf].
+
+These details are derived from the documents [gju_payroll_laws.pdf] and [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].",10.0,0.0,"(10.0, 10.0)",6.803690671999999,2.352106932492715,True,1.0,1.0,1.0
+Family bonus?,Q10,"The family bonus for University staff is as follows:
+
+- 7 dinars for the wife.
+- 2 dinars for each of the first four children.
+
+Additional details:
+- If the employee has more than one wife, the bonus is given for only one wife if he has four children. If he has fewer than four children, the other wives will get the bonus, provided the total number of wives and children does not exceed four.
+- The family bonus is not given for children who have completed eighteen years of age, unless they are still in secondary school or undergraduate programs or have special needs.
+- The family bonus is also not given for a wife who is working at or getting paid monthly by a public or private institution. [gju_payroll_laws.pdf]",10.0,0.0,"(10.0, 10.0)",5.653573672,0.7461297955168708,True,1.0,1.0,1.0
+What is the family bonus?,Q11,"The family bonus is a financial benefit provided to University staff, which includes:
+
+- 7 JOD for the wife.
+- 2 JOD for each of the first four children.
+
+Additional provisions include:
+- If the employee has more than one wife, the bonus is given for only one wife if he has four children. If the employee has less than four children, the other wives will get the bonus, as long as the total number of wives and children does not exceed four.
+- The bonus is not given for children who have completed eighteen years of age, unless they are still in secondary school or undergraduate programs or have special needs.
+- The bonus is also not given for a wife who is working at or getting paid monthly by a public or private institution. [gju_payroll_laws.pdf]",10.0,0.0,"(10.0, 10.0)",6.753665048666666,3.1898831760260897,True,1.0,1.0,1.0
+What is the family bonus for wife?,Q12,The family bonus for the wife is 7 dinars [gju_payroll_laws.pdf].,8.0,0.0,"(8.0, 8.0)",1.7310360273333332,0.30669957178372875,True,1.0,1.0,1.0
+Tax exemption?,Q13,"To clarify the tax exemptions based on the provided documents:
+
+1. **Personal and Dependent Exemptions:**
+   - The taxpayer and their spouse are each granted an exemption of 1,000 dinars for medical expenses, educational expenses, rent, home loan interest, and murabaha, starting from the year 2020 onwards [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].
+   - For each dependent child, the exemption is 1,000 dinars, with a maximum of 3,000 dinars for all children combined [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].
+
+2. **Donations and Subscriptions:**
+   - Donations to public corporations, departments, or municipalities, and donations for religious, charitable, humanitarian, scientific, environmental, sport, or professional purposes, are deductible from gross income if approved by the Council of Ministers [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].
+
+3. **Exempt Entities:**
+   - Political parties, trade unions, professional associations, and non-profit organizations are exempt from income tax [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].
+   - Non-profit religious, charitable, cultural, educational, sport, or health organizations are also exempt [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].
+
+4. **Non-Resident Income:**
+   - Non-resident persons are subject to a 10% withholding tax on non-exempt income paid to them [kta_document_(50).pdf].
+
+5. **Special Exemptions:**
+   - Specific entities and organizations, such as the King, official public institutions, and certain charitable foundations, are exempt from income tax [income_tax_law_no_34_of_2014_amended_by_law_no_38_of_2018.pdf].
+
+If you need more specific details or have a particular scenario in mind, please provide additional information.",8.666666666666666,1.0327955589886446,"(7.582814198337687, 9.750519134995645)",13.078684169999997,1.7368879294413322,True,1.0,1.0,1.0
+Health insurance?,Q14,"Health insurance at the German Jordanian University is mandatory for all students enrolled to obtain any degree or scientific certificate, including private study students, and it takes effect upon payment of university fees [gju_payroll_laws.pdf]. For employees, membership in health insurance is optional, but they can include certain beneficiaries such as their spouse, parents, children under 18, and children up to 25 years old if enrolled in educational institutions [gju_payroll_laws.pdf]. The insurance does not cover specific treatments like dental care (except for extractions and gum diseases), plastic surgery, and certain other exclusions listed in the regulation [gju_payroll_laws.pdf].",10.0,0.0,"(10.0, 10.0)",5.553731441333333,2.3823766238144066,True,1.0,1.0,1.0
+University contribution to health insurance?,Q15,"The University contributes to covering the health insurance expenses as allocated from its budget, as decided by the University Council upon the recommendation of the Health Insurance Committee [gju_payroll_laws.pdf].",10.0,0.0,"(10.0, 10.0)",2.6560717423333333,0.9513762474651922,True,1.0,1.0,1.0
+Academic staff grades?,Q16,"The academic staff's grades or evaluations are based on the weighted average of the evaluations from students, which is calculated according to Article (11) of the instructions [gju_payroll_laws.pdf]. Additionally, the performance report, which includes the evaluation of teaching performance, is filled out by the school dean and head of department, regardless of the academic rank of the faculty member [gju_payroll_laws.pdf]. 
+
+For a faculty member to be distinguished in teaching, the weighted average of the student evaluations must be at least the weighted average of the university for the last two years minus five percentage points [gju_payroll_laws.pdf].",2.0,0.0,"(2.0, 2.0)",8.066597701000001,2.8601093957517656,True,1.0,1.0,1.0
+Academic staff categories?,Q17,"The academic staff categories at the University are as follows:
+
+- Professor
+- Associate Professor
+- Assistant Professor
+- Instructor
+- Assistant Instructor
+- Practicing Professor
+
+[Source: gju_payroll_laws.pdf, Article 22]",10.0,0.0,"(10.0, 10.0)",3.1990517776666665,1.3739035850022379,False,1.0,1.0,1.0
+Administrative staff categories?,Q18,"The administrative staff categories at the University are as follows:
+
+1. **Category One**: Includes leading administrative positions or highly technical or service positions within the University, which includes two or more departments. Only employees with a bachelor's degree minimum shall be appointed in this category. [gju_payroll_laws.pdf]
+
+2. **Category Two**: Includes job positions that conduct specialized work in the fields of applied, natural, and human sciences, such as medical, engineering, economic, administrative, legal, educational, and financial, and accounting professions, or the like, and supervise such works. Only employees with a bachelor's degree minimum, in addition to the qualifications and experience, shall be appointed in or promoted to this category. [gju_payroll_laws.pdf]
+
+3. **Category Three**: Includes job positions that conduct basic work in administrative clerical, accounting, training, and warehouses affairs, procurement, libraries, technical works, crafts, vocational fields, or the like, and supervise such works. Only employees with a minimum of diplomas from community colleges or an equivalent shall be appointed in this category. [gju_payroll_laws.pdf]
+
+4. **Category Four**: Includes job positions whose tasks are to conduct assistant vocational craftwork and supervising their execution or performing certain services. [gju_payroll_laws.pdf]",10.0,0.0,"(10.0, 10.0)",9.54942624,1.9390323543145633,True,1.0,1.0,1.0

@@ -1,0 +1,55 @@
+question,avg_score_mean,avg_score_std,latency_mean,latency_std,model,context_type,chunk_size,top_k,embedding_model,question_label
+Basic salary,9.333333333333334,1.0327955589886444,3.1880079109999997,1.013424696054936,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q1
+Basic salary,8.0,0.0,3.241340955,0.11155506214198943,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q1
+Basic salary,7.5,1.224744871391589,1.7233811220000002,0.08998591237002983,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q1
+Basic salary?,9.0,1.0954451150103324,16.298966883666665,12.119943385215585,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q2
+Basic salary?,8.0,0.0,2.0918281873333333,0.27348681691669247,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q2
+Basic salary?,8.0,0.0,1.7057580153333334,0.15801127985917685,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q2
+What is the basic salary?,9.0,1.0954451150103321,17.14121747333333,2.1853804675155644,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q3
+What is the basic salary?,5.333333333333333,4.131182235954578,1.286930879,0.5147230366345973,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q3
+What is the basic salary?,8.666666666666666,1.0327955589886446,2.0394786996666667,0.39479537226493017,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q3
+What is the basic salary definition?,0.0,0.0,1.0387061436666667,0.23291600220381506,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q4
+What is the basic salary definition?,9.333333333333334,1.0327955589886446,1.2489683626666668,0.21405703844951104,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q4
+What is the basic salary definition?,10.0,0.0,4.474536101333333,0.38702609160118123,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q4
+Transportation allowance,8.0,0.0,1.9859712123333333,0.3288342172799106,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q5
+Transportation allowance,7.0,1.5491933384829668,5.113094965666666,0.8091782711326121,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q5
+Transportation allowance,9.333333333333334,1.0327955589886444,2.3608467579999997,0.37957345402629217,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q5
+Transportation allowance?,7.0,1.5491933384829668,1.9789977866666666,0.6621774114035062,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q6
+Transportation allowance?,6.5,1.6431676725154984,4.6499462923333335,0.16696390918153273,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q6
+Transportation allowance?,8.0,0.0,0.9471222556666667,0.23335509241994942,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q6
+List transportation allowance values for all,8.0,0.0,1.1790926456666666,0.22213751654282732,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q7
+List transportation allowance values for all,8.0,0.0,4.65342021,0.3008703402626422,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q7
+List transportation allowance values for all,8.0,0.0,1.5921961463333334,0.405412116595399,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q7
+"List transportation allowance values for all, including dean",8.0,0.0,6.670428355333333,1.2907164490812784,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q8
+"List transportation allowance values for all, including dean",8.666666666666666,1.0327955589886444,3.036471764,0.4745981087442912,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q8
+"List transportation allowance values for all, including dean",10.0,0.0,2.3546713193333333,0.5132818243102589,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q8
+Family allowance?,8.666666666666666,1.0327955589886444,1.148697535,0.2516652697622606,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q9
+Family allowance?,10.0,0.0,3.1272017163333334,1.096784139541108,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q9
+Family allowance?,10.0,0.0,6.803690671999999,2.352106932492715,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q9
+Family bonus?,10.0,0.0,1.9830386636666668,0.32283316572460696,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q10
+Family bonus?,10.0,0.0,2.008181571666667,0.35948485462761826,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q10
+Family bonus?,10.0,0.0,5.653573672,0.7461297955168708,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q10
+What is the family bonus?,10.0,0.0,1.5548244316666668,0.1396388323630938,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q11
+What is the family bonus?,8.0,0.0,1.2318781213333334,0.22009066251718695,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q11
+What is the family bonus?,10.0,0.0,6.753665048666666,3.1898831760260893,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q11
+What is the family bonus for wife?,9.0,1.0954451150103321,1.1236418086666666,0.42660761487891563,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q12
+What is the family bonus for wife?,8.0,0.0,0.990532875,0.15978283992243938,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q12
+What is the family bonus for wife?,8.0,0.0,1.7310360273333332,0.3066995717837287,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q12
+Tax exemption?,8.666666666666666,1.0327955589886444,13.07868417,1.7368879294413317,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q13
+Tax exemption?,8.0,0.0,7.574879010333333,1.9883802225529208,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q13
+Tax exemption?,10.0,0.0,5.773499488666666,0.47742735263180613,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q13
+Health insurance?,7.0,1.5491933384829668,1.182041248,0.16282005199133393,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q14
+Health insurance?,10.0,0.0,1.730512380666667,0.45216103183516443,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q14
+Health insurance?,10.0,0.0,5.553731441333333,2.3823766238144066,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q14
+University contribution to health insurance?,9.333333333333334,1.0327955589886444,1.1712656023333332,0.2290124823453509,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q15
+University contribution to health insurance?,10.0,0.0,2.6560717423333333,0.9513762474651922,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q15
+University contribution to health insurance?,5.0,0.0,1.47912701,0.44905984517441694,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q15
+Academic staff grades?,2.0,0.0,4.277460178,1.3302576771067451,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q16
+Academic staff grades?,2.0,0.0,2.521084864666667,1.0125665594315538,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q16
+Academic staff grades?,2.0,0.0,8.066597701000001,2.8601093957517656,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q16
+Academic staff categories?,10.0,0.0,1.8640080293333334,0.6586988613725607,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q17
+Academic staff categories?,10.0,0.0,1.3238118493333333,0.14326505043903376,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q17
+Academic staff categories?,10.0,0.0,3.1990517776666665,1.373903585002238,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q17
+Administrative staff categories?,7.333333333333333,4.1311822359545785,1.6975611846666665,0.1510411951837135,Mistral-7B-Instruct-v0.3,faiss,750,15,sentence-transformers_all-MiniLM-L6-v2,Q18
+Administrative staff categories?,10.0,0.0,9.54942624,1.9390323543145636,Qwen2.5-72B-Instruct,faiss,750,15,sentence-transformers_all-mpnet-base-v2,Q18
+Administrative staff categories?,10.0,0.0,1.6520694096666666,0.0841864016539092,Gemma-2-9b-it,faiss,750,10,sentence-transformers_all-MiniLM-L6-v2,Q18
