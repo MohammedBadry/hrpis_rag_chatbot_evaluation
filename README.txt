@@ -15,19 +15,19 @@ To reproduce the reported plots and results, navigate to any directory in the re
     -  Operating System: Windows 10 Enterprise LTSC
     -  Hardware: Processor: 12th Gen Intel® Core™ i7-12700H @ 2.30 GHz; Memory: 32 GB RAM.
 
->> Some scripts require access to subscription-based Hugging Face large language models. If a script includes the line
+>> Some scripts require access to subscription-based Hugging Face large language models. If a script includes the line:
 HF_TOKEN = os.getenv("HUGGINGFACE_API_KEY")
 near the beginning, a valid Hugging Face subscription and API key are required to run that script. These scripts invoke cloud-hosted Hugging Face LLMs via their APIs.
 
 >> Scripts that do not reference a Hugging Face API key can be executed locally without any subscription.
 
 3)  FAISS Index and BM25 Databases
-The repository includes prebuilt vector and lexical retrieval databases used in the RAG and hybrid chatbot experiments:
-- faiss db: .\public_dir\test-red-teaming-10-2-7\vectordb_multi\vectordb_faiss_750_all-mpnet-base-v2
-- faiss db: .\public_dir\chatbot-calls\vectordb_multi\vectordb_faiss_750_all-mpnet-base-v2
-- faiss db: .\public_dir\test-red-teaming-10-2-7\vectordb_multi\vectordb_faiss_750_sentence-transformers_all-MiniLM-L6-v2
-- faiss db: .\public_dir\chatbot-calls\vectordb_multi\vectordb_faiss_750_sentence-transformers_all-MiniLM-L6-v2
-- bm25 db: .\public_dir\test-red-teaming-10-2-7\vectordb_multi\vectordb_bm25
+The repository includes prebuilt vector and lexical retrieval databases used in the chatbot experiments:
+  - faiss db: .\public_dir\test-red-teaming-10-2-7\vectordb_multi\vectordb_faiss_750_all-mpnet-base-v2
+  - faiss db: .\public_dir\chatbot-calls\vectordb_multi\vectordb_faiss_750_all-mpnet-base-v2
+  - faiss db: .\public_dir\test-red-teaming-10-2-7\vectordb_multi\vectordb_faiss_750_sentence-transformers_all-MiniLM-L6-v2
+  - faiss db: .\public_dir\chatbot-calls\vectordb_multi\vectordb_faiss_750_sentence-transformers_all-MiniLM-L6-v2
+  - bm25 db: .\public_dir\test-red-teaming-10-2-7\vectordb_multi\vectordb_bm25
 
 4)  Document Corpus and Chatbot Scripts
 >> Document Corpus: PDF documents containing German Jordanian University (GJU) regulations and Jordanian tax law are provided in
@@ -39,7 +39,7 @@ The document ingestion pipeline used to preprocess and index the PDF corpus is l
 .\public_dir\chatbot-ingest.
 
 >> Chatbot Invocation Script:
-The script used to invoke and evaluate chatbot interactions, including pure LLM, RAG-based, and hybrid configurations, are located in:
+The base script used to invoke and evaluate chatbot interactions (chatbot core), including pure LLM, RAG-based, and hybrid configurations, is located in:
 .\public_dir\chatbot-calls.
 
 5)  Reviewer Evaluation Results
