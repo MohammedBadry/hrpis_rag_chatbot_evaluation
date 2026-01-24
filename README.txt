@@ -49,8 +49,6 @@ The repository includes reviewer evaluation results for chatbot responses across
   - Hybrid retrieval RAG model results: chatbot_eval_review_hybrid_only_results.csv
   - Hybrid retrieval RAG with query transformation results: chatbot_eval_review_hybrid_only_with_trans_results.csv
 
-These CSV files contain the aggregated reviewer assessments used for comparative analysis of model performance across pure LLM, RAG-based, and hybrid retrieval configurations
-
 >> The expanded set of 50 evaluation questions, along with their corresponding answer keys, is provided in the file 50_questions_with_ans_keys.xlsx. The experimental results generated using this question set are available in the directory test-50-questions-10-2-6. The Python script and input files required to reproduce these results are also included in this directory.
 
 6) How to Cite
