@@ -37,7 +37,7 @@ from sentence_transformers import CrossEncoder
 load_dotenv()
 HF_TOKEN = os.getenv("HUGGINGFACE_API_KEY")
 if not HF_TOKEN:
-    raise ValueError("❌ Hugging Face token not found. Set HUGGINGFACE_API_KEY in .env")
+    raise ValueError("*** Hugging Face token not found. Set HUGGINGFACE_API_KEY in .env")
 
 # -----------------------------
 # Paths
@@ -109,7 +109,7 @@ for cfg in TOP_CONFIGS:
         if faiss_dir_alt.exists():
             faiss_dir = faiss_dir_alt
         else:
-            print(f"⚠ Skipping missing index: {faiss_dir}")
+            print(f">> Skipping missing index: {faiss_dir}")
             continue
 
     print(f"Loading FAISS index: {faiss_dir}")
@@ -132,7 +132,7 @@ if tokenized_file.exists():
     bm25 = BM25Okapi(chunk_texts)
     chunk_text_map = [" ".join(t) for t in chunk_texts]
 else:
-    print("⚠ BM25 tokenized corpus not found. Hybrid cannot run without BM25.")
+    print(">> BM25 tokenized corpus not found. Hybrid cannot run without BM25.")
     ENABLE_HYBRID = False
 
 # -----------------------------
@@ -140,11 +140,11 @@ else:
 # -----------------------------
 if ENABLE_RERANK:
     cross_encoder_model = "cross-encoder/ms-marco-MiniLM-L-6-v2"
-    print(f"✅ Cross-encoder reranking enabled using {cross_encoder_model}")
+    print(f">> Cross-encoder reranking enabled using {cross_encoder_model}")
     cross_encoder = CrossEncoder(cross_encoder_model)
 else:
     cross_encoder = None
-    print("ℹ Cross-encoder reranking disabled")
+    print(">> Cross-encoder reranking disabled")
 
 # -----------------------------
 # Query function
@@ -185,7 +185,7 @@ print(f"DEBUG: total_iters = {total_iters}")
 
 for run_id in range(1, NUM_RUNS + 1):
     for cfg in TOP_CONFIGS:
-        print(f"\n🔹 Evaluating model: {cfg['model_name']}")
+        print(f"\n>> Evaluating model: {cfg['model_name']}")
         client = InferenceClient(model=cfg["model_id"], token=HF_TOKEN)
         subrun_id = 1
 
@@ -193,7 +193,7 @@ for run_id in range(1, NUM_RUNS + 1):
         faiss_key = f"{cfg['chunk_size']}_{emb_name_safe}"
         db = faiss_indexes.get(faiss_key)
         if db is None or bm25 is None:
-            print(f"⚠ Skipping hybrid for {cfg['model_name']} due to missing FAISS or BM25.")
+            print(f">> Skipping hybrid for {cfg['model_name']} due to missing FAISS or BM25.")
             continue
 
         for q in questions:
@@ -288,9 +288,9 @@ def make_json_safe(obj):
 
 df = pd.DataFrame(results)
 df.to_csv(RESULTS_CSV, index=False)
-print(f"\n✅ CSV results saved to: {RESULTS_CSV}")
+print(f"\n>> CSV results saved to: {RESULTS_CSV}")
 
 safe_results = make_json_safe(results)
 with open(RESULTS_JSON, "w", encoding="utf-8") as f:
     json.dump(safe_results, f, ensure_ascii=False, indent=2)
-print(f"✅ JSON results saved to: {RESULTS_JSON}")
+print(f">> JSON results saved to: {RESULTS_JSON}")

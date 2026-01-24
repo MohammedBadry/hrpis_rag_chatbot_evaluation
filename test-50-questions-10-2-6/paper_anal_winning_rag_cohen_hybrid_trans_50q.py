@@ -202,7 +202,7 @@ summary.to_csv(ranking_file, index=False)
 # -----------------------------
 # Display Results
 # -----------------------------
-print("\n🏆 BEST OVERALL CONFIGURATION:")
+print("\n>> BEST OVERALL CONFIGURATION:")
 best = summary.iloc[0]
 print(
     f"Rank 1 | Model: {best['model']} | Context: {best['context_type']} | "
@@ -211,7 +211,7 @@ print(
     f"Latency: {best['latency_mean']:.3f}s ± {best['latency_std']:.3f}"
 )
 
-print("\n🏅 TOP 10 CONFIGURATIONS (by Reviewer Score):")
+print("\n>> TOP 10 CONFIGURATIONS (by Reviewer Score):")
 print(
     summary.head(10)[
         [
@@ -362,7 +362,7 @@ win_stats_per_question = pd.DataFrame(win_stats_list)
 winning_csv_file = plots_dir / "winning_combination_per_question.csv"
 winning_csv_file.parent.mkdir(parents=True, exist_ok=True)
 win_stats_per_question.to_csv(winning_csv_file, index=False)
-print(f"\n🏆 Winning combination per-question CSV saved as: {winning_csv_file.resolve()}")
+print(f"\n>> Winning combination per-question CSV saved as: {winning_csv_file.resolve()}")
 
 # -----------------------------
 # Compute Cohen's Kappa per Category
@@ -400,7 +400,7 @@ df_kappa_category = pd.DataFrame(kappa_list)
 category_csv_file = plots_dir / "cohen_kappa_per_category.csv"
 category_csv_file.parent.mkdir(parents=True, exist_ok=True)
 df_kappa_category.to_csv(category_csv_file, index=False)
-print(f"\n🏆 Cohen Kappa per Category CSV saved as: {category_csv_file.resolve()}")
+print(f"\n>> Cohen Kappa per Category CSV saved as: {category_csv_file.resolve()}")
 
 # -----------------------------
 # Aggregate overall mean, SD, and 95% CI for scores and latency
@@ -424,8 +424,8 @@ def compute_mean_ci(values, confidence=0.95):
 score_mean, score_std, score_ci_low, score_ci_high = compute_mean_ci(all_scores)
 lat_mean, lat_std, lat_ci_low, lat_ci_high = compute_mean_ci(all_latency)
 
-print("\n📊 Overall Reviewer Score Across All Questions:")
+print("\n>> Overall Reviewer Score Across All Questions:")
 print(f"Mean: {score_mean:.3f} | SD: {score_std:.3f} | 95% CI: [{score_ci_low:.3f}, {score_ci_high:.3f}]")
 
-print("\n⏱ Overall Latency Across All Questions:")
+print("\n>> Overall Latency Across All Questions:")
 print(f"Mean: {lat_mean:.3f}s | SD: {lat_std:.3f}s | 95% CI: [{lat_ci_low:.3f}s, {lat_ci_high:.3f}s]")

@@ -1,0 +1,46 @@
+ID,Title,Feature,Is Defect,Bugs Fixed,Added Sprint,Planned Sprint,Parent Sprint,Week 1,Week 2,Week 3,Week 4,Status,Total Completion,Done,Priority,Assigned To,Defects Found,Defects Fixed,Escaped Defects
+US-001,Task 1,Univ. Entities,0,0.0,1,1,,35,65,0,0,in progress,100,True,,H,0.0,0.0,0.0
+US-002,Task 2,HR Setup Tables,0,0.0,1,1,,0,0,60,40,in progress,100,True,,H,1.0,1.0,0.0
+US-003,Task 3,HR Setup Tables,0,0.0,1,2,,100,0,0,0,in progress,100,True,,H,2.0,2.0,1.0
+US-004,Task 4,Tax Laws,0,0.0,1,2,,0,20,50,30,in progress,100,True,,H,2.0,2.0,1.0
+US-005,Task 5,Social Sec.,0,0.0,1,2,,100,0,0,0,in progress,100,True,,H,0.0,0.0,0.0
+US-006,Task 6,Health Ins. Def.,0,0.0,1,3,,30,40,30,0,in progress,100,True,,H,4.0,4.0,2.0
+US-007,Task 7,Salary Def. Tables,0,0.0,1,1,,25,25,25,25,in progress,100,True,,A,1.0,1.0,0.0
+US-008,Task 8,Salary Def. Tables,0,0.0,1,2,,100,0,0,0,in progress,100,True,,A,1.0,1.0,1.0
+US-009,Task 9,Allowance Types,0,0.0,1,2,,25,75,0,0,in progress,100,True,,A,3.0,3.0,1.0
+US-010,Task 10,Deduction Types,0,0.0,1,2,,0,25,50,25,in progress,100,True,,A,4.0,4.0,2.0
+US-011,Task11,Salary Slip Items,0,0.0,1,3,,50,50,0,0,in progress,100,True,,A,2.0,2.0,2.0
+US-012,Task 12,Salary Slip Tmplts,0,0.0,1,3,,0,0,50,50,in progress,100,True,,A,1.0,1.0,0.0
+US-013,Task 13,Upload Telephones,0,0.0,1,4,,100,0,0,0,in progress,100,True,,H,2.0,2.0,1.0
+US-014,Task 14,Upload Assoc. Fees,0,0.0,1,4,,100,0,0,0,in progress,100,True,,A,1.0,1.0,1.0
+US-015,Task 15,Post Emp Allowances,0,0.0,3,4,,0,30,40,30,in progress,100,True,,H,3.0,3.0,2.0
+US-016,Task 16,Post Emp Deductions,0,0.0,3,4,,0,30,40,30,in progress,100,True,,A,4.0,4.0,3.0
+US-017,Task 17,Emp Health Ins.,0,0.0,3,5,,25,25,40,10,in progress,100,True,,H,2.0,2.0,2.0
+US-018,Task 18,Emp Allow/Ded,0,0.0,3,5,,30,30,25,15,in progress,100,True,,A,4.0,4.0,3.0
+US-019,Task 19,Read Salary HR Input,0,0.0,3,3,,25,25,25,25,in progress,100,True,,F,1.0,1.0,0.0
+US-020,Task 20,Read SalaryPayroll Input,0,0.0,3,4,,25,25,25,25,in progress,100,True,,F,1.0,1.0,0.0
+US-021,Task 21,Read Salary Health/Tax/Soc.,0,0.0,3,5,,25,25,25,25,in progress,100,True,,F,4.0,4.0,1.0
+US-022,Task 22,HR Reports,0,0.0,4,6,,25,25,25,25,in progress,100,True,,H,2.0,2.0,1.0
+US-023,Task 23,Payroll Reports,0,0.0,4,6,,25,25,25,25,in progress,100,True,,A,1.0,1.0,2.0
+US-024,Task 24,Individual Salary Computation,0,0.0,3,6,,25,25,25,25,in progress,100,True,,F,10.0,10.0,6.0
+US-025,Task 25,Bulk Salary Computation,0,0.0,3,7,,25,30,35,10,in progress,100,True,,F,4.0,4.0,3.0
+US-026,Task 26,HR Reports,0,0.0,4,7,,25,25,25,25,in progress,100,True,,H,1.0,1.0,3.0
+US-027,Task 27,Payroll Reports,0,0.0,4,7,,25,25,25,25,in progress,100,True,,A,2.0,2.0,4.0
+US-028,Task 28,Retroactive Salary Calcs.,0,0.0,6,8,,25,25,25,25,in progress,100,True,,F,5.0,5.0,2.0
+US-029,Task 29,View Salary Slips,0,0.0,6,8,,25,25,25,25,in progress,100,True,,H,1.0,1.0,0.0
+US-030,Task 30,Generate Tax Slips,0,0.0,6,8,,25,25,25,25,in progress,100,True,,A,4.0,4.0,3.0
+US-031,Task 31,View Aca Salary Scale,0,0.0,6,9,,30,30,40,0,in progress,100,True,,H,1.0,1.0,0.0
+US-032,Task 32,View Admin Salary Scale,0,0.0,6,9,,30,40,30,0,in progress,100,True,,A,2.0,2.0,0.0
+US-033,Task 33,Salary Reports,0,0.0,6,9,,25,25,25,25,in progress,100,True,,F,5.0,5.0,2.0
+US-034,Task 34,Alpha Test,0,0.0,1,10,,25,25,25,25,in progress,100,True,,TEAM,15.0,15.0,0.0
+US-036,Task 36,Beta Test,0,0.0,1,11,,25,25,25,25,in progress,100,True,,Fin/HR,8.0,8.0,0.0
+US-037,Task 37,Bug Fixing,1,2.0,2,2,1.0,25,25,25,25,in progress,100,True,,TEAM,0.0,0.0,0.0
+US-038,Task 38,Bug Fixing,1,12.0,3,3,2.0,25,25,25,25,in progress,100,True,,TEAM,0.0,0.0,0.0
+US-039,Task 39,Bug Fixing,1,8.0,4,4,3.0,25,25,25,25,in progress,100,True,,TEAM,0.0,0.0,0.0
+US-040,Task 40,Bug Fixing,1,11.0,5,5,4.0,25,25,25,25,in progress,100,True,,TEAM,0.0,0.0,0.0
+US-041,Task 41,Bug Fixing,1,10.0,6,6,5.0,25,25,25,25,in progress,100,True,,TEAM,0.0,0.0,0.0
+US-042,Task 42,Bug Fixing,1,9.0,7,7,6.0,25,25,25,25,in progress,100,True,,TEAM,0.0,0.0,0.0
+US-043,Task 43,Bug Fixing,1,6.0,8,8,7.0,25,25,25,25,in progress,100,True,,TEAM,0.0,0.0,0.0
+US-044,Task 44,Bug Fixing,1,4.0,9,9,7.0,25,25,25,25,in progress,100,True,,TEAM,0.0,0.0,0.0
+US-045,Task 45,Bug Fixing,1,5.0,10,10,8.0,25,25,25,25,in progress,100,True,,TEAM,0.0,0.0,0.0
+US-046,Task 46,Bug Fixing,1,2.0,11,11,9.0,25,25,25,25,in progress,100,True,,TEAM,0.0,0.0,0.0

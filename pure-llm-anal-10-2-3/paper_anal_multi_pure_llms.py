@@ -285,7 +285,7 @@ plt.close()
 # -----------------------------
 # Display Results
 # -----------------------------
-print("\n🏆 BEST OVERALL PURE CONFIGURATION:")
+print("\n BEST OVERALL PURE CONFIGURATION:")
 best = summary.iloc[0]
 print(
     f"Rank 1 | Model: {best['model']} | "
@@ -295,7 +295,7 @@ print(
     f"(95% CI: {best['latency_ci95_lower']:.3f}–{best['latency_ci95_upper']:.3f})"
 )
 
-print("\n🏅 TOP 10 PURE CONFIGURATIONS (by Reviewer Score):")
+print("\n TOP 10 PURE CONFIGURATIONS (by Reviewer Score):")
 print(
     summary.head(10)[
         [
@@ -313,7 +313,7 @@ print(
     ].to_string(index=False)
 )
 
-print(f"\n✅ All PURE plots saved in: {plots_dir.resolve()}")
-print(f"✅ PURE ranking file saved as: {ranking_file.resolve()}")
-print(f"✅ Cohen's κ per question saved as: {plots_dir / 'cohens_kappa_per_question.csv'}")
-print(f"✅ Question-wise score CI saved as: {plots_dir / 'question_scores_ci95.csv'}")
+print(f"\n *** All PURE plots saved in: {plots_dir.resolve()}")
+print(f" *** PURE ranking file saved as: {ranking_file.resolve()}")
+print(f" *** Cohen's κ per question saved as: {plots_dir / 'cohens_kappa_per_question.csv'}")
+print(f" *** Question-wise score CI saved as: {plots_dir / 'question_scores_ci95.csv'}")

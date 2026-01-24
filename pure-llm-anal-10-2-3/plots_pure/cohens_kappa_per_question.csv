@@ -1,0 +1,19 @@
+question,question_label,cohen_kappa,ci95_lower,ci95_upper
+Basic salary for German Jordanian University,Q1,0.7692307692307692,0.351769672530271,1.1866918659312673
+Basic salary for German Jordanian University?,Q2,1.0,1.0,1.0
+What is the basic salary for German Jordanian University?,Q3,1.0,1.0,1.0
+What is the basic salary definition for German Jordanian University?,Q4,1.0,1.0,1.0
+Transportation allowance for German Jordanian University,Q5,1.0,1.0,1.0
+Transportation allowance for German Jordanian University?,Q6,1.0,1.0,1.0
+List transportation allowance values for all for German Jordanian University,Q7,,,
+"List transportation allowance values for all, including dean for German Jordanian University",Q8,0.2702702702702702,-0.3587489321782249,0.8992894727187652
+Family allowance for German Jordanian University?,Q9,,,
+Family bonus for German Jordanian University?,Q10,1.0,1.0,1.0
+What is the family bonus for German Jordanian University?,Q11,,,
+What is the family bonus for wife for German Jordanian University?,Q12,,,
+Tax exemption for German Jordanian University?,Q13,1.0,1.0,1.0
+Health insurance for German Jordanian University?,Q14,1.0,1.0,1.0
+University contribution to health insurance for German Jordanian University?,Q15,1.0,1.0,1.0
+Academic staff grades for German Jordanian University?,Q16,1.0,1.0,1.0
+Academic staff categories for German Jordanian University?,Q17,1.0,1.0,1.0
+Administrative staff categories for German Jordanian University?,Q18,,,
